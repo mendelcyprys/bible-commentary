@@ -1,0 +1,13 @@
+# Exodus - Chapter 40
+
+- [Verse 1](01_verse.md)
+- [Verse 2](02_verse.md)
+- [Verse 3](03_verse.md)
+- [Verse 4](04_verse.md)
+- [Verse 5](05_verse.md)
+- [Verse 6](06_verse.md)
+- [Verse 7](07_verse.md)
+- [Verse 8](08_verse.md)
+- [Verse 9](09_verse.md)
+- [Verse 10](10_verse.md)
+- [Verse 11](README.md)
