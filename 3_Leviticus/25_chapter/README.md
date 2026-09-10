@@ -55,4 +55,3 @@
 - [Verse 53](53_verse.md)
 - [Verse 54](54_verse.md)
 - [Verse 55](55_verse.md)
-- [Verse 56](README.md)

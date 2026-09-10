@@ -27,4 +27,3 @@
 - [Verse 25](25_verse.md)
 - [Verse 26](26_verse.md)
 - [Verse 27](27_verse.md)
-- [Verse 28](README.md)

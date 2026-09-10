@@ -59,4 +59,3 @@
 - [Verse 57](57_verse.md)
 - [Verse 58](58_verse.md)
 - [Verse 59](59_verse.md)
-- [Verse 60](README.md)

@@ -16,4 +16,3 @@
 - [Verse 14](14_verse.md)
 - [Verse 15](15_verse.md)
 - [Verse 16](16_verse.md)
-- [Verse 17](README.md)

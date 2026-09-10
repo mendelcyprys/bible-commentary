@@ -69,4 +69,3 @@
 - [Verse 67](67_verse.md)
 - [Verse 68](68_verse.md)
 - [Verse 69](69_verse.md)
-- [Verse 70](README.md)

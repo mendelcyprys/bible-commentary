@@ -89,4 +89,3 @@
 - [Verse 87](87_verse.md)
 - [Verse 88](88_verse.md)
 - [Verse 89](89_verse.md)
-- [Verse 90](README.md)

@@ -51,4 +51,3 @@
 - [Verse 49](49_verse.md)
 - [Verse 50](50_verse.md)
 - [Verse 51](51_verse.md)
-- [Verse 52](README.md)

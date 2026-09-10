@@ -47,4 +47,3 @@
 - [Verse 45](45_verse.md)
 - [Verse 46](46_verse.md)
 - [Verse 47](47_verse.md)
-- [Verse 48](README.md)

@@ -40,4 +40,3 @@
 - [Verse 38](38_verse.md)
 - [Verse 39](39_verse.md)
 - [Verse 40](40_verse.md)
-- [Verse 41](README.md)

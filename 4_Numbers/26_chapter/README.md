@@ -65,4 +65,3 @@
 - [Verse 63](63_verse.md)
 - [Verse 64](64_verse.md)
 - [Verse 65](65_verse.md)
-- [Verse 66](README.md)

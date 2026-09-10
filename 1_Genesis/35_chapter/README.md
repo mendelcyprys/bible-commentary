@@ -29,4 +29,3 @@
 - [Verse 27](27_verse.md)
 - [Verse 28](28_verse.md)
 - [Verse 29](29_verse.md)
-- [Verse 30](README.md)

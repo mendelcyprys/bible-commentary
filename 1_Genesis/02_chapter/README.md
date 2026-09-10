@@ -25,4 +25,3 @@
 - [Verse 23](23_verse.md)
 - [Verse 24](24_verse.md)
 - [Verse 25](25_verse.md)
-- [Verse 26](README.md)

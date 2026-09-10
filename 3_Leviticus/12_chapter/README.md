@@ -8,4 +8,3 @@
 - [Verse 6](06_verse.md)
 - [Verse 7](07_verse.md)
 - [Verse 8](08_verse.md)
-- [Verse 9](README.md)

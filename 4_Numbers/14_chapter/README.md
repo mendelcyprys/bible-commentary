@@ -45,4 +45,3 @@
 - [Verse 43](43_verse.md)
 - [Verse 44](44_verse.md)
 - [Verse 45](45_verse.md)
-- [Verse 46](README.md)

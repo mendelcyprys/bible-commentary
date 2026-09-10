@@ -38,4 +38,3 @@
 - [Verse 36](36_verse.md)
 - [Verse 37](37_verse.md)
 - [Verse 38](38_verse.md)
-- [Verse 39](README.md)

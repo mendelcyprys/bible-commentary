@@ -12,4 +12,3 @@
 - [Verse 10](10_verse.md)
 - [Verse 11](11_verse.md)
 - [Verse 12](12_verse.md)
-- [Verse 13](README.md)

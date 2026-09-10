@@ -21,4 +21,3 @@
 - [Verse 19](19_verse.md)
 - [Verse 20](20_verse.md)
 - [Verse 21](21_verse.md)
-- [Verse 22](README.md)

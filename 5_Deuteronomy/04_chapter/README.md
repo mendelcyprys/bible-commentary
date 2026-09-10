@@ -49,4 +49,3 @@
 - [Verse 47](47_verse.md)
 - [Verse 48](48_verse.md)
 - [Verse 49](49_verse.md)
-- [Verse 50](README.md)
