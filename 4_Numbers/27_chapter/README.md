@@ -1,4 +1,4 @@
-# Numbers - Chapter 36
+# Numbers - Chapter 27
 
 - [Verse 1](01_verse.md)
 - [Verse 2](02_verse.md)

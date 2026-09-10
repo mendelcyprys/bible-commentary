@@ -1,4 +1,4 @@
-# Leviticus - Chapter 27
+# Leviticus - Chapter 20
 
 - [Verse 1](01_verse.md)
 - [Verse 2](02_verse.md)

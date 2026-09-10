@@ -1,4 +1,4 @@
-# Exodus - Chapter 40
+# Exodus - Chapter 1
 
 - [Verse 1](01_verse.md)
 - [Verse 2](02_verse.md)

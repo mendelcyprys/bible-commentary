@@ -1,4 +1,4 @@
-# Genesis - Chapter 50
+# Genesis - Chapter 42
 
 - [Verse 1](01_verse.md)
 - [Verse 2](02_verse.md)
