@@ -19,6 +19,9 @@
 **Arabic script:**
 وملكي صدق ملك يروشلم اكرج له طعاما وشرابا وهو امام للطايق العالي
 
+### Targum Jerusalem
+וּמַלְכִּי צֶדֶק מַלְכָּא דִירוּשְׁלֶם הוּא שֵׁם רַבָּא הֲוָה כָּהִין עִילָאָה:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](18_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

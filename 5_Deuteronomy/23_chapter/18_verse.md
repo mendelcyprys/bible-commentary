@@ -19,6 +19,9 @@
 **Arabic script:**
 لا تكن من بنات اسرايل ممتعه ولا من بني اسرايل ممتع
 
+### Targum Jerusalem
+לָא תֶהֱוֵי נַפְקַת בְּרָא מִבְּנַתְהוֹן דְּבֵית יִשְרָאֵל וְלָא יֶהֱוֵי נְפַק בַּר מִן בְּנֵי יִשְרָאֵל:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](18_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

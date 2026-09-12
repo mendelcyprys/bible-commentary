@@ -19,6 +19,9 @@
 **Arabic script:**
 اذا حصرت جمله بني اسرايل علي عددهم فليعط كل رجل فدا نفسه لله اذا احصيتهم ولا يحل بهم وبا عند ذلك
 
+### Targum Jerusalem
+אֲרוּם תְּקַבֵּיל יַת רֵישׁ חוּשְׁבַּן סְכוּמְהוֹן דִּבְנֵי יִשְרָאֵל:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](12_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

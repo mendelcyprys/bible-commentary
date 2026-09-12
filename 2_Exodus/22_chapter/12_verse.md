@@ -19,6 +19,9 @@
 **Arabic script:**
 فان افترس فليات بشاهد ولا يغرم الفريسه
 
+### Targum Jerusalem
+אִם יִתְקְטָלָא יִתְקְטֵיל יֵיתֵי לֵיהּ מִן אֵיבָרוֹי סָהַד קְטִילָא לָא יְשַׁלֵּם:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](12_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

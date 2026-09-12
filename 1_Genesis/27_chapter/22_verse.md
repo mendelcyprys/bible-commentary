@@ -19,6 +19,9 @@
 **Arabic script:**
 فتقدم يعقوب لاسحق فجسه وقال الصوت صوت يعقوب واليدان يدا عشو
 
+### Targum Jerusalem
+מְמוּשׁ יְדוֹי מְמוּשׁ יְדוֹי דְעֵשָו:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](22_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

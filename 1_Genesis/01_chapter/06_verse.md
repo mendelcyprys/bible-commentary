@@ -19,6 +19,9 @@
 **Arabic script:**
 شا الله ان يكون جلد في وسط الما ويكون فاصلا بين مايين
 
+### Targum Jerusalem
+וִיהִי מַפְרִישׁ בֵּין מַיָא עִילָאִי וּבֵין מַיָא אַרְעָאִי:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](06_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

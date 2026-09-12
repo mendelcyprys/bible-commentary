@@ -19,6 +19,9 @@
 **Arabic script:**
 وقال العدو اين الاههم المعتمد الذي استكنو اليه
 
+### Targum Jerusalem
+וַאֲמַר עֲתִידִין אוּמַיָא לְמֵימָר הָאן הוּא אֱלָהָא דְיִשְרָאֵל תַּקִיפָא דְאִתְרַחֲצוּ בֵּיהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](37_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

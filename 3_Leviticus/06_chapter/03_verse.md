@@ -19,6 +19,9 @@
 **Arabic script:**
 ويلبس الامام قميصا من عشر وسراويل عشر يلبس علي بدنه ويرفع الرماد الذي تاكل النار الصعيده علي المذبح ويصيره لزق المذبح
 
+### Targum Jerusalem
+ומכנסי וְאַבַּרְסְקִין:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](03_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

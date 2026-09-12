@@ -19,6 +19,9 @@
 **Arabic script:**
 هذه الرسوم التي امر الله بها موسي فيما بين الرجل ومارته وفيما بين الاب وابنته في حال صبايها وهي في بيت ابيها
 
+### Targum Jerusalem
+בְּיוֹמֵי טַלְיוּתָהּ בְּבֵיתֵיהּ דַאֲבוּהָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](17_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

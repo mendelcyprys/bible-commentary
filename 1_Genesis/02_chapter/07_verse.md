@@ -19,6 +19,9 @@
 **Arabic script:**
 وان الله خلق ادم ترابا من الارض ونفك في انفه نسمه الحيوه فصار ادم نفسا ناطقه
 
+### Targum Jerusalem
+וַהֲוָה אָדָם נְפַשׁ דְחַיָה:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](07_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

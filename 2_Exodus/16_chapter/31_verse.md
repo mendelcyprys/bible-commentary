@@ -19,6 +19,9 @@
 **Arabic script:**
 وسمي اسرايل اسمه من وهو كبزر الكزبره ابيض وطعمه كقطايف بعسل
 
+### Targum Jerusalem
+כִּזְרַע דְּכוּסְבַּר חֵיוַר וְטַעֲמֵיהּ כְּשִׁפוּיָין בִּדְבָשׁ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](31_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

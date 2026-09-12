@@ -19,6 +19,9 @@
 **Arabic script:**
 وبكر الحمير فافده بشاه وان لم تفده فاقفه وجميع بكور بنيك افدهم ولا تحضرو بين يدي فارغا
 
+### Targum Jerusalem
+עַמִּי בֵּית יִשְרָאֵל לֵית אַתּוּן רְשָׁאִין לְמֵיחְמֵי יְיָ אֱלָהָכוֹן רֵיקָנִין מִן כָּל מִצְוָה:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](20_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

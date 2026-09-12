@@ -19,6 +19,9 @@
 **Arabic script:**
 ورحل موسي بني اسرايل من بحر القلزم وخرجو الي بريه شور فسارو ثلثه ايام في البريه ولم يجدو ماا
 
+### Targum Jerusalem
+אוֹרְחָא דְחָלוּצָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](22_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

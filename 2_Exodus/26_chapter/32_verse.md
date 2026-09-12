@@ -19,6 +19,9 @@
 **Arabic script:**
 واجعله علي اربعه عمد من سنط مغشاه ذهبا وزرافينها ذهبا عل اربع قواعد من فضه
 
+### Targum Jerusalem
+וְאִנְקְלָוָותְהוֹן דִּדְהַב:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](32_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

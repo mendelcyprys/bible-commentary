@@ -19,6 +19,9 @@
 **Arabic script:**
 والداروم والمرج بقيع يريحو قريه النخل الي زغر
 
+### Targum Jerusalem
+וְיַת דָרוֹמָא וְיַת מֵשְׁרָא בִּקְעַת דִירֵיחוֹ קַרְתָּא דְעַבְדָא תַמְרִין הִיא זְעֵיר:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](03_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

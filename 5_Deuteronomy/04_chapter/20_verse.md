@@ -19,6 +19,9 @@
 **Arabic script:**
 وانتم اصطفاكم الله واخرجكم من شبيه بكور الحديد من مصر لتكونو له شعب صفوه كهذا اليوم
 
+### Targum Jerusalem
+לְמֶהֱווֹן עַם חֲבִיבִין הֵיךְ סְגוּלָה כְּיוֹמָא הָדֵין:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](20_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

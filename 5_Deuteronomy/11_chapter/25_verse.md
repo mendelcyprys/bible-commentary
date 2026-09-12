@@ -19,6 +19,9 @@
 **Arabic script:**
 ولا يقف انسان بين يديكم بل فزعكم وخوفكم يلقيه الله ربكم علي جميع البلد الذي تسلكوه كما وعدكم
 
+### Targum Jerusalem
+לָא יְקוּם רַב וְשַׁלִּיט קֳדָמֵיכוֹן וְאֵימַתְכוֹן וְדַחֲלַתְכוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](25_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 وكذاك من اول عجينكم تجعلو لله رفيعه علي مر اجيالكم
 
+### Targum Jerusalem
+מִן שֵׁירוּי אַצְוַתְכוֹן תִּתְּנוּן לִשְׁמָא דַיְיָ אַפְרָשׁוּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](21_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

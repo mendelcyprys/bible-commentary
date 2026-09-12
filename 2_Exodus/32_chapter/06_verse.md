@@ -19,6 +19,9 @@
 **Arabic script:**
 ثم ادلجو من غد فقربو صواعد وذبحو سلامه وجلسو القوم لياكلو ويشربو وقامو ليلعبو
 
+### Targum Jerusalem
+וְקָמוּ לְהוֹן מְגַחְכִין בְּפוּלְחָנָא נוּכְרָאָה:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](06_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

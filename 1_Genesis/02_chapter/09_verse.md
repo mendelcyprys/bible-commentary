@@ -19,6 +19,9 @@
 **Arabic script:**
 وانبت الله من الارض كل شجره حسن منظرها وطيب ماكلها وشجره الحيوه في وسط الجنان وشجره معرفه الخير والشر
 
+### Targum Jerusalem
+וְאִילָן דַעֲתָּא כָּל מָן דְאָכַל מִינֵיהּ מַפְרִשׁ בֵּין טַב לְבִישׁ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](09_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

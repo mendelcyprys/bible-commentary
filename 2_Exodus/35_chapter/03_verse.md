@@ -19,6 +19,9 @@
 **Arabic script:**
 لا تشعلو النار في جميع مساكنكم في يوم السبت
 
+### Targum Jerusalem
+לָא תְבַעֲרוּן אֵשָׁתָא בְּכָל אָתַר בֵּית מְדוֹרֵיכוֹן בְּיוֹמָא דְשַׁבַּתָּא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](03_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

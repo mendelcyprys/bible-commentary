@@ -19,6 +19,9 @@
 **Arabic script:**
 وينحدر من فاميه الي دفني من شرقي العين وينحدر ويضرب الي جانب بحر جنسر شرقا
 
+### Targum Jerusalem
+וְיֵחוֹת תְּחוּמָא לַאֲפַמְיָס לְדָפְנֵי מַדִינְחָא לְעַיְנוּתָא וְיֵחוֹת תְּחוּמָא וְיַמְטֵי סְמִיךְ לְיַמָא דְגִינוּסָר מִן מַעַרְבָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](11_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

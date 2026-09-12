@@ -19,6 +19,9 @@
 **Arabic script:**
 ويرمدو المذبح ويبسطو عليه ثوب ارجوان
 
+### Targum Jerusalem
+וִידַרְדוּן יַת מַדְבְּחָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](13_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

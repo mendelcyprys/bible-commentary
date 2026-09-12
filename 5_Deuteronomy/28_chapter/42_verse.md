@@ -19,6 +19,9 @@
 **Arabic script:**
 وجميع شجرك وثمر ارضك يقرضه الفراش
 
+### Targum Jerusalem
+כָּל אִילָנֵיכוֹן וּפֵירֵי אַרְעֲכוֹן יֵירְתוּן מַסִיקַיָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](42_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

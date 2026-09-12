@@ -19,6 +19,9 @@
 **Arabic script:**
 فلازم الاسرايل فعور الصنم واشتد غضب الله عليهم
 
+### Targum Jerusalem
+וְאִדְבְּקוּ יִשְרָאֵל לְפַלְחֵי טַעֲוָותָא דִפְּעוֹר וּתְקֵיף רוּגְזָא דַיְיָ עַל יִשְרָאֵל:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](03_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

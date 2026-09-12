@@ -19,6 +19,9 @@
 **Arabic script:**
 واركبه علي قماقم الارض حتي اكل من نمو الرياض وكانه ارضعه اللبن من الحجر والعسل من الصوان الصلدي
 
+### Targum Jerusalem
+אַרְכְּבִינוּן עַל בָּמָתָא דְאַרְעָא וְאַיְיכַל יַתְהוֹן עֲלָלַת תַּפְנוּקֵי מַלְכִין וְאַיְינִיק יַתְהוֹן דְבַשׁ מִן כֵּיפָא וּמְשַׁח יַתְהוֹן מִן כּוֹף שָׁמִיר טִינְרָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](13_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

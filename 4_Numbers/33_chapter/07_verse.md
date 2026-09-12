@@ -19,6 +19,9 @@
 **Arabic script:**
 ورحلو من ثم ونزلو في فوهه حيروت التي في حضره بعل صفون ونزلو بين يدي مغدل
 
+### Targum Jerusalem
+וּנְטָלוּ מֵאֵיתָן וְחָזְרוּ לְפּוּנְדְקֵי חֵירָתָא דְאִית עַל אַפֵּי טַעֲוָותָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](07_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

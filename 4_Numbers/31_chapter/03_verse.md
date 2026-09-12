@@ -19,6 +19,9 @@
 **Arabic script:**
 فقال موسي لقومه جردو منكم رجالا للجيش يغزون المدين ليحلو نقمه الله بهم
 
+### Targum Jerusalem
+אִזְדַיָנוּ מִן לְוַותְכוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](03_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

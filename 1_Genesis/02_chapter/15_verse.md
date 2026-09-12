@@ -19,6 +19,9 @@
 **Arabic script:**
 واخذ الله ادم وانزله في جنان عدن ليفلحها وليحفظها
 
+### Targum Jerusalem
+וּנְסִיב יְיָ אֱלהִים יַת אָדָם וְאַשְׁרֵי בְּגִנְתָא דְעֵדֶן וְאַצְנַע יָתֵיהּ לְמֶהֱוֵי פְּלַח בְּאוֹרַיְיתָא וּלְמִטוֹר:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](15_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

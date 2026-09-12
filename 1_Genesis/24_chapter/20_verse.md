@@ -19,6 +19,9 @@
 **Arabic script:**
 فاسرعت وفرغت جرتها في الساقيه وحاضرت ايضا الي البير لتستقي حتي استقت لكل جماله
 
+### Targum Jerusalem
+וְזָרְזַת וְאַחָתַת מוּרְבִּיָהּ לְגוֹי שַׁקְיָא וְאַשְׁקַת לְכָל גַמְלוֹהִי:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](20_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

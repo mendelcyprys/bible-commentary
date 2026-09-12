@@ -19,6 +19,9 @@
 **Arabic script:**
 كيلا تعهد عهدا مع اهل البلد فيطغون في تبع معبوداتهم ويذبحون لها ويدعو بك فتاكل من ذبحه
 
+### Targum Jerusalem
+וִיטַעֲיָן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](15_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

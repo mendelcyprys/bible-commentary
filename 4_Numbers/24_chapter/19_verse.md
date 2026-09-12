@@ -19,6 +19,9 @@
 **Arabic script:**
 والذي يستولي من اليعقوب يبيد الشريد من القري
 
+### Targum Jerusalem
+עָתִיד מֶלֶךְ לְמֵיקָם מִדְבֵית יַעֲקב וִישֵׁיצֵי יַת כָּל מַה דְמִשְׁתַּיָיר מִן כְּרַכָּא חַיָיבָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](19_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

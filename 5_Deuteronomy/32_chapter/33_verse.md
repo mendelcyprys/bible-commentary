@@ -19,6 +19,9 @@
 **Arabic script:**
 وكحميه التنانين خمرهم وسم الرقش منها الضاريه
 
+### Targum Jerusalem
+אֲרוּם עַמָא הָאִילֵין חֲמָתֵיהּ מְדַמְיָא לַחֲמָתֵיהּ דְתַנִינַיָא בִּזְמַן דְשַׁתְיַין חֲמַר וְרִיגְזֵיהוֹן מְדַמֵי לְרֵישֵׁי חִיוְיָא פִּתְמְנָאֵי וְאַכְזְרוּאֵי וּגְזָרָאֵי:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](33_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

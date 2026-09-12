@@ -19,6 +19,9 @@
 **Arabic script:**
 ويحلفها الامام ويقول لها ان كان لم يضاجعك رجل ولم تحيدي الي نجاسه غير زوجك فابري من هذا الما المر اللاعن
 
+### Targum Jerusalem
+חִרַקֵי מִן מַיָא בְּדוּקַיָא לְבֶדֶק הָאִלֵין:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](19_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

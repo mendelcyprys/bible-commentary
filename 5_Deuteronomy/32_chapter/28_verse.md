@@ -19,6 +19,9 @@
 **Arabic script:**
 لانهم قبيل مضيع الحكمه وليس فيهم فهم
 
+### Targum Jerusalem
+אֲרוּם אוּמָא הָדָא אֲבִידֵי עֵיצָן בִּישָׁן אִינוּן וְלֵית בְּהוֹן סוּכְלְתָנוּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](28_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

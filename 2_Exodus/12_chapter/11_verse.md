@@ -19,6 +19,9 @@
 **Arabic script:**
 وكذا فكلوه تكون احقاوكم مشدوده ونعالكم في ارجلكم وعصيكم في ايديكم وتاكلوه في حفز هو فسح لله
 
+### Targum Jerusalem
+אֲסִירִין בְּמִצְוְתָא דְאוֹרַיְיתָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](11_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

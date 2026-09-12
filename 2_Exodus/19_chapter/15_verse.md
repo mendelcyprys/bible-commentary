@@ -19,6 +19,9 @@
 **Arabic script:**
 وقال لهم كونو مستعدين لثلاثه ايام ولا تقاربو امراه
 
+### Targum Jerusalem
+וַאֲמַר לְעַמָּא הֲווֹ מְזַמְנִין לִתְלָתָא יוֹמִין לָא תִקְרְבוּן לְתַשְׁמִישׁ דְּעַרְסָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](15_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

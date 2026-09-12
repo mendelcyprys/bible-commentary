@@ -19,6 +19,9 @@
 **Arabic script:**
 فلما ابا ادوم ان يترك ال اسرايل ان يجوز في تخمه مال عنه
 
+### Targum Jerusalem
+וּסְטוּן יִשְרָאֵל מֵעִלַוֵיהוֹן דַהֲווֹן מִפַקְדִין מִן אֲבוּהוֹן דְבִשְׁמַיָא דְלָא יְסַדְרוּן לְקִבְלֵיהוֹן סִדְרֵי קְרָבָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](21_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

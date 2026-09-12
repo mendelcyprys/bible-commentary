@@ -19,6 +19,9 @@
 **Arabic script:**
 اذكر ايام الدهر فتفهم سنين جيل وجيل سل اباك ويخبرك اشياخك ويقولون لك
 
+### Targum Jerusalem
+אִידְכָּרוּ יוֹמִין יְמוֹת עַלְמָא אִתְבּוֹנְנוּ לִשְׁנֵי בְּכָל דָר וְדָר שְׁאִיל לְאַבְהַתְכוֹן דְרַבְרְבִין מִנְכוֹן בְּאוֹרַיְיתָא וְיִתְנוּן לְכוֹן חַכִּימִין וְיֵימְרוּן לְכוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](07_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

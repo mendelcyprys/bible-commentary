@@ -19,6 +19,9 @@
 **Arabic script:**
 لا يكن في كيسك صنجتان كبري وصغري
 
+### Targum Jerusalem
+לָא יֶהֱוֵי בְּכִיסְכוֹן מַתְקְלִין זְעִירִין לְמֶהֱוֵי מְזַבֵּן בְּהוֹן וּמַתְקְלִין רַבְרְבִין לְמֶהֱוֵי זַבָּן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](13_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

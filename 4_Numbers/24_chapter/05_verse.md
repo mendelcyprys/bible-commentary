@@ -19,6 +19,9 @@
 **Arabic script:**
 ما اجود اخبيتك يا اليعقوب ومنازلك يا الاسرايل
 
+### Targum Jerusalem
+מַה טָבִין הִינוּן מַשְׁכְּנִין דְצַלִי בְהוֹן יַעֲקב אֲבוּהוֹן וּמַשְׁכַּן זִמְנָא דַעֲבַדְתּוּן לִשְׁמִי וּמַשְׁכְּנֵיכוֹן חֲזוֹר חֲזוֹר לְכוֹן דְבֵית יִשְרָאֵל:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](05_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 وقال الله لا خير في بقا ادم وحده اصنع له عونا حذاه
 
+### Targum Jerusalem
+אַעֲבֵיד לֵיהּ בַּר זוֹג כַּד נָפִיק בֵּיהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](18_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

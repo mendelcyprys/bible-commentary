@@ -19,6 +19,9 @@
 **Arabic script:**
 ولا تعط من نسلك للتقريب للصنم ولا تبذل اسم ربك انا الله المعاقب
 
+### Targum Jerusalem
+וְלָא תִפְסוּן יַת שְׁמָא דֶּאֱלָהָכוֹן כְּדֵין אָמַר יְיָ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](21_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 وحدو لكم الحد الشرقي من حصر عينن الي فاميه
 
+### Targum Jerusalem
+וּתְכַוְונוּן לְכוֹן תְּחוּמָא מַעַרְבַיָא מִדִירַת עַיְינוּתָא לְאַפַּמְיָס:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](10_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

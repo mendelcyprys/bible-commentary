@@ -19,6 +19,9 @@
 **Arabic script:**
 فلما راي انه لم يطقه دنا من حق وركه فزال حق ورك يعقوب في مصارعته معه
 
+### Targum Jerusalem
+וְקַהַת כַּף יַרְכֵיהּ דְיַעֲקב בְּשַׁדְרוּתֵיהּ עִמֵיהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](26_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

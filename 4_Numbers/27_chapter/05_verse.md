@@ -19,6 +19,9 @@
 **Arabic script:**
 فرفع موسي حكمهن الي الله
 
+### Targum Jerusalem
+דין חד מן ארבעה דינין וכו' כתוב לעיל גבי מקושש וגבי טמא נפש: וְאַקְרֵיב משֶׁה יַת סֵדֶר דִינֵיהוֹן קֳדָם יְיָ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](05_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

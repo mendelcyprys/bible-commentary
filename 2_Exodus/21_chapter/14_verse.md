@@ -19,6 +19,9 @@
 **Arabic script:**
 وان اتقح انسان علي صاحبه وقتله بمكر فمن عند مذبحي تاخده ليقتل
 
+### Targum Jerusalem
+אֲרוּם יִתְחַשֵּׁב גְּבַר עַל חַבְרֵיהּ לְמִקְטוֹל יָתֵיהּ בְּכָמוֹנָא אֲפִילּוּ הוּא כַּהֲנָא רַבָּא דְקָאֵי וּמְשַׁמֵּשׁ קֳדָמַי מִן תַּמָּן תִּסְבּוּן יָתֵיהּ וּתְקַטְלִין יָתֵיהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](14_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

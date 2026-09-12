@@ -19,6 +19,9 @@
 **Arabic script:**
 والسطر الثاني كحلي ومها وبهرمان
 
+### Targum Jerusalem
+וְסִידְרָא תִּנְיָנָא כַּדְכְּדָנָא וְסִמְפּוּלְיָנָא וְעֵין עִיגְלָא כְּתַב מְפָרַשׁ עֲלֵיהוֹן שֵׁם שִׁבְטִין תְּלָתָא יְהוּדָה יִשָשׁכָר וּזְבוּלוּן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](18_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 واطفالكم ونساكم والغريب الذي في وسط عسكرك من محتطب حطبك الي مستقي ماك
 
+### Targum Jerusalem
+טַפְלֵיכוֹן נְשֵׁיכוֹן וְגִיוֹרֵיכוֹן דְאִית בְּגוֹ מַשִׁירְיָתֵיכוֹן מִקְטוּעֵי קֵיסֵיכוֹן עַד מִילוֹי מֵימֵיכוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](10_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

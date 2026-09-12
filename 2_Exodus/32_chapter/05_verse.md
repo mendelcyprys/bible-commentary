@@ -19,6 +19,9 @@
 **Arabic script:**
 فلما راي ذلك هرون بنا مذبحا بين يديه ونادي وقال لله حج غدا
 
+### Targum Jerusalem
+וַחֲמָא אַהֲרן יַת חוּר נְכִיס קֳדָמוֹי וּדְחֵיל וּבְנָא מַדְבְּחָא קֳדָמוֹי וּקְרָא אַהֲרן וַאֲמַר חֲגָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](05_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

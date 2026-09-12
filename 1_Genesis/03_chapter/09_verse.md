@@ -19,6 +19,9 @@
 **Arabic script:**
 فنادا الله ادم وقال له مقررا اين انت
 
+### Targum Jerusalem
+וּקְרָא מֵימְרָא דַיְיָ אֱלהִים לְאָדָם וַאֲמַר לֵיהּ הָא עַלְמָא דְבָרִית גְלִי קֳדָמַי חֲשׁוֹכָא וּנְהוֹרָא גַלִיאוּ קֳדָמַי וְאֵיךְ אַתְּ סְבַר דְלֵית גְלֵי קֳדָמַי אַתְרָא דְאַתְּ בְּגַוֵיהּ הָן הוּא מִצְוָתָא דִפַקֵידִית יָתָךְ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](09_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

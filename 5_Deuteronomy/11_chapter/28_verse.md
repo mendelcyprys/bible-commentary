@@ -19,6 +19,9 @@
 **Arabic script:**
 واما اللعنات فان لم تقبلو وصايا الله ربكم وزلتم عن الطريق الذي انا امرتكم به اليوم واتبعتم معبودات اخر ما لم تعرفوها
 
+### Targum Jerusalem
+וְחִילוּפֵיהוֹן אִין לָא תִשְׁמְעוּן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](28_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

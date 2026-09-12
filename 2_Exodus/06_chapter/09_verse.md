@@ -19,6 +19,9 @@
 **Arabic script:**
 فكلم موسي بذلك بني اسرايل ولم يقبلو منه من ضيق ارواحهم ومن خدمتهم الصعبه
 
+### Targum Jerusalem
+מַקְפִּידוֹת:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](09_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

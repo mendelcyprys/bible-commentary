@@ -19,6 +19,9 @@
 **Arabic script:**
 وانتم تكونون لي ملك امامه وشعبا مقدسا هذا الكلام الذي تقوله لبني اسرايل
 
+### Targum Jerusalem
+וְאַתּוּן תְּהַוָון לִשְׁמִי מַלְכִין וְכַהֲנִין וְאוּמָא קַדִּישָׁא אִלֵין דִּבְּרַיָיא דִּי תְמַלֵּיל:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](06_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

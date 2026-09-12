@@ -19,6 +19,9 @@
 **Arabic script:**
 فاثبتها وقال هي تونيه ابني وحش ردي اكله فريسه افترس يوسف
 
+### Targum Jerusalem
+וַחֲכַם יָתָהּ וַאֲמַר פַּרְגוֹד דִבְרִי הִיא לָא חֵיוַת בָּרָא אֲכָלַת יָתֵיהּ וְלָא מִתְקְטָל בְּרִי יוֹסֵף בְּרַם חָמֵי אֲנָא בְּרוּחַ בֵּית קוּדְשָׁא הֵיךְ אִיתָא בִּישָׁא קַיְימָא לְקִיבְלֵיהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](33_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

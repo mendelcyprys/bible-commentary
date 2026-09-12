@@ -19,6 +19,9 @@
 **Arabic script:**
 فاقام القوم باقي يومهم وليلتهم وطول نهار جدهم فجمعو السلوي اقلهم جمع عشره انابير فسطحوها لهم سطيحا حوالي العسكر
 
+### Targum Jerusalem
+עֲשַ¦ר כּוּרְוַון:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](32_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

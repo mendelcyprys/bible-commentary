@@ -19,6 +19,9 @@
 **Arabic script:**
 واصنع لها حافه مقدار قبضه مستديرا واصنع زيجا من ذهب لحافتها مستديرا
 
+### Targum Jerusalem
+גִּפּוּף טוֹפַח חֲזַר וּמַקַּף:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](25_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

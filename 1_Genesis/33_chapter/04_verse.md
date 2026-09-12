@@ -19,6 +19,9 @@
 **Arabic script:**
 فحاضر عشو تلقاه فعانقه وانكب علي عنقه فقبله وبكيا
 
+### Targum Jerusalem
+וּרְהַט עֵשָו לִקְדָמוּתֵיהּ וְחַבֵּיק יָתֵיהּ וְאִתְרְכִין עַל צַוְורֵיהּ וּנְשֵׁיק יָתֵיהּ עֵשָו הֲוָה בָּכִי עַל דִקְהָן שִׁינוֹי וְיַעֲקב הֲוָה בָּכִי עַל שַׁעֲשִׁיעַת צַוְורֵיהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](04_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

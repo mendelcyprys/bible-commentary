@@ -19,6 +19,9 @@
 **Arabic script:**
 فخرج الاموريين المقيمون في ذلك الجبل تلقاكم فكلبوكم كما يلسع النحل وحطموكم في شعير الي حرمه
 
+### Targum Jerusalem
+וּרְדָפוּ יַתְכוֹן הֵיכְמָא דְרָדִיפוּ דְבוּרַיָיתָא וּקְטִילוּ יַתְכוֹן בְּגַבְלָא עַד שֵׁצָיוּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](44_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

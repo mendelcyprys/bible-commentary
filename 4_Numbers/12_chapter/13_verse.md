@@ -19,6 +19,9 @@
 **Arabic script:**
 فدعي موسي ربه قايلا اللهم فاشفها
 
+### Targum Jerusalem
+אֱלָהָא דְמַסֵי כָּל בִּשְרָא אָסֵי יָתָהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](13_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

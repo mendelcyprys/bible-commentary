@@ -19,6 +19,9 @@
 **Arabic script:**
 ولجميع الايدي الشديده وساير المخاوف العظيمه التي صنعها موسي بحضره جميع الاسرايل
 
+### Targum Jerusalem
+וּלְכָל יְדָא תַקִּיפְתָּא וּלְכָל חֶזְוָותָא רַבְרְבַיָּא דִּי עֲבַד משֶׁה חַמְיָין כָּל יִשְרָאֵל:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](12_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

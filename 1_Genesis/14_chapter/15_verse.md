@@ -19,6 +19,9 @@
 **Arabic script:**
 وتفرق عليهم ليلا هو وعبيده فقتلهم وكلبهم الي حوبه التي عن يسار دمشق
 
+### Targum Jerusalem
+וּרְדָפִינוּן עַד עַוְותָא דְמִצָפוֹן לְדַמֶשֶק:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](15_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 ولما قال ابرهيم عن ساره زوجته هي اختي بعث ابيملك ملك الخلوص فاخذها
 
+### Targum Jerusalem
+מַלְכָּא דַעֲרָד:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](02_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

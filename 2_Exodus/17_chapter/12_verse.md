@@ -19,6 +19,9 @@
 **Arabic script:**
 ولما ثقلت يدا موسي اخذو حجرا وصيروه تحته وجلس عليه وهرون وحور اسندا يديه احدهما يمنه والاخر يسره فكانت يداه محضونتين الي مغيب الشمس
 
+### Targum Jerusalem
+וִידוֹי דְמשֶׁה הֲווֹ זָקְפַן בִּצְלוֹי:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](12_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 وهذه البركات التي بارك بها موسي رسول الله بني اسرايل قبل موته
 
+### Targum Jerusalem
+וְדָא בִרְכָתָא דִי בְּרִיךְ משֶׁה נְבִיָא דַיְיָ יַת בְּנֵי יִשְרָאֵל קֳדָם עַד דְלָא יִתְכְּנִישׁ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](01_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

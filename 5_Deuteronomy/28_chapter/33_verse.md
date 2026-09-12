@@ -31,6 +31,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](33_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

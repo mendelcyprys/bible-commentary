@@ -19,6 +19,9 @@
 **Arabic script:**
 فرجع الرسل الي يعقوب قايلين صرنا الي اخيك عشو فاذا به ماض تلقاك ومعه اربع مايه رجل
 
+### Targum Jerusalem
+וְאַרְבַּע מֵאָה גוּבְרִין פּוּלְמַרְכִין עִמֵיהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](07_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

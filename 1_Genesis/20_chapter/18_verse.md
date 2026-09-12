@@ -19,6 +19,9 @@
 **Arabic script:**
 لان الله كان قد تواعد بحبس كل بطن من الابيملك بسبب شره زوجه ابرهيم
 
+### Targum Jerusalem
+וּמִטְרוֹד טְרוֹד:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](18_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

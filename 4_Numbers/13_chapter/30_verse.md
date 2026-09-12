@@ -19,6 +19,9 @@
 **Arabic script:**
 فاسكت كلب القوم الي قول موسي وقال بل نصعد صعودا ونحوزهم فانا نطيقهم
 
+### Targum Jerusalem
+וּשְׁתָק:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](30_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

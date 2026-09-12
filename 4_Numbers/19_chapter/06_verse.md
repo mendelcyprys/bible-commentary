@@ -19,6 +19,9 @@
 **Arabic script:**
 ثم ياخذ الامام عود ارز وصعترا وصبغ قرمز ويلقي ذلك الي وسط حريقها
 
+### Targum Jerusalem
+וְיִטְלַק לְגוֹ קְטַם יְקִידַת תּוֹרָתָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](06_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 وجميع عشور البقر والغنم ما يجوز تحت العصا فالعاشر يكون قدسا لله
 
+### Targum Jerusalem
+וְכָל מַעֲשְרָא דְּתּוֹרָא וּדְעָנָא כָּל דִּיעִבַר תְּחוֹת שַׁרְבִיטָא עֲשִירָאָה יֶהֱוֵי קוּדְשָׁא לִשְׁמָא דַיְיָ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](32_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

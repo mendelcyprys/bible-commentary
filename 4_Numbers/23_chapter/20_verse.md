@@ -19,6 +19,9 @@
 **Arabic script:**
 الا ان بركات قد قبلتها فابارك فيهم ولا اردها
 
+### Targum Jerusalem
+הָא לִמְבָרְכָא אַדְבָּרִית וּמְבָרֵךְ אֲנָא יַת יִשְ¦רָאֵל וּבִרְכַן לֵית אֲנָא מְנַע מִנְהוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](20_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

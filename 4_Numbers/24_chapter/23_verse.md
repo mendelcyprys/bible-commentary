@@ -19,6 +19,9 @@
 **Arabic script:**
 ثم ضرب مثله فقال الويل لمن يحيا اذا صيره الطايق
 
+### Targum Jerusalem
+אַלְוַי מָן יֵיחִי כַּד יְשַׁוֵי מֵימְרָא דַיְיָ לְמִתַּן אֲגַר טַב לְצַדִיקַיָא וּלְמִתְפְּרַע מֵרַשִׁיעַיָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](23_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

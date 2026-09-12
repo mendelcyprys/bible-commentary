@@ -19,6 +19,9 @@
 **Arabic script:**
 وصبر ايضا سبعه ايام اخر وعاود اطلقها من التابوت
 
+### Targum Jerusalem
+וּשְׁרֵי לְמִימְנֵיּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](10_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

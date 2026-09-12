@@ -19,6 +19,9 @@
 **Arabic script:**
 تعالو نحتال لهس كيلا يكثرون فيكون اذا وافانا حرب انضافو هم ايضا الي اعداينا فحاربونا واهربونا من البلد
 
+### Targum Jerusalem
+וְיִקְטְלוּן יָתָן וְיִסְקוּן לְהוֹן בִּשְׁלָם מִן אַרְעָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](10_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

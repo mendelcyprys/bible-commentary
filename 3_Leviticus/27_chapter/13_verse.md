@@ -19,6 +19,9 @@
 **Arabic script:**
 وان شا فكاكها فليزد علي القيمه خمسها
 
+### Targum Jerusalem
+וְיוֹסֵף חוּמְשֵׁיהּ דָּמוֹ עַל עִילַוֵּיהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](13_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 وانت ارفع عصاك ومد يدك الي البحر فشقه فيدخل بنو اسرايل في وسطه في اليبس
 
+### Targum Jerusalem
+וְאַתְּ אַרְעֵם יַת חוּטְרָךְ וְאַרְכִין יַת יְדָךְ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](16_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

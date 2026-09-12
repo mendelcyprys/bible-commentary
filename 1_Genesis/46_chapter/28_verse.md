@@ -19,6 +19,9 @@
 **Arabic script:**
 ثم بعث يعقوب بيهوده بين يديه الي يوسف ليدله علي بلد السدير ثم جاو اليه
 
+### Targum Jerusalem
+לְאַתְקָנָא לֵיהּ אָתַר בֵּית מֵישְׁרוֹי לְגוֹשְׁנָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](28_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

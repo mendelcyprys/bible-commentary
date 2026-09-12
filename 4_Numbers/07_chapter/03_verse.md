@@ -19,6 +19,9 @@
 **Arabic script:**
 فاتو بقربانهم لله ست عجل مضببه واثني عشر ثورا عجله لكل شريفين وثور لكل واحد فقدموها بين يدي المسكن
 
+### Targum Jerusalem
+שִׁית עֶגְלָן מְזַוְוגָן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](03_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

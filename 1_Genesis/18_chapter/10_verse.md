@@ -19,6 +19,9 @@
 **Arabic script:**
 قال سارجع اليك في مثل هذا الوقت من قابل وهوذا ابن لساره زوجتك وساره تسمع عند باب الخبا وهوا وراه
 
+### Targum Jerusalem
+וַאֲמַר מַחֲזוֹר אַחֲזוֹר לְוָתָךְ כְּעִידַן הָדֵין דְאַתּוּן קַיָמִין וְהָא בַּר דְכַר לְשָרָה אִתְּתָךְ וְשָרָה הֲוָת שְׁמָעַת לִתְרַע מַשְׁכְּנָא וְיִשְׁמָעֵאל הֲוָה קָאִים מִן בַּתְרָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](10_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

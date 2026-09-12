@@ -19,6 +19,9 @@
 **Arabic script:**
 وماتت ساره في قريه اربع هي حبري في بلد كنعان فاقبل ابرهيم يندبها ويبكيها
 
+### Targum Jerusalem
+וּמִיתַת שָרָה בְּקִרְיַיתְהוֹן דְגוּבְרַיָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](02_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

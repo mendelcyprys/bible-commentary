@@ -19,6 +19,9 @@
 **Arabic script:**
 فقال احجب رحمتي عنهم اوريهم ما عاقبتهم لانهم جيل متقلب بنون لا امانه فيهم
 
+### Targum Jerusalem
+וַאֲמַר מֵיפַּךְ אַפֵּיךְ אַפִּי רַעֲוָתִי מִנְהוֹן אַחְמֵי מַה הֲווֹ בְּאַחֲרִיוּתְהוֹן אֲרוּם דַר תַּהֲפָּכִינוּן אִינוּן בְּנִין דְלֵית בְּהוֹן הֵימָנוּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](20_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

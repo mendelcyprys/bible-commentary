@@ -19,6 +19,9 @@
 **Arabic script:**
 وعند نزوله ان يقول رد يا رب نورك الي ربوات الوف اسرايل
 
+### Targum Jerusalem
+וְכַד אֲרוֹנָא הֲוָה שָׁרֵי הֲוָה משֶׁה זְקֵיף יְדוֹי בִּצְלוֹ וַאֲמַר חֲזוֹר כְּעַן מֵימְרָא דַיְיָ מִן תְּקוֹף רוּגְזָךְ וְתוּב עֲלָן בְּרַחֲמָךְ טַבְיָא וּבְרִיךְ רַבְוָותָא וְאַסְגֵי אַלְפַיָא דִבְנֵי יִשְרָאֵל:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](36_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

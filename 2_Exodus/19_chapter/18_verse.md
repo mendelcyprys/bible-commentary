@@ -19,6 +19,9 @@
 **Arabic script:**
 وجبل سيني متدخن كله من قبل ما تجلي الله عليه بالنار وصعد دخانه كدخان الاتون وتزعزع الجبل جدا
 
+### Targum Jerusalem
+וְטוּרָא דְסִינַי עָטַר כּוּלֵיהּ מִן קֳדָם דְּאִתְגְּלֵי עֲלוֹי יְקַר שְׁכִינְתָּא דַיְיָ בְּשַׁלְהֵיבָא דְאֶשְׁתָּא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](18_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

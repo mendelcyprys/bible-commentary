@@ -19,6 +19,9 @@
 **Arabic script:**
 فاحفظو كلام هذا العهد واعملو به لكي تنجحو في جميع ما تصنعون
 
+### Targum Jerusalem
+וְתִטְרוּן יַת מִילֵי שְׁבַח אוֹרַיְיתָא הָדָא וְתַעַבְדוּן יַתְהוֹן מִן בִּגְלַל דְתִתְבּוֹנְנוּן יַת כָּל מַה דְמִתְעַבְּדִין:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](08_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

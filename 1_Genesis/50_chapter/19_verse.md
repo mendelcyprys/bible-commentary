@@ -19,6 +19,9 @@
 **Arabic script:**
 وقال لهم يوسف لا تخافو انني اخاف الله
 
+### Targum Jerusalem
+וַאֲמַר לְהוֹן יוֹסֵף לָא תִידַחֲלוּן אֲרוּם חַסְלַת בִּישָׁא דַעֲבַדְתִּין לִי הֲלָא קֳדָם יְיָ אִינוּן מַחְשַׁבְתְּהוֹן דִבְנֵי אֱנָשָׁא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](19_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

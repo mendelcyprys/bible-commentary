@@ -19,6 +19,9 @@
 **Arabic script:**
 واربعون قاعده من فضه تصنعها تحت العشرين تختجه قاعدتان تحت كل تختجه لصيريها
 
+### Targum Jerusalem
+חוּמְרִין דִּכְסַף:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](19_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

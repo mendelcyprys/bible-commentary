@@ -19,6 +19,9 @@
 **Arabic script:**
 واذا تخاصما رجلان جميعا فغلب احدهما اخاه فتقدمت زوجه احدهما لتخلصه من يده فمدت يدها فامسكت في حياه
 
+### Targum Jerusalem
+וְתִפְשׁוֹט יְדָהּ וְתִתְקֵף בְּבֵית קִיטְמֵיהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](11_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

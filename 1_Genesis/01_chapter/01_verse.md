@@ -19,6 +19,9 @@
 **Arabic script:**
 اول ما خلق الله السماوات والارض
 
+### Targum Jerusalem
+בראשׁית בְּחוּכְמָא בְּרָא יְיָ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](01_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

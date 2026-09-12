@@ -19,6 +19,9 @@
 **Arabic script:**
 قال له قدم لي عجلا مثلثا وعنزا مثلثا وكبشا مثلثا وشفنينا وفرك حمام
 
+### Targum Jerusalem
+וְשׁוֹפָנִין וּבַר יוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](09_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 مر بني اسرايل ان يرجعو وينزلو بين يدي فم الحيروت بين المجدل والبحر بين يدي صنم صفون حياله تنزلون علي البحر
 
+### Targum Jerusalem
+וִיחַזְּרוּן וְיִשְׁרוֹן קֳדָם פּוּנְדְּקִי חִירָתָא בֵּין מִגְדוֹל וּבֵין יַמָּא קֳדָם טַעֲוַות צְפוֹן בִּלְקוֹבְלָהּ תִּישְׁרוּן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](02_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

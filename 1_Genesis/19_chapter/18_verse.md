@@ -19,6 +19,9 @@
 **Arabic script:**
 فقال لوط لهما برغبه لا يا رسولي الله
 
+### Targum Jerusalem
+אַמְתִּינוּ הָכָא קָלִיל זְעֵיר עַד דְנִבְעֵי רַחֲמִין קֳדָם יְיָ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](18_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

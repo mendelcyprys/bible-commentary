@@ -19,6 +19,9 @@
 **Arabic script:**
 وسب ابن الاسرايليه الاسم وشتمه فاتو به الي موسي وكان اسم امه شلوميت بنت دبري من سبط دن
 
+### Targum Jerusalem
+וְחָרַף בְּרָהּ דְאִיתָא יִשְרָאֵל יַת שְׁמָא מְפָרָשָׁא וּבָזֵי:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](11_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 ولم تطق ان تخفيه زياده فاخذت له تابوتا من بردي وقفرته بالقفر والزفت وصيرت فيه الصبي وصيرته بالديس علي شاطي النيل
 
+### Targum Jerusalem
+וְשַׁוִיתֵיהּ בְּאֶפְרָה עַל גַב נַהֲרָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](03_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

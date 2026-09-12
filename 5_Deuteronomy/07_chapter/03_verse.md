@@ -19,6 +19,9 @@
 **Arabic script:**
 ولا تصاهرهم فتعطي ابنتك لابنه ولا تاخذ ابنته لابنك
 
+### Targum Jerusalem
+לָא תִתְעַרְבוּן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](03_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

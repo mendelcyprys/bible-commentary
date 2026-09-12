@@ -19,6 +19,9 @@
 **Arabic script:**
 فيبتدي لكم الحد الجنوبي من بريه صن الي جانب ادوم فيكون من طرف البحيره الميته الشرقي
 
+### Targum Jerusalem
+וְיֶהֱוֵי לְכוֹן תְּחוּמָא מִדְרוֹמָא מִמַדְבְּרָא דִרְקַם כָּל קֳבֵיל תְּחוֹמֵיהוֹן דֶאֱדוֹמָאֵי וִיהֵי לְכוֹן דָרוֹמָא מִסְיָיפֵי יַמָא דְמִלְחָא מִן מַדִינְחָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](03_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

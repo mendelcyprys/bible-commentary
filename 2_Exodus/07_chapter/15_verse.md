@@ -19,6 +19,9 @@
 **Arabic script:**
 امض اليه بالغداه هوذا هو خارج الي الما فقف تلقاه علي شاطي النيل والعصا التي انقلبت حيه خذها بيدك
 
+### Targum Jerusalem
+לְמִתְקוֹרְרָא עַל מַיָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](15_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

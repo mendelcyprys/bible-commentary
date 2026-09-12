@@ -19,6 +19,9 @@
 **Arabic script:**
 الذين كانو ياكلون شحوم ذبايحهم ويشربون خمر مزاجهم يقومو الان فيعينوكم ويكونو عليكم جنه
 
+### Targum Jerusalem
+דַהֲווֹן מַקְרִיבִין קֳדָמוֹי תַּרְבֵּי נִכְסֵי קוּרְבָּנֵיהוֹן וַחֲמַר נִיסוּכֵיהוֹן הֲווֹן מַקְרִיבִין קֳדָמוֹי יְקוּם כְּעַן וְיִפְרוֹק יַתְהוֹן דִיהֱוָון עֲלֵיהוֹן כְּמָגִינָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](38_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

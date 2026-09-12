@@ -19,6 +19,9 @@
 **Arabic script:**
 والسطر الثلاث جزع وسبج وفيرزوج
 
+### Targum Jerusalem
+וְסִידְרָא תְּלִיתָאָה זוֹזוּן וּבִירְזְלִין וּזְמַרְגְּדִין כְּתַב מְפָרַשׁ עֲלֵיהוֹן שֵׁם שִׁבְטִין תְּלָתָא דָּן נַפְתָּלִי וְגָד:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](19_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

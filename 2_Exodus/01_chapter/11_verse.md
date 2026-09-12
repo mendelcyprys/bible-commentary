@@ -19,6 +19,9 @@
 **Arabic script:**
 فصيرو عليهم روسا ذمه لقبل ان يعذبوهم بنقلهم فبنو قري مخازن لفرعون في الفيوم وفي عين الشمس
 
+### Targum Jerusalem
+יַת טָנִיס וְיַת פִּילוּסִין:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](11_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

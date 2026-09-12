@@ -19,6 +19,9 @@
 **Arabic script:**
 قال قين لله ذنبي اعظم من ان يغفر
 
+### Targum Jerusalem
+וַאֲמַר קַיִן קֳדָם יְיָ סַגִין אִנוּן חוֹבוֹיֵי לְמִסְבּוֹל בְּרַם אִית יוּכְלָא קֳדָמָךְ לְמִשְׁרֵי וּלְמִשְׁבַּק לִי:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](13_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

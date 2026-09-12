@@ -19,6 +19,9 @@
 **Arabic script:**
 ولما صعد سكب الطل فاذا به علي وجه البريه دق مدحرج دق كالدمق علي الارض
 
+### Targum Jerusalem
+כַּכְּפוֹרָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](14_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 وينزع حوصلته مع قانسته ويطرحها لزق المذبح شرقيا موضع الرماد
 
+### Targum Jerusalem
+וְיַעֲבֵר יַת קוּרְקָבָנֵיהּ בִנְטָשָׁא וְיַטְלֵק יָתָהּ סְמִיךְ לְמַדְבְּחָא מַדִּינְחָא לַאֲתַר בֵּית שְׁפִיכוּת קִיטְמָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](16_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 انظر قد شرفت اسم بصلال بن اوري بن حور من سبط يهوده
 
+### Targum Jerusalem
+חָמֵי משֶׁה הָא רַבְיַית וְקַרְיַית בְּשֵׁם טַב בְּצַלְאֵל:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](02_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

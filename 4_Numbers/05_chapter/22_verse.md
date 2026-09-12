@@ -19,6 +19,9 @@
 **Arabic script:**
 وذلك اذا صار هذا الما اللاعن في امعايك فيرم البطن ويسقط الورك وتقول المراه امين امين
 
+### Targum Jerusalem
+וְתֵימַר אִיתְּתָא אָמֵן דְלָא אִסְתַּאֲבִית אָמֵן אִין אֲנָא עֲתִידָה לְמִסְתְּאָבָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](22_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

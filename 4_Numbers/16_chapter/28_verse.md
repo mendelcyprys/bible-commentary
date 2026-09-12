@@ -19,6 +19,9 @@
 **Arabic script:**
 فقال موسي بهذه تعلمون ان الله بعث بي ان اعمل جميع هذه الاعمال وليس من تلقا نفسي
 
+### Targum Jerusalem
+אֲרוּם לָא מִן לִבִּי בָּדִית יַתְהוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](28_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

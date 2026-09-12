@@ -19,6 +19,9 @@
 **Arabic script:**
 كذاك ازيدهم شرورا وسهامي افرقها فيهم
 
+### Targum Jerusalem
+אֲמָרִית בְּמֵימְרִי לְמֵיתַיָא עֲלֵיהוֹן בִּישִׁין גִירֵי פּוּרְעֲנוּתִין אֲגָרֵי בְּהוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](23_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

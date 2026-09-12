@@ -19,6 +19,9 @@
 **Arabic script:**
 ثم كلمهم الله بجميع هذا الكلام قايلا
 
+### Targum Jerusalem
+וּמַלֵּיל מֵימְרָא דַיְיָ כָּל שְׁבַח דִּבְּרַיָא הָאִילֵין לְמֵימָר:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](01_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

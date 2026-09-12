@@ -19,6 +19,9 @@
 **Arabic script:**
 بنو يفت ترك وياجوج وماهات واليونانيه والصين والخراسان وفارس
 
+### Targum Jerusalem
+בְּנוֹי דְיֶפֶת גוֹמֶר וְשׁוּם אַפַרְכָיוּתְהוֹן אַפְרִיקֵי וְגַרְמַנְיָא וּמָדַי וּמִקְדוֹנְיָא וְיֵתָנְיָא וַאֲנַסְיָא וְתַרְקֵי:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](02_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

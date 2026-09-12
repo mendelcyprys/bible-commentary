@@ -19,6 +19,9 @@
 **Arabic script:**
 فوقعا علي وجوههما وقالا يا طايق يا الاه ارواح كل بشري ارجل واحد يخطي وعلي كل الجماعه تسخط
 
+### Targum Jerusalem
+וְאִתְרְכִינוּ עַל אַפֵּיהוֹן וַאֲמָרוּ אֱלָהָא דְשַׁלִיט בְּנִשְׁמַת כָּל בִּישְרָא חַד גַבְרָא חָטֵי וְעַל כָּל עַמָא הֲוָה רְגוֹז:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](22_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

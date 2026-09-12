@@ -19,6 +19,9 @@
 **Arabic script:**
 لا يوجد فيكم من يشعل ابنه او بنته بالنار وقاسم قسامات ومتفال ومتطايير وساحر
 
+### Targum Jerusalem
+לָא יִשְׁתְּכַח בְּכוֹן מַעֲבַר בְּרֵיהּ וּבְרַתֵּיהּ בְּנוּרָא לְאַקְסוֹמֵי קוּסְמִין וְלָא חֲרוֹרֵי עַיְינִין וְלָא נְטוֹרֵי נְחָשִׁין וַחֲרָשִׁין:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](10_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

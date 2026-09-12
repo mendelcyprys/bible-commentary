@@ -19,6 +19,9 @@
 **Arabic script:**
 ولما طلع الفجر قال له اطلقني قال لا اطلقك دون ان تباركني
 
+### Targum Jerusalem
+וַאֲמַר שְׁלַח יָתִי אֲרוּם סַלִיק עַמוּד שַׁחְרָא וְהָא מָטָא שַׁעַתְהוֹן דְמַלְאָכַיָא לְמִשְׁבְּחָא וַאֲמַר לָא אֲשַׁלֵחַ יָתָךְ אֶלָא הֵן בָּרִיכַת יָתִי:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](27_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

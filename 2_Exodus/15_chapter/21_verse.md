@@ -19,6 +19,9 @@
 **Arabic script:**
 فاجابتهم مريم سبحو لله اذ اقتدر اقتدارا الخيل وركابها رما بهم في البحر
 
+### Targum Jerusalem
+בְּתוּפַיָיא הֲוָון חַיְילִין:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](21_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

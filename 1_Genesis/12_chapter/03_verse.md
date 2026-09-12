@@ -19,6 +19,9 @@
 **Arabic script:**
 وابارك مباركيك وشاتمك العن ويتبرك بك جميع عشاير الارض
 
+### Targum Jerusalem
+וַאֲבָרֵךְ מַאן דִי בְרִיךְ יָתָךְ וּמַן דְלַיִיט יָתָךְ יֶהֱוֵי לִיט וְיִתְבָּרְכוּן בִזְכוּתָךְ כָּל זַרְעַיַת אַרְעָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](03_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

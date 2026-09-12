@@ -19,6 +19,9 @@
 **Arabic script:**
 اللهم يا رب انت ابتديت ان تري عبدك عظمتك وقدرتك الشديده لان اي الاه في السما وفي الارض يصنع كصنايعك وجباروتك
 
+### Targum Jerusalem
+בְּבָעוּ בְּרַחֲמִין מִן קֳדָמָךְ יְיָ אֱלהִים אַתְּ שָׁרִיתָ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](24_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

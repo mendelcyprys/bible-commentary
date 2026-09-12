@@ -19,6 +19,9 @@
 **Arabic script:**
 واتي موسي وكلم القوم بهذه التسبيحه هو ويوشع بن نون
 
+### Targum Jerusalem
+וַאֲתָא משֶׁה וּמַלֵיל יַת כָּל שְׁבַח פִּתְגָמֵי שִׁירָתָא הֲדָא בְּמִשְׁמָעֵיהוֹן דְעַמָא הוּא וְהוֹשֵׁעַ בַּר נוּן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](44_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

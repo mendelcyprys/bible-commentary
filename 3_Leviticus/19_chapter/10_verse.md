@@ -19,6 +19,9 @@
 **Arabic script:**
 وكرمك فلا تمشه ومفروط كرمك فلا تلقطه بل اتركها للضعيف والغريب انا الله ربكم اجازيكم خيرا
 
+### Targum Jerusalem
+וְכַרְמֵיכוֹן לָא תְבַעֲרוּן טוֹטְלָוַתְהוֹן וּפֶרֶט כַּרְמֵיכוֹן לָאתִלְקוֹטוּן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](10_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

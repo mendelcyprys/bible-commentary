@@ -19,6 +19,9 @@
 **Arabic script:**
 وانفسدت الارض بين يدي الله وامتلت الارض ظلما
 
+### Targum Jerusalem
+וְאִיתְמְלִיאַת אַרְעָא חוֹמְסִין וְגוֹזָלִין:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](11_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

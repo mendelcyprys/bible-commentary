@@ -19,6 +19,9 @@
 **Arabic script:**
 وضعفا من الفضه خذو معكم والفضه المردوده في فواه اوعيتكم ردوها معكم لعل كان سهوا
 
+### Targum Jerusalem
+בְּכֵיפְלָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](12_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 ذكر الله نوحا وجميع الوحش والبهايم الذين معه في التابوت فامر الله بريح علي الارض سكن بها الما
 
+### Targum Jerusalem
+וְאִדְכַּר בְּרַחֲמוֹי טָבָא דְאִית עִמֵיהּ יַת נחַ וְאַעֲבֵר יְיָ רוּחָא דְרַחֲמִין:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](01_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

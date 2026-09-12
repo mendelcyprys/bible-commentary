@@ -19,6 +19,9 @@
 **Arabic script:**
 شمعون ولوي اخوان في اله الظلم فرضتهما
 
+### Targum Jerusalem
+שִׁמְעוֹן וְלֵוִי אַחִין תַּלְמִין גִבָּרִין מָרֵי זְיָינָא שְׁנִינָא עֲבָדוּ קְרַב מִן טַלְיוּתְהוֹן בְּאַרְעָא בַּעֲלֵי דְבָבֵיהוֹן עֲבָדוּ נִיצְחַנֵי קְרָבֵיהוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](05_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

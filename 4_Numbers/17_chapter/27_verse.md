@@ -19,6 +19,9 @@
 **Arabic script:**
 ثم قال بنو اسرايل لموسي هوذا توفي منا وباد منا فكلنا هالكون
 
+### Targum Jerusalem
+וְאָמְרִין בְּנֵי יִשְרָאֵל לְמֵימָר הָא סַפְנָן וּכִדְנַן כּוּלָנָא אִישְׁתֵּיצִינָן אִית מִינָן דִי מִית בְּמַגֵיפְתָּא אִית מִינָן דִי פְתָחַת אַרְעָא יַת פּוּמָהּ וּבְלָעַת יַתְהוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](27_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

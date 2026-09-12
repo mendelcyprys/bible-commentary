@@ -19,6 +19,9 @@
 **Arabic script:**
 من سالك علي صدره وسالك علي اربع الي كل ما كثرت ارجله من جميع الدبيب الداب علي الارض لا تاكلوهم فانهم ارجاس
 
+### Targum Jerusalem
+כָּל דִּשְׁחַף עַל מָעוֹי בְּכָל חַיְיתָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](42_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

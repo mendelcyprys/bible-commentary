@@ -19,6 +19,9 @@
 **Arabic script:**
 ذكرنا السمك الذي كنا ناكله بمصر مجانا والقثا والبطيك والكراث والبصل والثوم
 
+### Targum Jerusalem
+מְדַכְרִין אֲנַחְנָא יַת נוּנַיָא דְהַוֵוינָן אָכְלִין בְּמִצְרַיִם מַגָן יַת קַטְיָא וְיַת מַלְפָנַיָא וְיַת כְּרַתְיָא וְיַת בָּצְלַיָא וְיַת תּוּמַיָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](05_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

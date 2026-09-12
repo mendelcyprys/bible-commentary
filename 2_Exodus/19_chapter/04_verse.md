@@ -19,6 +19,9 @@
 **Arabic script:**
 انتم شاهدتم ما صنعته بالمصريين وحملتكم شبيها علي اجنحه النسور واتيت بكم الي جبلي هذا
 
+### Targum Jerusalem
+אַתּוּן חֲמִיתוּן יַת מַה דְּאִפְרָעִית מִן מִצְרָאֵי וּסְבָלִית יַתְכוֹן עַל עֲנָנִין קְלִילִין הֵיךְ עַל כַּנְפֵי נִשְׁרִין וּקְרֵיבִית יַתְכוֹן לְאוּלְפַן ארַיְיתִי:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](04_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

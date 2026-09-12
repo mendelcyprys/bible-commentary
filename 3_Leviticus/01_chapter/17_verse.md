@@ -19,6 +19,9 @@
 **Arabic script:**
 ويفصله من اجنحته ولا يفرزه ثم يقتره الامام علي المذبح علي الحطب الذي علي النار هي صعيده قربان مرضي لله
 
+### Targum Jerusalem
+וְיִתְלַע יָתֵיהּ בְּכַנְפוֹי לָא יַפְרִישׁ וִיסַדֵר יָתֵיהּ כַּהֲנָא עַל גַּבֵּי מַדְבְּחָא עַל קֵיסַיָא דְאִית עַל אֵשָׁתָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](17_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

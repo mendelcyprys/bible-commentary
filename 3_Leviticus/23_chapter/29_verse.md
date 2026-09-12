@@ -19,6 +19,9 @@
 **Arabic script:**
 وكل انسان بالغ لم يصم في ذات هذا اليوم فينقطع من قومه
 
+### Targum Jerusalem
+אֲרוּם כָּל נְפַשׁ דִּכְמֵיסַת לִמְצוֹם וְלָא צַיְימָא בְּיוֹם צוֹם כִּפּוּרֵיהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](29_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

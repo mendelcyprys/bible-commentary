@@ -19,6 +19,9 @@
 **Arabic script:**
 وكل اول بطن فهو لي ما ذكرته من جميع ماشيتك من اوايل البقر والغنم
 
+### Targum Jerusalem
+כָּל קֳדָמוֹי פַלְחֵי וַולְדָא תִּפְרְשׁוּן לִשְׁמִי כָּל פִּטְרֵיכוֹן דִּכְרַיָא קֳדָמוֹי פַּלְחֵי וַלְדָא דְתוֹרָא וּדְאִימְרָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](19_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

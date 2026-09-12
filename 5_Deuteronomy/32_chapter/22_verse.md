@@ -19,6 +19,9 @@
 **Arabic script:**
 لان النار تنقدح من غضبي فتتوقد الي اسفل الثري وتاكل الارض ونباتها حتي تسطع اساس الجبل
 
+### Targum Jerusalem
+אֲרוּם אֶשָא נַפְקַת בְּשַׁעַת רוּגְזִי וְאוֹקֵדַת עַד שִׁיוֹל אַרְעִיתָא וְתִכְלַת אַרְעָא וּמַלְיָהּ וּלְהָטַת יְסוֹדֵי טוּרַיָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](22_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

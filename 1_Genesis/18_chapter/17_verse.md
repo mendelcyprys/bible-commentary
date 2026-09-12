@@ -19,6 +19,9 @@
 **Arabic script:**
 فقال الله هل اخفي انا عن ابرهيم ما انا صانعه
 
+### Targum Jerusalem
+וַיְיָ בְּמֵימְרֵיהּ אָמַר הַמְכַסֵי אֲנָא מֵאַבְרָהָם רַחֲמִי יַת מַה דַאֲנָא עָבִיד הוֹאִיל וּכְרַכָּא דִסְדוֹם בְּגוֹ מַתַּנְתָּא דִי יְהָבִית לֵיהּ דִינָא הוּא דְלָא נָפִיךְ יָתָהּ עַד זְמַן דְאוֹדַע יָתֵיהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](17_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

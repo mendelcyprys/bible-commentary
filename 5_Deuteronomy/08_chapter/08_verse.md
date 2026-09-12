@@ -19,6 +19,9 @@
 **Arabic script:**
 بلد حنطه وشعير وجفن وتين ورمان بلد زيتون زيت وعسل
 
+### Targum Jerusalem
+אַרְעָא דְמִן זֵיתָהָא עָבְדִין מְשַׁח וּמִן תְּמָרָהָא עָבְדִין דּוּבְשָׁא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](08_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

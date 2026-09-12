@@ -19,6 +19,9 @@
 **Arabic script:**
 ولا يدخلو فينظرو عند تغطيه القدس فيهلكون
 
+### Targum Jerusalem
+וְלָא יֵיעָלוּן לֵיוָאֵי לְמֶחְמֵי כַּד יֶהֱוְיַין כַּהֲנַיָא מְשַׁקְעִין מָאנֵי בֵּית קוּדְשָׁא דְלָא יְמוּתוּן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](20_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

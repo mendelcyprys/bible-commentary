@@ -19,6 +19,9 @@
 **Arabic script:**
 يمينك يا رب جليله في القوه يمينك يا رب ترهب الاعدا
 
+### Targum Jerusalem
+מַה מְּשַׁבְּחָא הִיא בְּחֵילָא יְמִינָךְ יְיָ דְרָעָא וּמְרַצְצָא שׁוּרֵי בַּעֲלֵי דְבָבֵיהוֹן דְּעַמָּךְ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](06_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

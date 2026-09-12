@@ -19,6 +19,9 @@
 **Arabic script:**
 ووجدها ملاك الله علي عين ما في البريه علي العين في طريق حجر الحيجاز
 
+### Targum Jerusalem
+שׁוֹר חֲלוּצָה:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](07_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

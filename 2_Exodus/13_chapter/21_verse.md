@@ -19,6 +19,9 @@
 **Arabic script:**
 والله ساير بين يديهم نهارا بعمود من غمام ليدلهم علي الطريق وفي الليل بعمود من نار ليضي لهم فيسيرو نهارا وليلا
 
+### Targum Jerusalem
+לְמֶהֱוֵון מְהַלְכִין בִּימָמָא וּבְלֵילְיָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](21_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

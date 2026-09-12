@@ -19,6 +19,9 @@
 **Arabic script:**
 ثم قال له بلعم قف عند قربانك وامضي انا فلعلي يوافيني امر الله واي قول يلقننيه اخبرتك به ومضي في هدي
 
+### Targum Jerusalem
+וַאֲזַל בִּלְעָם בְּלֵב שֶׁפִי:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](03_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 والداخلون ذكور واناث من كل بشري دخلو كما امره الله به وحجب الله دونه
 
+### Targum Jerusalem
+וְחַס מֵימְרֵיהּ דַיְיָ עֲלוֹהִי:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](16_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

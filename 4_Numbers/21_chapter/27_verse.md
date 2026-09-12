@@ -19,6 +19,9 @@
 **Arabic script:**
 ولذلك يقول الممثلون ادخلو الي حشبون حتي تبنا وتهيا قريه سيحون
 
+### Targum Jerusalem
+מִן בְּגִין כֵּן יֵימְרוּן מְתוּלֵי מְתָלַיָיא עוּלוּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](27_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

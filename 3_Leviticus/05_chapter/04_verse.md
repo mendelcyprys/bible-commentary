@@ -19,6 +19,9 @@
 **Arabic script:**
 او انسان حلف بلفظ شفتيه لاساه او لاحسان علي جميع ما لفظ الانسان بيمين وغاب ذلك عنه ثم علم بما فعل واثم بواحده من هذه
 
+### Targum Jerusalem
+לְמַבְאִישָׁא אוֹ לְמֵיטָבָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](04_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

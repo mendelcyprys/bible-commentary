@@ -19,6 +19,9 @@
 **Arabic script:**
 وان تزوج باخري فطعامها وكسوتها واوقاتها لا ينقصها
 
+### Targum Jerusalem
+וְאִם אִתָּא אוֹחֲרֵי יִסַב עֲלָהּ מְזוֹנָהּ תַּכְשִׁיטָהּ מֵעַיְלָהּ וּמַפְקָהּ לְוָותָהּ לָא יִמְנַע מִינָהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](10_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

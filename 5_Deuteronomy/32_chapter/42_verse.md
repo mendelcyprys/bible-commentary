@@ -19,6 +19,9 @@
 **Arabic script:**
 فكاني اسكر سهامي من دماهم وسيفي ياكل لحومهم فيروي من دم الصريع والسبي من روس فراعنه الاعدا
 
+### Targum Jerusalem
+אַרִוֵוי גִירַי מִן אַדְמֵיהוֹן וְחַרְבִּי תִּתְכַּל בְּבִשְרֵהוֹן מִן אֲדַם קְטוֹלֵיהוֹן דְעַמִי וְשִׁבְיֵיהוֹן מִן רֵישֵׁי גִבּוֹרֵיהוֹן פּוּלְמַרְכֵיהוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](42_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

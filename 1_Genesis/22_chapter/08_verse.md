@@ -19,6 +19,9 @@
 **Arabic script:**
 قال ابرهيم الله يظهر الحمل للقربان يا بني ومضيا جميعا
 
+### Targum Jerusalem
+וַאֲמַר אַבְרָהָם מֵימְרֵיהּ דַיְיָ יִזְדַמֵן לִי אִימְרָא וְאִין לָא אַתְּ הוּא לְעָלָתָא בְּרִי וְהַלִיכָן תַּרְוֵויהוֹן כַּחֲדָא בְּלֵב שֶׁפִי:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](08_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

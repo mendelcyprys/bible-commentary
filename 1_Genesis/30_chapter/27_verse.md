@@ -19,6 +19,9 @@
 **Arabic script:**
 قال له لبن ان وجدت حظا عندك قد جربتك فباركني الله بجريرتك
 
+### Targum Jerusalem
+אַטְיָירִית:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](27_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

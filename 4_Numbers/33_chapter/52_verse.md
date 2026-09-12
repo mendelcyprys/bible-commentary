@@ -19,6 +19,9 @@
 **Arabic script:**
 فاقرضو جميع اهل البلد من بين يديكم وابيدو جميع مزخرفاتهم واصنام مسبوكاتهم وبيعهم تنفذوها
 
+### Targum Jerusalem
+וּתְשֵׁיצִינוּן יַת כָּל דַיָירֵי אַרְעָא מִן קֳדָמֵיכוֹן וּתְסוּפוּן יַת כָּל טַעֲוַותְהוֹן וְיַת כָּל צַלְמֵי מַתַּכְוַותְהוֹן תִּתְפַּרְכוּן וְיַת כָּל בַּמְסֵיהוֹן תְּשֵׁיצוּן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](52_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

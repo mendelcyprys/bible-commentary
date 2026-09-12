@@ -19,6 +19,9 @@
 **Arabic script:**
 فرفع يده وضرب الصخر بعصاه مرتين فخرج ما كثير شربت منه الجماعه وبهايمهم
 
+### Targum Jerusalem
+וְאַרְעֵם משֶׁה:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](11_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

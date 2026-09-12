@@ -19,6 +19,9 @@
 **Arabic script:**
 مر بني اسرايل بان يعطو للليوانيين من نحله حوزهم قري يسكنونها وافنيه لها حواليها تعطوهم
 
+### Targum Jerusalem
+וּפַרְוִוילֵי לְקִרְיַת חֲזוֹר חֲזוֹר לְהוֹן יִתְּנִינוּן לְלֵיוָאֵי:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](02_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

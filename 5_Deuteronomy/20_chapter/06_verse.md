@@ -19,6 +19,9 @@
 **Arabic script:**
 واي رجل غرس كرما ولم يبذله فليمض ويرجع الي منزله كيلا يقتل في الحرب ورجل اخر يبذله
 
+### Targum Jerusalem
+וְלָא יִפְרַג יָתֵיהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](06_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

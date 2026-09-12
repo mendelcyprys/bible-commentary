@@ -19,6 +19,9 @@
 **Arabic script:**
 القينيين والقنيزيين والقدمونيين
 
+### Targum Jerusalem
+וְיַת כָּל בְּנֵי מַדִינְחָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](19_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

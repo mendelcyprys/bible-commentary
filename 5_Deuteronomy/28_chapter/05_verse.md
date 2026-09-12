@@ -19,6 +19,9 @@
 **Arabic script:**
 ومباركا ما في نبايجك ومعاجنك
 
+### Targum Jerusalem
+בְּרִיכִין תְהֶוְיָן בְּסַלֵי בִּיכּוּרֵיכוֹן וּבְאַצְוַותְכוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](05_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 فعاش بعد ذلك ثمان مايه سنه اولد فيها بنين وبنات
 
+### Targum Jerusalem
+תַּמְנֵי מְאָה שְׁנִין וּבְהוֹן בִּשְׁנַיָא הֲוָה מוֹלִיד בְּנִין וּבְנָן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](04_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 ثم ماتت دبوره دايه ربقه فدفنت اسفل من بيت ال تحت المرج فسماه مرج البكا
 
+### Targum Jerusalem
+וּמִיתַת דְבוֹרָה מַרְבְּיָיתָא דְרִבְקָה וְאִתְקְבָרַת מִלְרַע לְבֵית אֵל תְּחוֹת בְּלוּטָה וּקְרָא שְׁמֵיהּ בְּלוֹט בְּכוּתָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](08_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

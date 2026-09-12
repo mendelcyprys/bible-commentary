@@ -19,6 +19,9 @@
 **Arabic script:**
 لان غماما من عند الله علي المسكن نهارا ونار تكون فيه ليلا بحضره بني اسرايل في جميع مراحلهم
 
+### Targum Jerusalem
+אֲרוּם עֲנַן יְקַר שְׁכִינְתֵּיהּ דַיְיָ הֲוָה מַטְלָל עַל מַשְׁכְּנָא בִּימָמִין וְאֵשָׁתָא הֲוָה מְנַהֲרָא עִלַוֵיהּ לֵילְיָא חַמְיַין כָּל בֵּית יִשְרָאֵל בְּכָל מַטְלָנֵיהוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](38_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

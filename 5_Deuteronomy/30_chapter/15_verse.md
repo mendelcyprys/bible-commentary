@@ -19,6 +19,9 @@
 **Arabic script:**
 انظر قد جعلت بين يديك اليوم الحياه والخير والموت والشر
 
+### Targum Jerusalem
+חֲזוֹן הָא שַׁוִית קֳדָמֵיכוֹן יוֹמָא הָדֵין יַת אוֹרְחָא דְחַיָיא דְהִיא אוֹרְחָא טַבְתָא וְיַת אוֹרְחָא דְמִיתוּתָא דְהִיא אוֹרְחָא בִּישָׁתָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](15_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

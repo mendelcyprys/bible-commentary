@@ -19,6 +19,9 @@
 **Arabic script:**
 والصقر والببغا باصنافها والهدهد والخفاش
 
+### Targum Jerusalem
+וְדַיְיתָא חִיוָורִיתָא וְאַבְנִיתָא לְמִינָהּ וְיַת נַגַר טוּרָא וְיַת חֲרַפְתָּא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](18_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

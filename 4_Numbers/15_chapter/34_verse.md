@@ -19,6 +19,9 @@
 **Arabic script:**
 ووضعوه في الحبس لانه لم يفسر لهم ما يصنع به
 
+### Targum Jerusalem
+דין חד מן ארבע דינין כוליה כתוב למעלה במקלל ובטמא מת: וְאַצְנִיעוּ יָתֵיהּ בְּמַטְרָא עַד זְמַן דִי תִתְפְּרַשׁ לְהוֹן מִן קֳדָם יְיָ בְּאִילֵין דִינִין יִתְעֲבֵיד בֵּיהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](34_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 تكون من الحديد والنحاس مغالقك ولتكن كايامك هذه شجاعتك
 
+### Targum Jerusalem
+הָא עַמָא הָאִילֵין דְבֵית אָשֵׁר בְּרִירִין הֵיךְ פַּרְזְלָא וַחֲסִימִין הֵיךְ נְחָשָׁא כְיוֹמֵי עוּלֵימַתְהוֹן כֵּן יוֹמֵי סָבוּתְהוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](25_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

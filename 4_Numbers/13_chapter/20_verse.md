@@ -19,6 +19,9 @@
 **Arabic script:**
 وما هيه الارض اهي سمينه ام هزلي وهل فيها شجر مغروس ام لا وتشددو وخذو من ثمرها وهذا الفصل ايام بكور العنب
 
+### Targum Jerusalem
+וּמָה אַרְעָא הַשְׁמִינִין אִינוּן פֶּרְיָן אוֹ עֶצְיָן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](20_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

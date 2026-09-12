@@ -19,6 +19,9 @@
 **Arabic script:**
 وسلسلتين من ذهب خالص معتدلتين تصنعهما صنعه الضفر وعلق السلسلتين المضفورتين علي العيون
 
+### Targum Jerusalem
+שִׁישְׁלָן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](14_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 ان الكتان والشعير قد عطبا لان الشعير كان فريكا والكتان مشلفا
 
+### Targum Jerusalem
+וְכִתָּנָא הֲוַת גַבְעוּלִין וְאִתָּרַת נִצָהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](31_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

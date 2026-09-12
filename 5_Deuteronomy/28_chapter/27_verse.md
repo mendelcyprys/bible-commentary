@@ -19,6 +19,9 @@
 **Arabic script:**
 ويضربك الله بقرح مصر والبواسير والجرب والحكه ما لا تستطيع مداواته
 
+### Targum Jerusalem
+יִמְחֵי יַתְכוֹן מֵימְרָא דַיְיָ בְּשׁוֹחֲנָא דְמִצְרַיִם וּבִטְחוֹרַיָא וּבְגַרְבָּא וּבַחֲכוּךְ חַסְפָּא דִי לָא יָכְלִין לְמִתַּסְיָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](27_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

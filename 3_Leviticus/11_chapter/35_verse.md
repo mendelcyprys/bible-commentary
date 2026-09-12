@@ -19,6 +19,9 @@
 **Arabic script:**
 وكل ما وقع من نبايلهم عليه فينجس من تنور ومستوقد فانقصوهما لانها نجسه وكذاك نجس يكون لكم
 
+### Targum Jerusalem
+יותץ יִתַּרְעוּן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](35_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

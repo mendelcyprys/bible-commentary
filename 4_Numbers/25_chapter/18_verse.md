@@ -19,6 +19,9 @@
 **Arabic script:**
 لانهم اعدا لكم باغتيالهم الذي اغتالوكم بسبب فعور وبسبب كزبي ابنه شريف مدين اختهم المقتوله في يوم الوبا بسبب فعور
 
+### Targum Jerusalem
+בנכליהם בְּשִׁקְרֵיהוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](18_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

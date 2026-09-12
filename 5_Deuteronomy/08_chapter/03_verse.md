@@ -19,6 +19,9 @@
 **Arabic script:**
 واتعبك واجاعك فاطعمك المن الذي لم تعرفه ولم يعرفه اباوك لكي يعرفك انه ليس علي الخبز وحده يحيا الانسان بل علي جميع قول الله يعيش
 
+### Targum Jerusalem
+אֲרוּם לָא עַל מָזוֹנָא לְבִלְחוֹדוֹי:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](03_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

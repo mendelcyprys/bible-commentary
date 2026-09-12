@@ -19,6 +19,9 @@
 **Arabic script:**
 وكان جميع اهل الارض اهل لغه واحده وكلام واحد
 
+### Targum Jerusalem
+וַהֲווֹן כָּל דָרַיָיא דְאַרְעָא לִישָׁן חָד וּמַמְלַל חָד עֵיצָה חֲדָא אֲרוּם בְּלִישָׁן קוּדְשָׁא הֲווֹ מְמַלְלִין דְבָּהּ אִתְבְּרִי עַלְמָא מִן שֵׁרוּיָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](01_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

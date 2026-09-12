@@ -19,6 +19,9 @@
 **Arabic script:**
 ثم مضي رجل من اللوي فتزوج بابنه لوي
 
+### Targum Jerusalem
+וַאֲזַל גַבְרָא מִשִׁבְטָא דִלֵוִי וּנְסַב יַת יוֹכֶבֶד חֲבִיבָתֵיהּ לֵיהּ לְאִתָּא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](01_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

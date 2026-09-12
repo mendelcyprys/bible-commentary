@@ -19,6 +19,9 @@
 **Arabic script:**
 وزال سيماهم من حشبون الي ديبون وتوحش الي نفح التي عند ميدبا
 
+### Targum Jerusalem
+וּפַסְקָא מַלְכוּ מִן חֶשְׁבּוֹן וְשׁוּלְטַן מִן דִיבוֹן וּצְדַן אוֹרְחָתֵיהּ עַד נְפָחַיָא דִסְמִיךְ לְמֵידְבָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](30_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

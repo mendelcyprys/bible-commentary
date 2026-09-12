@@ -19,6 +19,9 @@
 **Arabic script:**
 لانه ليس بكلام فارغ هو عنكم بل هي حياتكم وبه تطول مدتكم في البلد الذي انتم جايزون الاردن اليه لتحوزوه
 
+### Targum Jerusalem
+אֲרוּם לֵית פִּתְגַם רֵיקָן הוּא מִנְכוֹן אֲרוּם הוּא חַיֵיכוֹן וּבְפִתְגָמָא הָדֵין תִּסְגוּן יוֹמִין עַל אַרְעָא דִי אַתּוּן עָבְרִין יַת יַרְדְנָא תַּמָן לְמֵירַת יָתָהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](47_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

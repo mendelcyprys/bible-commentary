@@ -19,6 +19,9 @@
 **Arabic script:**
 لاني عالم خلافك وصعوبه رقبتك هوذا وانا في الحياه معكم لم تزالو مخالفين وكيف بعد موتي
 
+### Targum Jerusalem
+עַל אַחַת כַּמָה וְכַמָה בָּתַר דְאֵימוּת:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](27_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

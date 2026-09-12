@@ -19,6 +19,9 @@
 **Arabic script:**
 حتي الح عليهما جدا فمالا اليه ودخلا منزله فصنع لهم مجلسا وخبز فطيرا فاكلو
 
+### Targum Jerusalem
+וַהֲווֹ מִתְחַמְיַין הֵיךְ אָכְלִין וְהֵיךְ שָׁתְיָין:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](03_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

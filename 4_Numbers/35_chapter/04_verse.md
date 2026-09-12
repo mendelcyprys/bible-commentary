@@ -19,6 +19,9 @@
 **Arabic script:**
 وافنيه القري التي تعطونها اليوانيين من خارج حايط القريه الف ذراع مستديرا
 
+### Targum Jerusalem
+ומגרשי. וּפַרְוִוילֵי:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](04_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

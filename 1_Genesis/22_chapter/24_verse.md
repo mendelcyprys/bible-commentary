@@ -19,6 +19,9 @@
 **Arabic script:**
 وامته اسمها راومه وولدت ايضا هي طبح وغحم وتحش ومعكه
 
+### Targum Jerusalem
+וּפְלַקְתֵּיהּ וּשְׁמָהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](24_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

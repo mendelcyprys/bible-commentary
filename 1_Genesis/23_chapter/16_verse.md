@@ -19,6 +19,9 @@
 **Arabic script:**
 فلما سمع ابرهيم ذلك منه وزن له الفضه التي ذكرها بحضره بني حت اربع مايه مثقال فضه جايزه في التجارات
 
+### Targum Jerusalem
+אַרְבַּע מְאָה סַלְעִין דִכְסַף עָבְרִין לְכָל פְּתוֹר וּמִתְקַבְּלִין בְּכָל פְּרַקְמַטְיָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](16_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

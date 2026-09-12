@@ -19,6 +19,9 @@
 **Arabic script:**
 واصنع صرادق المسكن من جهه مهب الجنوب قلوع للصرادق من عشر مشزور مايه ذراعا طولها في الجهه الواحده
 
+### Targum Jerusalem
+וָוִילְוָוִין:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](09_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

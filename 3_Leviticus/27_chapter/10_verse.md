@@ -19,6 +19,9 @@
 **Arabic script:**
 لا يبدله ولا يغيره جيدا بردي ولا رديا بجيد فان غير بهيمه ببهيمه فقد صار هو وبديله قدسا
 
+### Targum Jerusalem
+וְלָא יִפְרַג יָתֵיה טַב בְּבִישׁ אוֹ בִישׁ בְּטַב וְאִין מְפַרְגָא יִפְרַג בְּעִיר בִּבְעִיר וִיהֵי הוּא וּפִירוּגֵּיהּ יְהֵי קַדִּישׁ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](10_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

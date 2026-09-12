@@ -19,6 +19,9 @@
 **Arabic script:**
 فكذاك الله ربك امرك اليوم لتكون له امه خاصه كما وعدك وان تحفظ جميع وصاياه
 
+### Targum Jerusalem
+וּמֵימְרָא דַיְיָ אַמְלָךְ עֲלֵיכוֹן לִשְׁמֵיהּ לְעַם חֲבִיבַיָא הֵיךְ סְגוּלָה הֵיךְ מַה דִי מַלֵיל לְכוֹן וּלְמִיטַר כָּל פִּיקוּדוֹי:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](18_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

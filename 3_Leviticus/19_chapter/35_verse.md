@@ -19,6 +19,9 @@
 **Arabic script:**
 لا تصنعو جورا في الحكم ولا في المساحه والوزن والمكايل
 
+### Targum Jerusalem
+וּבְמוֹזְנַיָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](35_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

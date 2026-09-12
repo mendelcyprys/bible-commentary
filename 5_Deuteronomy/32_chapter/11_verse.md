@@ -19,6 +19,9 @@
 **Arabic script:**
 كالنسر يثيير علي وكره وعلي جوازله يرفرف يبسط جناحيه فياخذهم ويحملهم علي ريشه
 
+### Targum Jerusalem
+כְּנִישְׁרָא דְמֵעִיר עַל קִינֵיהּ וְעַל גוֹזָלוֹי הוּא מְחַסְחַף פְּרָס כַּנְפוֹי וְטָעַן יַתְהוֹן וּסְבַל יַתְהוֹן עַל תְּקוֹף אֶבְרוֹי:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](11_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

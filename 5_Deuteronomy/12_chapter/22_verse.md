@@ -19,6 +19,9 @@
 **Arabic script:**
 لكن كما يوكل الظبي والايل كذاك تاكله ان يجوز للنجس والطاهر ان ياكلا منه
 
+### Targum Jerusalem
+דִּמְרָחֵק מִן קוּדְשַׁיָא וְדִדְכֵי מִן קוּדְשַׁיָא כַּחֲדָא תֵּיכְלוּן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](22_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

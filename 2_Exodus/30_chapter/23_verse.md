@@ -19,6 +19,9 @@
 **Arabic script:**
 وانت فخذ لك من روس الطيب من المسك الخالص خمس مايه مثقال ومن عود الطيب مثل نصفه مايتين وخمسين مثقالا ومن قصبه ذريره مايتين وخمسين ايضا
 
+### Targum Jerusalem
+וְאַתְּ סַב לָךְ רֵישֵׁי בּוּסְמָנִין טָבִין מוֹר בְּחִיר תְּקַל חֲמֵשׁ מְאָה דְסַלְעִין:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](23_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

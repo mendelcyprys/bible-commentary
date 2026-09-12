@@ -19,6 +19,9 @@
 **Arabic script:**
 فلما سمع ان قد سبي قريبه جرد نصحاه المولودين في منزله ثلث مايه وثمانيه عشر وكلبهم الي بانياس
 
+### Targum Jerusalem
+מַרְבִּיצֵי בֵּיתֵיהּ תְמַנֵי עַשְרֵי וּתְלַת מְאָה וּרְדַף בַּתְרֵיהוֹן עַד דָן דְקִיסְרִיוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](14_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

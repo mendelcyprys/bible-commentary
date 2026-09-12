@@ -19,6 +19,9 @@
 **Arabic script:**
 فقال ملك سدوم لابرم اعطني النفوس والسرح خذه لك
 
+### Targum Jerusalem
+וּסְגוּלָה דְבַר לָךְ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](21_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

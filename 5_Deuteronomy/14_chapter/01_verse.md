@@ -19,6 +19,9 @@
 **Arabic script:**
 واذ انتم اوليا الله ربكم كالبنين فلا تتخدشو ولا تجعلون نتفا بين عيونكم علي امواتكم
 
+### Targum Jerusalem
+בְּנִין חֲבִיבִין אַתּוּן קֳדָם יְיָ אֱלָהָכוֹן לָא תַעַבְדוּן חֲבוּרִין חֲבוּרִין לְפוּלְחָנָא נוּכְרֵיתָא וְלָא תְשַׁווּן קַרְחָא עַל בֵּית אַפֵּיכוֹן לִטְמֵי נַפְשָׁא דְמִית:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](01_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

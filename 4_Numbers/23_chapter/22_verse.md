@@ -19,6 +19,9 @@
 **Arabic script:**
 الطايق المخرجهم من مصر بارق الريم مانع عنهم
 
+### Targum Jerusalem
+אֱלָהָא דִי פְרַק וְאַפֵּיק יַתְהוֹן פְּרִיקִין מִמִצְרַיִם תּוּקְפָא וְתוּשְׁבַּחְתָּא וְרוֹמְמוּתָא דִידֵיהּ הִיא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](22_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

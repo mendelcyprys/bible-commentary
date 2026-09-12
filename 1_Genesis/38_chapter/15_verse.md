@@ -19,6 +19,9 @@
 **Arabic script:**
 فراها يهوده وحسبها ممتعه لانها كانت تغطي وجهها
 
+### Targum Jerusalem
+אֲרוּם צִמְצְמַת אַפָּהָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](15_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

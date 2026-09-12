@@ -19,6 +19,9 @@
 **Arabic script:**
 وجميع اجود الدهن والعصير والبر اوايلها التي يجعلونها لله قد جعلتها لك
 
+### Targum Jerusalem
+כָּל טוּב חִיטַיָיא וְכָל טוּב חֲמַר וּמִשְׁחָא שִׁירוּיַיתְהוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](12_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

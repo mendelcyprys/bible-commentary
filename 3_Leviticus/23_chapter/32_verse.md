@@ -19,6 +19,9 @@
 **Arabic script:**
 هي عطله سبت لكم وتجيعو انفسكم من عشيه التاسع في الشهر الي عشا التالي تعطلو عطلتكم
 
+### Targum Jerusalem
+מִן רַמְשָׁא עַד רַמְשָׁא תֶּהֱווֹן צַיְימִין צוֹמֵיכוֹן וְשָׁבְתִין שׁוּבְתֵיכוֹן וְעַבְדִין זִמְנִין מוֹעֲדֵיכוֹן בְּחֶדְוָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](32_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

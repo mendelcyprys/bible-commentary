@@ -19,6 +19,9 @@
 **Arabic script:**
 اذ رحلو من عين شمس في الشهر الاول في اليوم الخامس عشر منه وذلك من غد الفسح فخرج بنو اسرايل بيد رفيعه بحضره جميع المصريين
 
+### Targum Jerusalem
+וּנְטָלוּ מִן פִּלוּסִין בְּיַרְחָא קַדְמָאָה:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](03_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

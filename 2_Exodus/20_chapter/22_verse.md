@@ -19,6 +19,9 @@
 **Arabic script:**
 وان صنعت لي مذبحا من حجاره فلا تبنها مهندمه فانك ان حركت حديدا عليها بذلتها
 
+### Targum Jerusalem
+וְאִם מַדְבַּח אַבְנִין תַּעַבְדוּן לִשְׁמִי לָא תִבְנֵי יַתְהוֹן חֲצִיבִין אֲרוּם פַּרְזְלָא חַרְבָּא מִתְעַבִיד מִנֵיהּ אִי עַבְרַת פַּרְזְלָא עֲלוֹי אַפִיסַת יָתֵיהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](22_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

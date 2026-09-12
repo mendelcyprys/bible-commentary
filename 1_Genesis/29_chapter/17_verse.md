@@ -19,6 +19,9 @@
 **Arabic script:**
 وعينا لاه حسنتان وكانت رحل حسنه الحليه والمنظر
 
+### Targum Jerusalem
+וְעֵינֵי דְלֵאָה הֲוָון רַכִּיכַן עַל דַהֲוַת בַּכְיָא וּמַצְלָא דְלָא תִיסוּק בְּמַזְלֵיהּ דְעֵשָו וְרָחֵל הֲוָת יָיָא בְּרֵיוָא וְשַׁפִּירָא בְּחֶזְוָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](17_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 لا يكن لك في بيتك مكيالان كبير وصغير
 
+### Targum Jerusalem
+לָא יֶהֱוֵי לְכוֹן בְּבָתֵּיכוֹן מְכִילָן וּמְכִילָן מְכִילָא רַבָּא לְמֶהֱוֵי זַבָּן בְּהוֹן וּמְכִילָא זְעֵירָא לְמֶהֱוֵי מְזַבֵּן בְּהוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](14_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

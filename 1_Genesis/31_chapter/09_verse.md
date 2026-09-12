@@ -19,6 +19,9 @@
 **Arabic script:**
 فافاد الله من غنم ابيكن واعطاني
 
+### Targum Jerusalem
+וְרוֹקַן מֵימְרָא דַיְיָ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](09_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

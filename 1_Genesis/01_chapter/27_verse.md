@@ -19,6 +19,9 @@
 **Arabic script:**
 فخلق الله ادم بصورته بصوره شريفه مسلطا خلقه ذكرا وانثي خلقهما
 
+### Targum Jerusalem
+וּבְרָא מֵימְרָא דַיְיָ יַת אָדָם בִּדְמוּתֵיהּ בִּדְמוּת מִן קֳדָם יְיָ בְּרָא יָתֵיהּ דְכַר וְזוּגֵיהּ בְּרָא יַתְהוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](27_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

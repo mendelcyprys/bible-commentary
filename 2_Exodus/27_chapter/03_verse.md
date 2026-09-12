@@ -19,6 +19,9 @@
 **Arabic script:**
 واصنع صنانه لرماده ومجارفه وكرانيبه ومناشله ومجامره جميع انيته تصنعها من نحاس
 
+### Targum Jerusalem
+וְתַעֲבֵיד דּוּדְוָותָא לְמֵירְדָדָא יָתֵיהּ וְיָעוֹי וּמִזְרָקוֹי וּמְשִׁלְיָיתָהּ וּמַחְתְּיָיתָהּ לְכָל מָנוֹי תַעֲבֵיד נְחָשָׁא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](03_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

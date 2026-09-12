@@ -19,6 +19,9 @@
 **Arabic script:**
 وكان اسرايل يحب يوسف اكثر من جميع بنيه لانه ابن شيخوخه له فصنع له تونيه ديباج
 
+### Targum Jerusalem
+פַּרְגוּד מְצוּיָיר:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](03_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

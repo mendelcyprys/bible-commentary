@@ -19,6 +19,9 @@
 **Arabic script:**
 فقالت لاه قد صح الخبر واسمته غد
 
+### Targum Jerusalem
+וַאֲמָרַת לֵאָה אָתָא גַדָא טָבָא דְעָתִיד לְמַגְדְעָא מִשְׁתּוּיֵיהוֹן דְאוּמַיָא וּקְרָת:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](11_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

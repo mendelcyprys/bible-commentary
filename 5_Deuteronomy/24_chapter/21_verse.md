@@ -19,6 +19,9 @@
 **Arabic script:**
 واذا قطفت كرمك فلا تمشه بعد ذلك بل يكون للغريب ولليتيم والارمله
 
+### Targum Jerusalem
+אֲרוּם תִּקְטְפוּן כַּרְמֵיכוֹן לָא תְבַעֲרוּ טוֹטְלָוַתְהוֹן מִבָּתַר כֵּן לְגִיּוֹרָא לְיַתְמָא וּלְאַרְמַלְתָּא יֶהֱווֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](21_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

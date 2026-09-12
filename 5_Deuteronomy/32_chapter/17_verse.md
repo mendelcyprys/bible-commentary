@@ -19,6 +19,9 @@
 **Arabic script:**
 يذبحون للشياطين وليست بالهه وهي معبودات لم يعرفوها جدد جات من قريب ولم يعب بها اخيار ابايكم
 
+### Targum Jerusalem
+יְדַבְּחוּן לְשֵׁידַיָא דְלֵית בְּהוֹן מַמָשׁ טַעֲוָון דְלָא חַכִּימוּ יַתְהוֹן חַדְתָּנִין מִן כְּדוּן אִתְבְּרוּן וְלָא אִידְכְּרוּן בְּהוֹן אַבְהַתְכוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](17_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

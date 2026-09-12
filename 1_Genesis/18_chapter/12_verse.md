@@ -19,6 +19,9 @@
 **Arabic script:**
 فضحكت ساره في نفسها قايله بعد ما بليت يكون لي زي وسيدي شيك
 
+### Targum Jerusalem
+וְחַיְיכַת שָרָה בְּלִבָּהּ לְמֵימָר בָּתַר דְסָבִית אֶפְשַׁר דְאַחֲזוֹר לְיוֹמֵי טִלְיוּתִי לְמֶהֱוֵי לִי עִידוּי וְאַבְרָהָם סִיב:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](12_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

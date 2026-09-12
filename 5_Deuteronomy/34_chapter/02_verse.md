@@ -19,6 +19,9 @@
 **Arabic script:**
 وجميع بلد نفتلي وافريم ومنشه وجميع بلد يهوده الي البحر الغربي
 
+### Targum Jerusalem
+וְיַת כָּל אַרְעָא דְנַפְתָּלִי וְיַת אַרְעָא דְאֶפְרַיִם וּמְנַשֶׁה וְיַת כָּל אַרְעָא דִיהוּדָה עַד יַמָא אַחֲרַיָיא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](02_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

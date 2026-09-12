@@ -19,6 +19,9 @@
 **Arabic script:**
 فالتفت يمنه ويسره فراي انه ليس انسان فضرب المصري فمات ودفنه في الرمل
 
+### Targum Jerusalem
+וְאִסְתַּכֵּל משֶׁה בְּרוּחַ קוּדְשָׁא בִּתְרֵין עוּלֵימַיָא וְהָא לֵית גִיוֹרָא עָתִיד לְמֵיקוּם מֵהַהוּא מִצְרַיָא וּקְטַל יַת מִצְרַיָא וּטְמָן יָתֵיהּ בְּחָלָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](12_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

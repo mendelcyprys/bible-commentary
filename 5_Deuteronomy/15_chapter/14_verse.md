@@ -19,6 +19,9 @@
 **Arabic script:**
 بل صله بصله من غنمك وبيذرك وتيجارك وحسب ما رزقك الله ربك فاعطه
 
+### Targum Jerusalem
+מְזַוְודָא תְּזַוְודוּן לֵיהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](14_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

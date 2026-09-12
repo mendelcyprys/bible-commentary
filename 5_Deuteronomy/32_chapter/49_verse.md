@@ -19,6 +19,9 @@
 **Arabic script:**
 اصعد الي جبل العبرين هذا جبل نبو الذي في بلد مواب الذي بحضره يريحو وانظر البلد الذي انا معطيه لبني اسرايل حوزا
 
+### Targum Jerusalem
+סַק לְטוּרָא דַעֲבָרָאֵי הָדֵין טוּרָא דִנְבוֹ דְאִית בְּאַרְעָא דְמוֹאָב דְאִית בְּלִקֳבֵל יְרֵחוֹ וַחֲמֵי יַת אַרְעָא דִכְנָעַן דַאֲנָא יְהַב לִבְנֵי יִשְרָאֵל לְאַחֲסָנָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](49_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

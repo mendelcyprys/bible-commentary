@@ -19,6 +19,9 @@
 **Arabic script:**
 ثم غسل وجهه وخرج وترفق وقال قدمو الطعام
 
+### Targum Jerusalem
+וְשִׁזְגֵי:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](31_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

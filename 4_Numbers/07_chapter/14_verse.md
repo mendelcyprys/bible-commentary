@@ -19,6 +19,9 @@
 **Arabic script:**
 ودرجا من ذهب وزنه عشره مثاقيل مملوا بخورا
 
+### Targum Jerusalem
+בָּזִיךְ חֲדָא מַתְקְלָא עַשְרָא סַלְעִין דִי הֲוַת דְדַהֲבָא קָרִיב יָתָהּ מַלְיָא רֵישֵׁי בּוּסְמָנִין טָבִין וּמְפֻטְמִין וְדַכְיָין לִקְטוֹרֶת בּוּסְמַיָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](14_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

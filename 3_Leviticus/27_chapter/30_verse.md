@@ -19,6 +19,9 @@
 **Arabic script:**
 وجميع عشور الارض من حبها ومن ثمر الشجر فهو لله قدس
 
+### Targum Jerusalem
+לִשְׁמָא דַיְיָ הִיא קוּדְשָׁא לִשְׁמָא דַיְיָ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](30_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

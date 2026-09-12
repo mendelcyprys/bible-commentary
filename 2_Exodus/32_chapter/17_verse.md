@@ -19,6 +19,9 @@
 **Arabic script:**
 فسمع يهوشع صوت القوم في تجليبهم فقال لموسي صوت حرب في العسكر
 
+### Targum Jerusalem
+מְבַעֲשִׁין:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](17_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

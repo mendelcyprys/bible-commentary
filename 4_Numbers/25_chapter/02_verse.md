@@ -19,6 +19,9 @@
 **Arabic script:**
 فدعون بالقوم الي ذبايح معبوداتهم فاكلو منها وسجدو لها
 
+### Targum Jerusalem
+וְקַרְיָן לְעַמָא לְדִבְחֵי טַעֲוַותְהֶן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](02_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

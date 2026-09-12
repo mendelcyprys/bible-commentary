@@ -19,6 +19,9 @@
 **Arabic script:**
 وجاو الي وادي العنقود وقطعو من ثم حبله وعنقود عنب واحدا وحملوه بالدهق فيما بين اثنين ومن الرمان ومن التين
 
+### Targum Jerusalem
+וַאֲתוֹ עַד נַחַל סְגוּלָה וּקְטָעוּ מִתַּמָן עוֹבָרָא וּבֵיהּ סְגוֹל דְעִנְבִין חָד וְטַעֲנוּ יָתֵיהּ בְּקוֹפָא בֵּינֵי תְּרֵין גוּבְרִין וְכֵן מִן רִמוֹנַיָא וּמִן תֵּינַיָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](23_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 ويستدير من مازل الي وادي العريش ويكون خروجه الي البحر
 
+### Targum Jerusalem
+וְיַקִיף תְּחוּמָא מִן קְסַם לְנִילוֹס מִצְרַיִם וִיהוֹן מַפְקָנוֹי מִן מַעַרְבָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](05_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

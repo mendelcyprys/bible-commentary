@@ -19,6 +19,9 @@
 **Arabic script:**
 فليتمنو ان يبقا لهم هذا القلب ان يخافوني ويحفظ وصاياي طول الزمان لكي يخار لهم ولبنيهم الي الدهر
 
+### Targum Jerusalem
+אַלְוַוי מִי יִתֵּן יֶהֱוֵי לִבָּא טָבָא הָדֵין לְהוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](26_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 واسلك هرون ثيابه والبسها العزر ابنه وهرون ينضم ويموت هناك
 
+### Targum Jerusalem
+וְתַשְׁלִיחַ יַת אַהֲרן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](26_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

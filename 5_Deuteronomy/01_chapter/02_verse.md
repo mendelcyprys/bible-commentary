@@ -19,6 +19,9 @@
 **Arabic script:**
 علي مسافه احد عشر يوما من حرب علي طريق جبل شعير الي رقيم برنع
 
+### Targum Jerusalem
+מַהֲלַךְ חַד עֲשַר יוֹמִין מִן טוּרָא דְחוֹרֵב אוֹרַח טוּרָא דְגַבְלָא עַד רְקַם דְּגֵיעָא עַל דַּחֲטָתוּן וְאִרְגַזְתּוּן קֳדָמוֹי אִתְעַכַּבְתּוּן וַהֲלַכְתּוּן יַתְהוֹן לְאַרְבְּעִין שְׁנִין:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](02_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 وراوها روسا فرعون ومدحوها اليه فاخذت المراه الي قصر فرعون
 
+### Targum Jerusalem
+וְאִידְבָּרַת אִתְּתָא לְפַלְטִין דְפַרְעה:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](15_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

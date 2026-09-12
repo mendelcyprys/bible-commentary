@@ -19,6 +19,9 @@
 **Arabic script:**
 وكانت شري عاقرا ليس لها ولد
 
+### Targum Jerusalem
+וַהֲוַת שָרַי עַקְרָא לָא הֲוָה לָהּ בַּר:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](30_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

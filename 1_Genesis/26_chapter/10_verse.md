@@ -19,6 +19,9 @@
 **Arabic script:**
 قال ابيملك ما ذا صنعت بنا عن قليل لو ضاجع احد قومنا زوجتك لجلبت علينا اثما
 
+### Targum Jerusalem
+וַאֲמַר אֲבִימֶלֶךְ מַה הוּא דָא דַעֲבַדְתָּא לָן הָא קָלֵיל זְעֵיר אִילוּ שִׁימֵשׁ חָד טַלְיָא עִם אִתְּתָךְ וַהֲוֵית מַיְיתִית עַלָנָא חוֹבָא רַבָּא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](10_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

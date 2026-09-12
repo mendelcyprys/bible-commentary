@@ -19,6 +19,9 @@
 **Arabic script:**
 ولقد قلت اتقصاهم باستحقاق واعطل من بين الناس ذكرهم
 
+### Targum Jerusalem
+אֲמָרִית בְּמֵימְרִי לְמֵתַיָא עֲלֵיהוֹן רְגוֹז אֲבַטֵל מִן בְּנֵי אֱנָשָׁא דָכְרָנֵיהוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](26_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

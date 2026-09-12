@@ -19,6 +19,9 @@
 **Arabic script:**
 ولما كان في نوبه الغداه اطلع الله الي عسكر المصريين بعمود من نار وغمام فاهامه
 
+### Targum Jerusalem
+וַהֲוָה בְּעִידָנוֹי צַפְרָא וְאָרֵיק מֵימְרָא דַיְיָ עַל מַשִׁירְיָתֵהוֹן דְּמִצְרַיִם וּרְמָא עֲלֵיהוֹן נַפְטָא וְאֵשָׁתָא וְאַבְנֵי בַּרְדָא וְשִׁעַמַם יַת מַשִׁירְיָתֵיהוֹן דְּמִצְרָיִם:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](24_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

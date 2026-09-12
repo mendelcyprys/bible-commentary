@@ -19,6 +19,9 @@
 **Arabic script:**
 ويردك الله الي مصر في السفن في الطريق التي قلت لك لا تعود ابدا ان تراه وتعرضون ثم للبيع لاعدايكم عبيدا واما وليس مشتر
 
+### Targum Jerusalem
+וְיַחְזוֹר יַתְכוֹן מֵימְרָא דַיְיָ לְמִצְרַיִם בְּלִבְרָנַיָיא בְּאוֹרְחָא דִי אֲמָרִית לְכוֹן לָא תוֹסְפוּן עוֹד לְמֶחֱמֵי יָתָהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](68_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

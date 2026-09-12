@@ -19,6 +19,9 @@
 **Arabic script:**
 ومعه من المزاج ربع قسط لكل حمل يرش في القدس رشا من عتيقه لله
 
+### Targum Jerusalem
+בְּמָאנֵי בֵּית קוֹדֶשׁ יִתְנַסֵךְ נִיסוּךְ חֲמַר בְּחִיר לִשְׁמָא דַיְיָ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](07_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

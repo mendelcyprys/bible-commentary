@@ -19,6 +19,9 @@
 **Arabic script:**
 وقال الله لموسي خذ لك اصماغا منها مصطكي ولادين ولبنا الصموغ ولبان ذكي جز بجز يكون
 
+### Targum Jerusalem
+קְטַף וְשׁוּבְלָא מוֹרַיָיא וְחֶלְבָּנַיָיא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](34_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

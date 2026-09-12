@@ -19,6 +19,9 @@
 **Arabic script:**
 وتصير جثتك ماكلا لطاير السما وبهايم الارض وليس مزعج لها
 
+### Targum Jerusalem
+וְלֵית דְמָנִיד יַתְכוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](26_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

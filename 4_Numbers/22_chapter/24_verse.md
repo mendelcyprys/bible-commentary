@@ -19,6 +19,9 @@
 **Arabic script:**
 ثم وقف ملاك الله في زقوق الكروم وهناك جدار يمنه ويسره
 
+### Targum Jerusalem
+וְקָם מַלְאָכָא דַיְיָ בְּאֶמְצַע כְּרָמַיָא סַגְיָא מִן דֵין וְסַגְיָא מִן דֵין סִטְרָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](24_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

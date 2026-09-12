@@ -19,6 +19,9 @@
 **Arabic script:**
 لانك ان ابيت ان تطلق قومي ها انا باعث عليك وعلي قوادك وساير قومك ومنازلك خلط الوحوش حتي تمتلي منه بيوت المصريين والارض التي هم عليها
 
+### Targum Jerusalem
+עִרְבּוּבָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](17_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

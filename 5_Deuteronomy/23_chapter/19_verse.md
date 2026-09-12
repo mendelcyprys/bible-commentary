@@ -19,6 +19,9 @@
 **Arabic script:**
 لا تدخل شيا من اجعال الزنا واثمان الكلاب الي بيت الله ربك في نذر لان الله ربك يكرههما جميعا
 
+### Targum Jerusalem
+לָא תַעֲלוּן אֲגַר דִּזְנוּ וּפֵירוּג כֶּלֶב:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](19_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

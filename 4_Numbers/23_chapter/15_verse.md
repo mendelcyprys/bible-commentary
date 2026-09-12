@@ -19,6 +19,9 @@
 **Arabic script:**
 وقال له قف ههنا عند قربانك وانا اتلقي من ههنا
 
+### Targum Jerusalem
+וַאֲנָא בְּמֵימְרִי אִיקַר יָתָךְ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](15_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 ثم قال الله لموسي ما تصرك الي مر بني اسرايل ان يرحلو
 
+### Targum Jerusalem
+וַאֲמַר מֵימְרָא דַיְיָ לְמשֶׁה עַד אֵימַת אַתְּ קָאִים וּמַצְלֵי קֳדָמַי שְׁמִיעָא הִיא צְלוֹתָךְ קֳדָמַי בְּרַם צְלוֹתְהוֹן דְּעַמִּי קַדְמַת לְדִידָךְ מַלֵיל עִם בְּנֵי יִשְרָאֵל וְיִטְלוּן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](15_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

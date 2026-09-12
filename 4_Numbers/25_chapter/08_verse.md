@@ -19,6 +19,9 @@
 **Arabic script:**
 ودخل وراه الي القبه فطعنهما جميعا الرجل والمراه في بطنها فانحبس الوبا عن بني اسرايل
 
+### Targum Jerusalem
+וְעַל בָּתַר גְבַר יִשְרָאֵל לְקוֹבְתָא וּדְקַר יַת תַּרְוֵיהוֹן יַת גַבְרָא בַּר יִשְרָאֵל וְיַת אִתְּתָא בִּקְפָדָא וְאִתְכַּלְיַית מַגֵיפְתָּא מֵעִילַוֵי בְּנֵי יִשְרָאֵל:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](08_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

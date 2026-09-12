@@ -19,6 +19,9 @@
 **Arabic script:**
 بل تستوهب المراه من مساكنتها وجارتها انيه فضه وذهب وثيابا تصيرونها علي بنيكم وبناتكم وتنتصفون من المصريين
 
+### Targum Jerusalem
+מִמְגוּרָתָהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](22_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

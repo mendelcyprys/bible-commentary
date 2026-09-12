@@ -19,6 +19,9 @@
 **Arabic script:**
 بل الامر قريب اليك جدا يمكنك بفيك وبقلبك لتعمل به
 
+### Targum Jerusalem
+אֲרוּם קָרִיב הוּא לְוַותְכוֹן פִּתְגַם לַחֲדָא בְּפוּמְכוֹן לְמֶהֱוַן הַגְיַין בָּהּ וּבִלְבָבֵיכוֹן לְמֶעֱבַד יָתָהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](14_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

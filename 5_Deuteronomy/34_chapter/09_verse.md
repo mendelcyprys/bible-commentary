@@ -19,6 +19,9 @@
 **Arabic script:**
 ويهوشع بن نون ملي روح الحكمه مما اسند موسي يديه عليه فقبل منه بنو اسرايل وصنعو كما امر الله موسي
 
+### Targum Jerusalem
+וִיהוֹשֻׁעַ בִּן נוּן הֲוָה מְלֵי רוּחַ דְּחוּכְמָתָא אֲרוּם סְמַךְ משֶׁה יַת יְדוֹי עֲלוֹי וּשְׁמָעוּ לֵיהּ בְּנֵי יִשְרָאֵל וַעֲבָדוּ הֵיךְ מַה דְפַקֵּיד מֵימְרָא דַיְיָ יַת משֶׁה:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](09_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 والارض كانت غامره ومستبحره وظلام علي وجه الغمر وريح الله تهب علي وجه الما
 
+### Targum Jerusalem
+וְאַרְעָא הֲוַת תַּהֲיָא וּבַהֲיָא וְצָדוּ מִן בְּנֵי אֱנָשָׁא וְרֵיקַנְיָא מִכָּל בְּעִיר וְרוּחָא דְרַחֲמִין מִן קֳדָם יְיָ הֲוַת מְנַשְׁבָא עַל אַפֵּי מַיָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](02_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

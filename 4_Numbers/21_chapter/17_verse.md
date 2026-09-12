@@ -19,6 +19,9 @@
 **Arabic script:**
 حينيذ انشا اسرايل هذه الانشا فقالو اصعدي يا بير تجاوبو لها
 
+### Targum Jerusalem
+הָא בְּכֵן שַׁבָּחוּ יִשְרָאֵל יַת שְׁבַח שִׁירָתָא הָדָא סוּקִי בֵירָא הֲווֹ מְזַמְרִין לָהּ וְהִיא סַלְקָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](17_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

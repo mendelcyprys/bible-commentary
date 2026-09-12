@@ -19,6 +19,9 @@
 **Arabic script:**
 ثم كلم الله موسي في ذات ذلك اليوم قايلا
 
+### Targum Jerusalem
+וּמַלֵיל מֵימְרָא דַיְיָ עִם משֶׁה הֵיךְ זְמַן יוֹמָא הָדֵין לְמֵימָר:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](48_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

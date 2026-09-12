@@ -19,6 +19,9 @@
 **Arabic script:**
 وسكنو من زويله الي جفار الذي بحضره مصر الي ان تجي الي الموصل بحضره جميع اخوته سكن
 
+### Targum Jerusalem
+וּשְׁרוֹ מִן הִינְדִיקַא עַד חֲלוּצָה דְאִית כָּל קְבֵיל מִצְרַיִם מֵעֲלָךְ אֲתוּרַיָא קָדָם כָּל אֲחוּהִי שְׁרָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](18_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

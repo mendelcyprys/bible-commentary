@@ -19,6 +19,9 @@
 **Arabic script:**
 واما كل صواف يجعلها الانسان لله من جميع ماله من عبيد وبهايس وضيعه حوزه فلا يباع ولا يفتك بل يكون من خواص الاقداس لله
 
+### Targum Jerusalem
+לְחוּד כָּל אַפְרָשׁוּ דִי יַפְרִישׁ גְּבַר לִשְׁמָא דַיְיָ מִן כָּל דְאִית לֵיה מִן בְּנֵי אֱנָשָׁא וּבּעִירָא כָּל אַפְרָשׁוּת קדֶשׁ קוּדְּשִׁין הוּא לִשְׁמָא דַיְיָ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](28_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

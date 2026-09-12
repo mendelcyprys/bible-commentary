@@ -19,6 +19,9 @@
 **Arabic script:**
 ثم قال الله لموسي قل لهرون خذ عصاك ومد يدك علي مياه المصريين وانهارهم وخلجانهم واجامهم وساير ملام مياههم فتصير دما ويكون دم في جميع بلد مصر وفي اواني الخشب والحجاره
 
+### Targum Jerusalem
+וּבְעֵצִים וּבְסִיקַיָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](19_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

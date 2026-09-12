@@ -19,6 +19,9 @@
 **Arabic script:**
 اما الذهب والفضه والنحاس والحديد والقلعي والاسرب
 
+### Targum Jerusalem
+יַת קִיסְטָרָא וְיַת אִיבָרָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](22_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

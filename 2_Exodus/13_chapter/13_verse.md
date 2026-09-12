@@ -19,6 +19,9 @@
 **Arabic script:**
 وبكور الحمير افده بشاه وان لم تفده فاقفه وكل بكر ذكر من بنيك فافده
 
+### Targum Jerusalem
+וּתְקַטְלוּן יָתֵיהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](13_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

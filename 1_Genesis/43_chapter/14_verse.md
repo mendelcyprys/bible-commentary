@@ -19,6 +19,9 @@
 **Arabic script:**
 والطايق الكافي يعطيكم رحمه بين يديه ويطلق لكم اخاكم الاخر وبنيمين وانا اكياف ان اثكل كما ثكلت
 
+### Targum Jerusalem
+וַאֲנָא הֵיךְ מַה דִי לָא תְּכָלִית עַל יוֹסֵף בְּרִי כֵּן לָא אוֹסִיף לְמִתְכְּלָא לָא עַל שִׁמְעוֹן וְלָא עַל בִּנְיָמִין:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](14_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

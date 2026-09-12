@@ -19,6 +19,9 @@
 **Arabic script:**
 وقال لبنيمين اذ هو وديد الله سيسكن واثقا به وهو يطوف به طول الزمان وبين ظهرانيه يسكن
 
+### Targum Jerusalem
+וּלְשִׁבְטָא דְבִנְיָמִין בְּרִיךְ משֶׁה נְבִיָא דַיְיָ וַאֲמַר רְחִימָא דַיְיָ יִשְׁרֵי לְרוֹחֲצָן עֲלוֹי מָגֵן עֲלוֹי כָּל יוֹמַיָא וּבִתְחוּמֵיהּ תִּשְׁרֵי יְקַר שְׁכִינְתֵּיהּ דַיְיָ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](12_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

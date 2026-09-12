@@ -19,6 +19,9 @@
 **Arabic script:**
 ولما خاف القوابل الله صنع لهن بيوتا حجبهن
 
+### Targum Jerusalem
+אֲרוּם דְחִילַן יְלָדָתָא מִן קֳדָם יְיָ וְקַנְיָין לְהוֹן שׁוּם טַב בְּגוֹ דָרַיָא וַעֲבָדוּ לְהוֹן בָּתִּים בֵּיתָא דִלְוִיָא וּבֵיתָא דִכְהוּנְתָא רַבְּתָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](21_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 ليس الله الا الاه اسرايل الذي ليس كمثله ساكن السما والشواهق بقدرته في عونك
 
+### Targum Jerusalem
+לֵית כְּוַת אֱלָהָא דְיִשְרָאֵל דִי אַשְׁרֵי יְקַר שְׁכִינְתֵּיהּ בִּשְׁמַיָא וְגֵיוְתָנוּתֵיהּ בִּשְׁחָקֵי מְרוֹמָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](26_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

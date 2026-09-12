@@ -19,6 +19,9 @@
 **Arabic script:**
 فاسرع وموسي وخر علي الارض وسجد
 
+### Targum Jerusalem
+וְזָרֵיז משֶׁה וַאֲקַד עַל אַרְעָא וְאוֹדִי וְשַׁבַּח:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](08_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

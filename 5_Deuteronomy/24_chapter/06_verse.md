@@ -19,6 +19,9 @@
 **Arabic script:**
 لا يسترهن احد الرحا السفلا والعليا فانه يسترهن قوت النفوس
 
+### Targum Jerusalem
+לָא תְמַשְׁכְּנוּן רֵיחַיָא וְרִיכְבַּיָא אֲרוּם צוֹרְכֵי נַפְשָׁא הוּא מְמַשְׁכַּן: וְלָא תֶהֱוַון אִיסוּרֵי חַתְנִין וְכַלִּין אֲרוּם כָּל דַּעֲבַד אִילֵין כְּפַר בְּחַיֵּי עַלְמָא דְאָתֵי:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](06_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

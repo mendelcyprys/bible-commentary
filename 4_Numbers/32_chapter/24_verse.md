@@ -19,6 +19,9 @@
 **Arabic script:**
 وابنو لكم قري لاطفالكم وحظاير لغنمكم وما خرج من فمكم تصنعوه
 
+### Targum Jerusalem
+בְּנוּ לְכוֹן קִרְוִין לְטַפְלֵיכוֹן וְדִיכְוַן לְעַנְכוֹן וּמַה דִנְפַק מִפּוּמְכוֹן תַּעַבְדוּן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](24_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

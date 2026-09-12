@@ -19,6 +19,9 @@
 **Arabic script:**
 فمد موسي يده علي البحر وساق الله البحر بريح القبول صعبه طول الليل حتي صيره جفافا بعد ما انشق الما
 
+### Targum Jerusalem
+וְאַרְכִין:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](21_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

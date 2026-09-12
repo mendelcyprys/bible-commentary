@@ -19,6 +19,9 @@
 **Arabic script:**
 ويقدمه الامام الي المذبح ويفصل راسه ثم يقتره علي المذبح ويمضي دمه علي حايط المذبح
 
+### Targum Jerusalem
+וְיַקְרִיב יָתֵיהּ כַּהֲנָא עַל גַּבֵּי מַדְבְּחָא וְיַעֲזֵם רֵישֵׁיהּ וְיִסַדֵר עַל גַּבֵּי מַדְבְּחָא וְיִמְצֵי דְּמֵיהּ עַל שִׁיפּוֹלֵי מַדְבְּחָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](15_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

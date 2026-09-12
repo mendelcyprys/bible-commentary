@@ -19,6 +19,9 @@
 **Arabic script:**
 تاتي بهم فتغرسهم في جبل نحلتك مهيا لسكينتك صنعته يا رب مقدسا يا رب اصلحته يدك
 
+### Targum Jerusalem
+תָּעֵיל יַתְהוֹן וְתִנְצִיב יַתְהוֹן בְּטוּר בֵּית אַחְסַנְתָּךְ מְדוֹר בֵּית שְׁכִינַת קוּדְשָׁךְ דִּי זְמִינְתְּ לָךְ יְיָ בֵּית מַקְדְּשָׁא יְיָ תַּרְתֵּין יְדָךְ שִׁיכְלָלוּ יָתֵיהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](17_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 قال موسي لربه يا رب ليس انا ذو نطق من امس وما قبله ولا من حين خاطبت عبدك اني ثقيل الفم واللسان جميعا
 
+### Targum Jerusalem
+אֲרוּם חֲגִיר פּוּם וּקְשֵׁי מַמְלֵל אֲנָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](10_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

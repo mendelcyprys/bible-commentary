@@ -19,6 +19,9 @@
 **Arabic script:**
 ثم قال الله لموسي مد يدك علي البحر يرجع الما علي المصريين وعلي مراكبهم وفرسانهم
 
+### Targum Jerusalem
+אַרְכִין:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](26_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

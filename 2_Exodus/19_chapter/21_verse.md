@@ -19,6 +19,9 @@
 **Arabic script:**
 فقال له انزل ناشد القوم كيلا يهجمو الي نور الله فينظرو فيقع منهم كثير
 
+### Targum Jerusalem
+וְיִפּוֹל מִנְהוֹן אוֹכְלוּסִין סַגְיָין:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](21_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

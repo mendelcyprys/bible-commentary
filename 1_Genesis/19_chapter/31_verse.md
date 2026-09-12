@@ -19,6 +19,9 @@
 **Arabic script:**
 وقالت الكبري للصغري ابونا شيك وليس رجل في البلد يدخل الينا كسبيل الناس
 
+### Targum Jerusalem
+וּגְבַר לֵית בְּאַרְעָא לְמִזְדַמְנָא לְוָותָן כְּנִימוּס כָּל אַרְעָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](31_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

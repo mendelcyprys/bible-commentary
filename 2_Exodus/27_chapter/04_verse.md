@@ -19,6 +19,9 @@
 **Arabic script:**
 واصنع له سردا علي صنعه الشبكه من نحاس واصنع في الشبكه اربع حلق من نحاس في اربعه اطرافها
 
+### Targum Jerusalem
+קַלְקַל:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](04_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

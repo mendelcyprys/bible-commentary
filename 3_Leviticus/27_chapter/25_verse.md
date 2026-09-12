@@ -19,6 +19,9 @@
 **Arabic script:**
 وجميع قيمتك تكون بمثاقيل القدس كل مثقال عشرون دانقا
 
+### Targum Jerusalem
+וְכָל עִילוֹי יֶהֱוֵי בִּסִלְעֵי קוּדְשָׁא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](25_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

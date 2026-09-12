@@ -19,6 +19,9 @@
 **Arabic script:**
 ولما رحلو من المشرق وجدو بقيعا في بلد الشينور فاقامو ثم
 
+### Targum Jerusalem
+כַּד אַטְעוּ לִבְּהוֹן מִן בָּתַר מֵימְרָא דְמַאן דַאֲמַר וַהֲוָה עַלְמָא מִן שֵׁירוּיָא וְאַשְׁכָּחוּ בִּקְעָא בְּאַרְעָא דְפוּנְטּוֹס וּשְׁרוֹן תַּמָן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](02_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

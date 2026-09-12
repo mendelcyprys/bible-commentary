@@ -19,6 +19,9 @@
 **Arabic script:**
 ارض الله ربك متعاهدها ودايما عنايته بها من اول السنه الي اخرها
 
+### Targum Jerusalem
+אַרְעָא דִי יְיָ אֱלָהָכוֹן תְּבַע יָתָהּ בִּתְדִירָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](12_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

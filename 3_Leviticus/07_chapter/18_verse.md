@@ -19,6 +19,9 @@
 **Arabic script:**
 فان اكل منه في اليوم الثالث فلا يرتضي المقرب له لا يحسب له بل يكون كالاخس واي انسان اكل منه فقد حمل وزره
 
+### Targum Jerusalem
+פִּגּוּל פְּסוּל יְהֵי:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](18_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

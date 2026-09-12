@@ -19,6 +19,9 @@
 **Arabic script:**
 واحفظ هدا الرسم في وقته من حول الي حول
 
+### Targum Jerusalem
+מִן אִלֵּין יוֹמִין לְאִלֵּין יַרְחִין:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](10_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

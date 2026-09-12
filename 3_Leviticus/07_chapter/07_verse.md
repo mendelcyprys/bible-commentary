@@ -19,6 +19,9 @@
 **Arabic script:**
 كالذكوه قربان الاثم شريعه واحده لهما الامام الذي يغفر به له يكون
 
+### Targum Jerusalem
+חַוְויָא חֲדָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](07_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

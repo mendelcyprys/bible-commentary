@@ -19,6 +19,9 @@
 **Arabic script:**
 فكان موسي كما يرفع يده يغلب بنو اسرايل وكما يحطها يغلب العملق
 
+### Targum Jerusalem
+וַהֲוָה כַּד זְקֵיף משֶׁה יְדוֹי בִּצְלוֹי הֲווֹ בֵּית יִשְרָאֵל מִתְגַּבְּרִין וְכַד הֲוָה מְנַע יְדוֹי מִלְצַלּוֹי הֲוַון בֵּית עֲמָלֵק מִתְגַּבְּרִין וְנָפְלִין בְּסִדְרֵי קְרָבָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](11_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

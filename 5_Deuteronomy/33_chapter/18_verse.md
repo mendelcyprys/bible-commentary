@@ -19,6 +19,9 @@
 **Arabic script:**
 وقال لزبولن افرح يا زبولن في اسفارك وانت يا يششكر في منازلك
 
+### Targum Jerusalem
+וּלְשִׁבְטָא דִזְבוּלוּן בְּרִיךְ משֶׁה נְבִיָא דַיְיָ וַאֲמַר חַדְתּוּן דְבֵית זְבוּלוּן בְּמִפַּקְכוֹן לִפְרַגְמָטֵיכוֹן וַחֲדוֹן דְבֵית יִשָשׁכָר בְּמֵיתֵיכוֹן בְּבָתֵּי מֶדְרָשֵׁיכוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](18_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

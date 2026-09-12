@@ -19,6 +19,9 @@
 **Arabic script:**
 فلما فرغ من كلامهم جعل علي وجهه برقعا
 
+### Targum Jerusalem
+סוּדָרָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](33_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

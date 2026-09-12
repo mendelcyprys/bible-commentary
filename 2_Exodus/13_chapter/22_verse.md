@@ -19,6 +19,9 @@
 **Arabic script:**
 لا يزول عمود الغمام نهارا وعمود النار ليلا من بين يدي القوم
 
+### Targum Jerusalem
+לָא הֲוָה פָסַק:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](22_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

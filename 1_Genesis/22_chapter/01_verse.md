@@ -19,6 +19,9 @@
 **Arabic script:**
 فلما كان بعد هذه الامور امتحن الله ابرهيم وقال له يا ابرهيم قال لبيك
 
+### Targum Jerusalem
+וַהֲוָה בָּתַר פִּתְגָמַיָא הָאִילֵן וַיְיָ מְהַנְסֵי יַת אַבְרָהָם בְּנִסְיוֹנָא עֲשִירָאָה וַאֲמַר לֵיהּ אַבְרָהָם וַאֲמַר הָא אֲנָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](01_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

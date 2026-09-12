@@ -19,6 +19,9 @@
 **Arabic script:**
 وشدد المصريون علي القوم ليسرعو يطلقونهم من البلد لانهم قالو كلنا مايتون
 
+### Targum Jerusalem
+אֲרוּם אֲמָרוּ מִצְרָאֵי אִי שַׁהְיָין יִשְרָאֵל שָׁעָה חָדָא הָא כָּל מִצְרָיִם מַיְיתוּן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](33_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

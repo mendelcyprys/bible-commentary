@@ -19,6 +19,9 @@
 **Arabic script:**
 ولم يحملهما البلد ان يقيما فيه جميعا اذ كان سرحهما كثيرا ولم يطيقا ان يقيما جميعا
 
+### Targum Jerusalem
+סְגוּלַתְהוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](06_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

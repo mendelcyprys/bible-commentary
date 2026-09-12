@@ -19,6 +19,9 @@
 **Arabic script:**
 وان افك رجل شيا من عشوره فليزد عليه خمس ثمنه
 
+### Targum Jerusalem
+וְאֵין מִפְרוֹק יִפְרוֹק גְּבַר מִן מַעַשְרֵיהּ חוֹמֶשׁ דְּמוֹי יוֹסֵף עֲלוֹי:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](31_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

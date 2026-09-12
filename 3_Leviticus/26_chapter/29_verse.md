@@ -19,6 +19,9 @@
 **Arabic script:**
 فتاكلون لحوم بنيكم وبناتكم
 
+### Targum Jerusalem
+אֵי מָה בִּשִׁין אִינוּן חוֹבַיָא וּמָה מְרִירִין אִינוּן חֲטַיָיא דְּגָרְמוּ לְאַבָהָתן בִּיְרוּשָׁלַיִם לְמֵיכַל בְּשַר בְּנֵיהוֹן וּבְנָתֵיהוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](29_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

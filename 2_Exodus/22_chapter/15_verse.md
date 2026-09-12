@@ -19,6 +19,9 @@
 **Arabic script:**
 وان خدع رجل جاريه بكرا لم تملك فضاجعها فليمهرها له زوجه
 
+### Targum Jerusalem
+אֲרוּם יְשַׁרְגֵג גְּבַר בְּתוּלָה דְלָא אַרְסַת וִישַׁמֵּשׁ עִמָּהּ מַפְרָנָא יִפְרָן לֵיהּ לְאִתָּא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](15_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

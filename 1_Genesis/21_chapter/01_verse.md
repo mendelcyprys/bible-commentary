@@ -19,6 +19,9 @@
 **Arabic script:**
 ثم ذكر الله ساره كما قال وصنع الله لساره كما وعد
 
+### Targum Jerusalem
+וַעֲבַד יְיָ נִיסִין לְשָרָה הֵיךְ דְמַלֵיל:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](01_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

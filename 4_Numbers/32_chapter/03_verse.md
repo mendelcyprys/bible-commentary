@@ -19,6 +19,9 @@
 **Arabic script:**
 ان عطروت وديبن ويعزر ونمره وحشبون والعله وشبم ونبو وبعن
 
+### Targum Jerusalem
+מַכְלֶלְתָּא מַדְבֶּשְׁתָּא וּמַכְוַור וּבֵית נִמְרִין וְחֶשְׁבּוֹן וְאֶלְעָלֵה וּשְבָם וּנְבוֹ וּבְעָן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](03_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

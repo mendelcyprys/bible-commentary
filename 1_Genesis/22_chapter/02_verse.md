@@ -19,6 +19,9 @@
 **Arabic script:**
 قال خذ ابنك وحيدك الذي تحبه هو اسحق وامض به الي بلد العباده واصعده ثم قربانا علي احد الجبال الذي اقول لك
 
+### Targum Jerusalem
+לְטוּר מוֹרִיָה:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](02_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

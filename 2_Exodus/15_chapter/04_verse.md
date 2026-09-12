@@ -19,6 +19,9 @@
 **Arabic script:**
 مراكب فرعون وجنده رمي بها في البحر وخيار قواده غرقو في بحر القلزم
 
+### Targum Jerusalem
+רְתִיכוֹי דְּפַרְעה וַחֲיָילוּתֵיהּ קָשַׁת עֲלֵיהוֹן גִּירִין בְּיַמָא שְׁפַר עוּלֵימוֹי וְגִיבָּרוֹי טְמַע בְּיַמָא דְסוּף:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](04_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

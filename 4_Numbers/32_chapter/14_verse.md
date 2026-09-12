@@ -19,6 +19,9 @@
 **Arabic script:**
 فهوذاكم قد قمتم مكان ابايكم علي تعليم الناس الخطايين لتزيدو ايضا في شده غضب الله علي بني اسرايل
 
+### Targum Jerusalem
+תִּסְגוּן גוּבְרִין חַיָיבִין לְמִסְפָה עוֹד עַל תְּקוֹף רוּגְזָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](14_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

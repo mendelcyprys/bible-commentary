@@ -19,6 +19,9 @@
 **Arabic script:**
 وتقدم قرح بن يصهر بن قهت بن لوي ودتن وابيرم ابنا الياب واون بن فلت بنو راوبن
 
+### Targum Jerusalem
+וּנְסֵיב עֵצָה וּפְלַג קרַח:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](01_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

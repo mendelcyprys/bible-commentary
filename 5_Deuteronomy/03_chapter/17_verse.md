@@ -19,6 +19,9 @@
 **Arabic script:**
 والغور والاردن وحده من جينسر الي بحر الغور والبحيره الميته ومصب القلعه شرقيا
 
+### Targum Jerusalem
+וּמֵישְׁרָא וְיַרְדְּנָא וּתְחוּמָא מִן גִּנוֹסַר וְעַד יַמָא דְמֵישְׁרָא יַמָא דְמִלְחָא תְּחוֹת בֵּית שְׁפִיכוֹת קִיטְמָא מִן מַדִּינְחָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](17_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 فثبتت قوسه في صلابه وفازا ذراعاه من طاعه جليل يعقوب ومن ثم رعا ذات اسرايل
 
+### Targum Jerusalem
+וְאַשְׁרֵי תּוֹקְפָא רוֹחֲצָנֵיהּ בִּשְׁנֵי יְדוֹי וְדַרְעוֹי וּבְעָא רַחֲמִין מִן תַּקִיפָא דְאָבוֹי דְיַעֲקב דְמִתְּחוֹת אֶדְרַע גְבוּרְתֵּיהּ מְדַבְּרִין וְאַתְיַין שִׁבְטַיָא דְיִשְרָאֵל:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](24_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

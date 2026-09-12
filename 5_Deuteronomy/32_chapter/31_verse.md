@@ -19,6 +19,9 @@
 **Arabic script:**
 انه ليس كمعتمدنا معتمدهم ولا اعداونا يفقهون
 
+### Targum Jerusalem
+אֲרוּם לָא כְּרַחֲצוֹנָן רַחֲצוֹנֵיהוֹן דְאוּמַיָא עַל דַחֲטִינָן וְאַרְגְזִינָן קָדָמוֹהִי ^אִתְעֲבִידוּ בַּעֲלֵי דְבָבֵינָן דַיָינֵינָן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](31_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

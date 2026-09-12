@@ -19,6 +19,9 @@
 **Arabic script:**
 وصنع المهج الواسط منها نافذا في جوف التخاتج من الطرف الي الطرف
 
+### Targum Jerusalem
+וַעֲבַד יַת נַגְרַיָא מְצִיעַיָא לְבַרְדוֹק בֵּינֵי לוּחַיָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](33_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 فمات يوسف ابن مياه وعشر سنين وحنطوه وصير في صندوق بمصر
 
+### Targum Jerusalem
+וּבְסִימוּ יָתֵיהּ וְשָמוּהוּ בִגְלוּסְקְמָא בְּאַרְעָא דְמִצְרָיִם:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](26_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

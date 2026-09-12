@@ -19,6 +19,9 @@
 **Arabic script:**
 وان كانت بهيمه نجسه او ما لا يقرب منها قربانا لله فلتوقف بين يدي الامام
 
+### Targum Jerusalem
+וְאִין כָּל בְּעִיר מְסָאָב דְּלָא יִקְרְבוּן מִנֵיהּ קָרְבַּן לִשְׁמָא דַּיְיָ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](11_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

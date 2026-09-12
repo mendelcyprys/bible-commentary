@@ -19,6 +19,9 @@
 **Arabic script:**
 ويغمس اصبعه فيه وينضح منه سبع مرار بين يدي الله قباله سجف القدس
 
+### Targum Jerusalem
+וְיִצְבּוֹעַ כַּהֲנָא אֶצְבָּעֵיהּ מִן אִידְמָא וִיֲדֵי שׁוּבְעָא זִמְנִין:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](06_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

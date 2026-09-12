@@ -19,6 +19,9 @@
 **Arabic script:**
 وايضا خلط كثير صعد معهم وغنم وبقر مواشي عظيمه جدا
 
+### Targum Jerusalem
+לְחוֹד עִרְבוּבִין:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](38_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

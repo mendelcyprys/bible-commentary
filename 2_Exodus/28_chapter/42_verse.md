@@ -19,6 +19,9 @@
 **Arabic script:**
 واصنع لهم سراويل من عشر لتغطي من ابدانهم السواه من الحقوين الي الركبتين تكون
 
+### Targum Jerusalem
+אֲבַרְסְקוּן דְּבוּץ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](42_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

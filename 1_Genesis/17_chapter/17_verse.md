@@ -19,6 +19,9 @@
 **Arabic script:**
 فوقع ابرهيم علي وجهه وضحك وقال في نفسه الابن مايه سنه يولد وساره بنت تسعين سنه تلد
 
+### Targum Jerusalem
+וְאִתְרְכִין אַבְרָהָם עַל אַפּוֹי וְתָמָה:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](17_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

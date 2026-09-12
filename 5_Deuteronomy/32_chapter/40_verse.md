@@ -19,6 +19,9 @@
 **Arabic script:**
 وانا اقسم بالسما واقول وبقاي الدايم
 
+### Targum Jerusalem
+אֲרוּם זְקִיפִית יְדַי בִּשְׁבוּעַיָא לִשְׁמַיָא וַאֲמָרִית חַי וְקַיָים אֲנָא בְּמֵימְרִי לַעֲלָם:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](40_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

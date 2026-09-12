@@ -19,6 +19,9 @@
 **Arabic script:**
 ولما سلك حنوك في طاعه الله توفي وقبضه الله
 
+### Targum Jerusalem
+וּפְלַח חֲנוֹךְ בְּקוּשְׁטָא קֳדָם יְיָ וְהָא לֵית הוּא אֲרוּם אִיתְנְגִיד בְּמֵימַר מִן קֳדָם יְיָ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](24_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

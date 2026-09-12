@@ -19,6 +19,9 @@
 **Arabic script:**
 قبيلا وقيح الوجه من لم يهاب وجه شيك ولا يراف علي صبي
 
+### Targum Jerusalem
+אוּמָה חֲצִיפַת אַפִּין דִי לָא נְסַב אַפָּא לְסַב וְעַל טַלְיָא לָא חַיְיסָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](50_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 وجميع هاولي اصطحبو في مرج السدين هو البحيره المالحه
 
+### Targum Jerusalem
+כָּל אִלֵין אִתְחַבְּרוּ לְמֵישַׁר פַּרְדְסַיָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](03_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

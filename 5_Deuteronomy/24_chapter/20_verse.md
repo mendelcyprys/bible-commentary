@@ -19,6 +19,9 @@
 **Arabic script:**
 واذا نفضت زيتونك فلا تستقص بعد ذلك بل يكون للغريب واليتيم والارمله
 
+### Targum Jerusalem
+אֲרוּם תִּתְרוּן זֵיתֵיכוֹן לָא תִתְבַּקְרוּן יַתְהוֹן מִן בָּתַר כֵּן לְגִיּוֹרָא לְיַתְמָא וּלְאַרְמְלָא יְהוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](20_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

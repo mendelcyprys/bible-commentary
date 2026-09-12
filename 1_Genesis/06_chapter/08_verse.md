@@ -19,6 +19,9 @@
 **Arabic script:**
 ونوح وجد حظاا عند الله
 
+### Targum Jerusalem
+וְנחַ עַל דַהֲוָה צַדִיק בְּדָרֵיהּ אַשְׁכַּח חִינָא וְחִסְדָא קֳדָם יְיָ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](08_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

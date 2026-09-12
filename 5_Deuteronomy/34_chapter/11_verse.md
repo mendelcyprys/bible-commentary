@@ -19,6 +19,9 @@
 **Arabic script:**
 ولساير الايات والبراهين التي بعث الله بها موسي فصنعها في بلد مصر لفرعون ولجميع قواده ولساير اهل بلده
 
+### Targum Jerusalem
+לְכָל אָתַיּא וּמוֹפְתַיָּא וְנִיסַיָּא פְּרִישָׁתָא דִּי שְׁלַח יָתֵיהּ מֵימְרָא דַיְיָ לְמֶעֱבַד בְּאַרְעָא דְמִצְרַיִם לְפַרְעה וּלְכָל עַבְדּוֹי וּלְכָל אַרְעֵיהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](11_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

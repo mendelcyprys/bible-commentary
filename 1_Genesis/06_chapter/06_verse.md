@@ -19,6 +19,9 @@
 **Arabic script:**
 تواعدهم الله بما صنعهم في الارض واوصل المشقه الي قلوبهم
 
+### Targum Jerusalem
+וַהֲוַת תָּהִי מִן קֳדָם יְיָ בְּמֵימְרֵיהּ אֲרֵי עֲבַד יַת אֱנָשָׁא בְּאַרְעָא וַאֲמַר וְעַדְיַין עִם לִבֵּיהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](06_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

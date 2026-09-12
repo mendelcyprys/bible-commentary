@@ -19,6 +19,9 @@
 **Arabic script:**
 والحد الغربي يكون لكم البحر الكبير وتخمه
 
+### Targum Jerusalem
+וּתְחוּם יַמָא רַבָּא הוּא אוֹקְיָנוּס נָסוּי וּמֵחֲדוֹי וּסְפִינָתָא עִם מַיָא קֳדָמַיָא דְאִית בְּגַוֵיהּ הִינוּן מֵי בְרֵאשִׁית דֵין יֶהֱוֵי לְכוֹן תְּחוּמָא מַעַרְבַיָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](06_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

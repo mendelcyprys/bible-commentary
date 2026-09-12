@@ -19,6 +19,9 @@
 **Arabic script:**
 وفي ذات الاشتعال وذات المحنه وقبور المشتهيين لم تزالو مسخطين الله
 
+### Targum Jerusalem
+וּבְקִבְרַיָא תַחְמוּדַיָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](22_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

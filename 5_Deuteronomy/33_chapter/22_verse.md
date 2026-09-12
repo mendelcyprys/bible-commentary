@@ -19,6 +19,9 @@
 **Arabic script:**
 ولدن قال كن يا دن كشبل الاسد بقوه اذا يعرض من البثنيه
 
+### Targum Jerusalem
+וּלְשִׁבְטָא דְדָן בְּרִיךְ משֶׁה נְבִיָא דַיְיָ וַאֲמַר דָן מְדַמֵי לְגוּר בַּר אַרְיוֹן וְאַרְעֵיהּ תֶהֱוֵי שַׁתְיָמִין (ס"א שַׁתְיָא מִן) בּוֹתְנַיָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](22_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

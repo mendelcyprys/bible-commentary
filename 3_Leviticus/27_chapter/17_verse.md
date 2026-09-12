@@ -19,6 +19,9 @@
 **Arabic script:**
 فان اقدس ضيعته من سنه الاطلاق فالقيمه ثابته بحالها
 
+### Targum Jerusalem
+וְאִין משַׁתָּא דְּיוֹבְלָא יַפְרֵשׁ חַקְלֵיהּ כְּעִילַוֵּיהּ יְקוּם:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](17_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

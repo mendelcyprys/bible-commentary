@@ -19,6 +19,9 @@
 **Arabic script:**
 ولما كبر الصبي جات به الي ابنه فرعون وصار لها كابن وسمته موسي قالت لاني نشلته من الما
 
+### Targum Jerusalem
+דְלַיְתֵיהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](10_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

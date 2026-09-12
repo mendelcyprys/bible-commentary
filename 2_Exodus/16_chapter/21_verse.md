@@ -19,6 +19,9 @@
 **Arabic script:**
 وكانو يلقطونه في كل غداه كل رجل علي قدر عياله فاذا حميت الشمس تماسي
 
+### Targum Jerusalem
+הֲוָה שְׁיָיח:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](21_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

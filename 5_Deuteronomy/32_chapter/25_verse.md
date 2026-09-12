@@ -19,6 +19,9 @@
 **Arabic script:**
 وسيف مثكل من خارج وهيبه من الخدور حتي الشاب حتي العاتق والرضيع مع ذوي الشيبه خافه
 
+### Targum Jerusalem
+מִן שׁוּקָא תַּתְכֵּל יַתְהוֹן חַרְבָּא וּמִן קִיטוּנֵי מִדְמָכֵיהוֹן אֵימָתָא דְמוֹתָא לְחוֹד עוּלֵימִין לְחוֹד בְּתוּלִין יַנְקִין עִם גַבְרִין סָבִין:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](25_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 قال ابرهيم لعبده شيك منزله المسلط علي جميع ما له اوم الان بيدك الي عهدي
 
+### Targum Jerusalem
+וַאֲמַר אַבְרָהָם לְעַבְדֵיהּ שַׁלִיטָא דַהֲוָה שַׁלִיט בְּכָל מַה דִידֵיהּ שַׁוֵי כְעַן יְדָךְ תְּחוֹת יְרָךְ קְיָמִי:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](02_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

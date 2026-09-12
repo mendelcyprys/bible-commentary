@@ -19,6 +19,9 @@
 **Arabic script:**
 الذي تجليت لابرهيم واسحق ويعقوب بالطايق الكافي واسمي الله فقط لم اعرفهم
 
+### Targum Jerusalem
+וְאִיתְגְלִי בְּמֵימְרִי עַל אַבְרָהָם עַל יִצְחָק וְעַל יַעֲקב בֶּאֱלָהָא שְׁמַיָא וְשׁוּם מֵימְרָא דַיְיָ לָא אוֹדָעִית לְהוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](03_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

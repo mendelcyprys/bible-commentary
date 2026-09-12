@@ -19,6 +19,9 @@
 **Arabic script:**
 لا تمض ماحلا بقومك ولا تقم علي دم صاحبك انا الله المعاقب
 
+### Targum Jerusalem
+עַמִּי בֵּית יִשְרָאֵל לָא תֶהֱווּן בָּתַר לִישְׁנָא תְּלִיתַיָא עַל חַבְרֵיכוֹן וְלָא תִשְׁתּוֹק אִידְמָא דְחַבְרָךְ בִּזְמַן דְאַתְּ יָדַע קְשׁוֹט בְּדִינָא כְּדֵין אָמַר יְיָ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](16_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

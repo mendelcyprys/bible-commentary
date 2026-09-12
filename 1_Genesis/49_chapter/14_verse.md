@@ -19,6 +19,9 @@
 **Arabic script:**
 يششكر كجسم منفرد رابض بين الصفين
 
+### Targum Jerusalem
+יִשָשׁכָר שִׁבְטָא תַּקִיף וּתְחוּמֵיהּ יֶהֱוֵי מְמַצַע בֵּינֵי תְּרֵין תְּחוּמַיָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](14_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

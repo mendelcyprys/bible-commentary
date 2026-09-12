@@ -19,6 +19,9 @@
 **Arabic script:**
 الا ان كالغربا حسبنا عنده وكانه باعنا واكل ثمننا
 
+### Targum Jerusalem
+הֲלָא נוּכְרָאִין אִיתְחַשְׁבִינָן לֵיהּ אֲרֵי זַבִּין יָתָן וְהָא לָא בָּעִי לְמֵיהַב לְחוֹד כְּתוּבָּתָן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](15_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 يداه تحمل قرابين الله الشحم مع القص يات به معه فيحركه تحريكا لله
 
+### Targum Jerusalem
+יְדוֹי יִתְעֲלָן יַת קוּרְבָּנַיָא דַיְיָ יַת תַּרְבָּא דְעַל נְיָעָא יְהַב יָתֵיהּ וְיַת נְיָעָא לְמִנְפָא יָתֵיהּ אַנְפּוֹי קֳדָם יְיָ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](30_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

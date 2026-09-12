@@ -19,6 +19,9 @@
 **Arabic script:**
 واما رث الذكوه وعتود الذكوه اللذين ادخل من دمهما للاستغفار في القدس فليخرجا الي خارج العسكر فيحرقو بالنار جلودهما ولحومهما وفروثهما
 
+### Targum Jerusalem
+מַרְעֲיֵיהוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](27_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

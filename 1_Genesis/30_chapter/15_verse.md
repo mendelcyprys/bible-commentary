@@ -19,6 +19,9 @@
 **Arabic script:**
 قالت لها اما كفاك ان اخذت زوجي حتي تاخذي لفاح ابني ايضا قالت رحل لكنه ينام عندك الليله بدل ذلك
 
+### Targum Jerusalem
+בִּשְׁבוּעָה יִזְדַמֵן לְוָתִיךְ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](15_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

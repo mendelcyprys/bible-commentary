@@ -19,6 +19,9 @@
 **Arabic script:**
 وان اقدس شيا من البهايم النجسه فليفده بقيمته ويزد عليها خمسها وان لم يفتكها فليبع بقيمته
 
+### Targum Jerusalem
+וְאִין בְּעִירָא מְסָאַבָא וְיִפְרוֹק בְּעִילַוֵּיהּ וְיוֹסִיף חַמְשִׁין דְמוֹי עֲלוֹי וְאִין לָא יִתְפְּרִיק וְיִזְדַּבַּן בְּעִילַוֵּיהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](27_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

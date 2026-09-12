@@ -19,6 +19,9 @@
 **Arabic script:**
 لان عقاب الله ربك نار اكله هو الطايق المعاقب
 
+### Targum Jerusalem
+אֲרוּם יְיָ אֱלָהָכוֹן אֶשָׁא דְאָכְלָא אֶשָׁא הוּא אֱלָהָא קִנְאַן וּמִתְפְּרַע בְּקַנָּאִין הוּא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](24_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

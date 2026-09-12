@@ -19,6 +19,9 @@
 **Arabic script:**
 واصنع منك امه كبيره وابارك فيك واعظم اسمك وتكون بركه
 
+### Targum Jerusalem
+לךְ לךָ ואעשׁךָ. וֵאֲמַנֵי יָתָךְ לְאוּמָא רַבָּא וַאֲבָרֵךְ יָתָךְ נ"א ואתקף שמך וְאַתְקֵף וְיֶהֱוֵי אַבְרָם לְבִרְכָן סַגְיָין:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](02_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

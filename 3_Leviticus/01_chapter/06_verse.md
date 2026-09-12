@@ -19,6 +19,9 @@
 **Arabic script:**
 ويسلك الصعيده ويعضها اعضاا
 
+### Targum Jerusalem
+וְיַחְלֵישׁ יַת עֲלָתָא וְיִפְסַג יָתָהּ לְפִסְגָהָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](06_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

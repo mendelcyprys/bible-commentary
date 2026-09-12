@@ -19,6 +19,9 @@
 **Arabic script:**
 اصنع لك تابوتا من خشب الشمشار واصنعها طبقات وقفرها من داخل ومن خارج بالقفر
 
+### Targum Jerusalem
+תֵּיבוּתָא דְאָעִין דְקַדְרִינוּן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](14_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 فقال موسي لحكامهم ليقتل كل رجل من في ناحيته من ملازمي فعور الصنم
 
+### Targum Jerusalem
+וַאֲמַר משֶׁה לְסַרְכַיָא דְיִשְרָאֵל קְטוּלוּ גְבַר יַת אֱנַשׁ בֵּיתֵיהּ אִילֵין דִי אַדְבִּיקוּ לְפַלְחֵי טַעֲוָותָא דִפְּעוֹר:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](05_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

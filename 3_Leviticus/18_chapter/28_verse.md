@@ -19,6 +19,9 @@
 **Arabic script:**
 ليلا يشتتكم البلد اذ نجستموه كما شتت الامم الذين من قبلكم
 
+### Targum Jerusalem
+וְלָא תִפְלוֹט אַרְעָא יַתְכוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](28_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

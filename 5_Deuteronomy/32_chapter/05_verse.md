@@ -19,6 +19,9 @@
 **Arabic script:**
 افسد امامه لا كاولياه لكن المعيبين الجيل العسر المنفتل
 
+### Targum Jerusalem
+חַבִּילוּ בְּנַיָא עוֹבָדֵיהוֹן וְלָא קֳדָמוֹי מְחַבְּלִין אֶלָא לְהוֹן עַד דִי חַבָּלוּ מוּמָא אִיתְיְהַב בְּהוֹן דָרָא עוּקָמָא וּפְתַלְגָא דְשַׁנוּ עוֹבָדוֹי וְאַף סִידְרֵי עַלְמָא אִישְׁתַּנֵי עֲלוֹי:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](05_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

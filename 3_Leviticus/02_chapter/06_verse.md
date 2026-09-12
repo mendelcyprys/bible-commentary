@@ -19,6 +19,9 @@
 **Arabic script:**
 واثردها ثرده وصب عليها دهنا بذلك تكون هديه
 
+### Targum Jerusalem
+וּתְרַסֵּיק יָתֵהּ רִיסוּקִין וּתְרֵיק עֲלָהּ מִשְׁחָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](06_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

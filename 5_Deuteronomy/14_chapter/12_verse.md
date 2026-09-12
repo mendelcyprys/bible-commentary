@@ -19,6 +19,9 @@
 **Arabic script:**
 وهذه الاشخاص فلا تاكلوها من الطاير النسر والعقاب والعنقا
 
+### Targum Jerusalem
+וְדֵין דְּלָא תֵיכְלוּן מִנְהוֹן נִישְׁרָא וְעַדְיָא וּבַרְגְּזָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](12_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

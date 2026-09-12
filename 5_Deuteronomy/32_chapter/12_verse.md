@@ -19,6 +19,9 @@
 **Arabic script:**
 كذاك الله سيره فرادا وليس معه معبودات اخر
 
+### Targum Jerusalem
+יְיָ לְבִלְחוֹדֵיהוֹן אַשְׁרֵי יַתְהוֹן וְלֵית בֵּינֵיהוֹן פַּלְחֵי פּוּלְחַן נוּכְרָי:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](12_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

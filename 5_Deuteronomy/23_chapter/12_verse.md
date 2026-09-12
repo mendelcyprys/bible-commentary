@@ -19,6 +19,9 @@
 **Arabic script:**
 فاذا كان عند اتجاه الليل يرحض بالما وعند دخول الشمس يدخل الي العسكر
 
+### Targum Jerusalem
+וְיֶהֱוֵי לְעִדָנוֹי רַמְשָׁא יַשְׁזֵג בְּמַיָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](12_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

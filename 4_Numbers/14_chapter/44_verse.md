@@ -19,6 +19,9 @@
 **Arabic script:**
 فاعتدو وصعدو الي راس الجبل وصندوق عهد الله وموسي لم يزولا من وسط العسكر
 
+### Targum Jerusalem
+ויעפילו וְזָרִיזוּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](44_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

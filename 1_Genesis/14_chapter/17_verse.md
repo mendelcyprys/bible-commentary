@@ -19,6 +19,9 @@
 **Arabic script:**
 ثم خرج ملك سدوم تلقاه بعد رجوعه من حرب كدرلعمر والملوك الذين معه الي عمق شوه هو ملعب الملك
 
+### Targum Jerusalem
+וְיַת מַלְכַיָא דְעִימֵיהּ לְמֵישַׁר דַחֲזוֹזָא הוּא בֵּית מֵישְׁרָא דְמַלְכָּא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](17_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

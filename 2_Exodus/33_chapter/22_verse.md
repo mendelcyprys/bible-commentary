@@ -19,6 +19,9 @@
 **Arabic script:**
 فاذا مر بك نوري صيرتك في نقور الصوان وظللت بسحابي عليك حتي يجوز اوله
 
+### Targum Jerusalem
+וְאַטֵיל יַת יְדָי:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](22_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

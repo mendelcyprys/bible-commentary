@@ -19,6 +19,9 @@
 **Arabic script:**
 وثورا من البقر وكبشا وحملا ابن سنته للصعيده
 
+### Targum Jerusalem
+תּוֹר חָד בַּר תּוֹרִין בַּר תְּלַת שְׁנִין דְכַר חָד בַּר תַּרְתֵּין שְׁנִין אִמַר חָד בַּר שַׁתְיֵהּ לַעֲלָתָא הֲוָה רַב שִׁבְטָא מַקְרִיב לְעֵילָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](15_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

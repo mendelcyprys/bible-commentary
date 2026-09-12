@@ -19,6 +19,9 @@
 **Arabic script:**
 الذي يسمونه الصيدانيون شريون والاموريون شنير
 
+### Targum Jerusalem
+צִידוֹנָאֵי קְרַן לְחֶרְמוֹן אַרְעָא מַסְרֵי פֵּירוֹהִי וֶאֱמוֹרָאֵי קְרַן אַרְעָא מַרְבֵּי פֵּירֵי אִילָנָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](09_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

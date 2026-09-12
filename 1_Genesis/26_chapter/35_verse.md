@@ -19,6 +19,9 @@
 **Arabic script:**
 فكانتا مخالفتي راي اسحق وربقه
 
+### Targum Jerusalem
+וַהֲוַיַין סַרְהָבִינִין וְאַפְחַת רוּחַ בְּפוּלְחָנָא נוּכְרַיָא וְלָא הֲווֹ מְקַבְּלִין אוּלְפַן לָא מִן יִצְחָק וְלָא מִן רִבְקָה:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](35_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

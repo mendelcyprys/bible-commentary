@@ -19,6 +19,9 @@
 **Arabic script:**
 قلتا له ليس كالنسا المصريات العبرانيات بل هن بصيرات وقبل ان تدخل اليهن القابله يلدن
 
+### Targum Jerusalem
+אֲרוּם חָיָין אִינוּן עַד לָא יֵיתֵי לְוַתְהוֹן יְלָדָתֵי אִינוּן מַצְלַן קֳדָם אֲבוּהוֹן דְבִשְׁמַיָא וְהוּא עָנֵי יַתְהוֹן וְאִינוּן יַלְדָן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](19_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

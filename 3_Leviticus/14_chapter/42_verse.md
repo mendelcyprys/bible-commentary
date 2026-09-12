@@ -19,6 +19,9 @@
 **Arabic script:**
 وياخذو حجاره اخر فيدخلوها موضع تلك الحجاره وتراب اخر يوخذ ويطين البيت
 
+### Targum Jerusalem
+וְיִטְשׁוּן יַת בֵּיתָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](42_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

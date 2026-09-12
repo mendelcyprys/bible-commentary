@@ -19,6 +19,9 @@
 **Arabic script:**
 ويقرب منه قربانا لله شحمه والاليه صحيحه يقلعها امام العصاص الشحم المغطي الجوف وساير الشحم الذي عليه
 
+### Targum Jerusalem
+תַּרְבָּא וּנְיָעָא שְׁלֵימָה לֳקָבֵיל עֵיצַיָא יַעֲבֵיד יָתֵיהּ וְיַת תְּרַב דַּחֲפֵי עַל כְּרֵיסָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](09_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

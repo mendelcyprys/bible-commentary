@@ -19,6 +19,9 @@
 **Arabic script:**
 وهم لم يعلمو ان يوسف يفهم ذلك لانه اوقف ترجمانا بينه وبينهم
 
+### Targum Jerusalem
+וְהִינוּן לָא הֲווּ יָדְעִין אֲרוּם הֲוָה שְׁמִיעִי יוֹסֵף בִּלְשַׁן בֵּית קוּדְשָׁא אֲרוּם הֵיךְ כִּמְתוּרְגְמַן הֲוָה מְנַשֶׁה קָאִים בֵּינֵהוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](23_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

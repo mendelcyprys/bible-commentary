@@ -19,6 +19,9 @@
 **Arabic script:**
 وكانا جميعا عريانين ادم وزوجته ولا يحتشمان من ذلك
 
+### Targum Jerusalem
+וְלָא הֲווֹ יָדְעִין מַה הוּא בַהֲתָתָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](25_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

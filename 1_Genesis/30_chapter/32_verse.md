@@ -19,6 +19,9 @@
 **Arabic script:**
 ان امر اليوم في غنمك واعزل منها كل شا منقط وابلق وكل شا حما في الضان وابلق ومنقط في الماعز ويكون ذلك اجرتي
 
+### Targum Jerusalem
+כָּל אִימַר קְרוּחַ וּנְמוֹר וְכָל אִימַר לְחוֹשׁ בְּאִימְרַיָא וּקְרוּחַ וּנְמוֹר בְּעִיזַיָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](32_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

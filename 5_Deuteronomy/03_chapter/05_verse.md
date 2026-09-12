@@ -19,6 +19,9 @@
 **Arabic script:**
 كل هذه قري حصينه بسور شامك ومصارع ونجور سوي قري الربض فانها كثيره جدا
 
+### Targum Jerusalem
+כָּל אִילֵין קִירְיַין תְּלִילַן מַקְפָן שׁוּרִין רָמִין תַּרְעִין וְנַגְרִין:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](05_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

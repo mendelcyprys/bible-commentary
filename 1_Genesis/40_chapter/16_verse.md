@@ -19,6 +19,9 @@
 **Arabic script:**
 ولما راي رييس الخبازين انه قد فسرها له للخير قال له رايت انا ايضا كان ثلث سلال حواري علي راسي
 
+### Targum Jerusalem
+וְהָא תְּלָתָא סַלִין דְרִיפְתָּא קַקְבָּטִין עַל רֵישִׁי:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](16_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

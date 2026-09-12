@@ -19,6 +19,9 @@
 **Arabic script:**
 فمات ثم موسي رسول الله في بلد مواب بامر الله
 
+### Targum Jerusalem
+וּמִית תַּמָן משֶׁה עַבְדָא דַיְיָ בְּאַרְעֲהוֹן דְמוֹאֲבָאֵי עַל פּוּם גְזֵירַת מֵימְרָא דַיְיָ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](05_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

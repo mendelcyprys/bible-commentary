@@ -19,6 +19,9 @@
 **Arabic script:**
 وان انتم دخلتم البلد الذي اقسمت بامري اسكنكم فيه الا كلب بن يفنه ويهوشع بن نون
 
+### Targum Jerusalem
+דַאֲרֵימַת יַת יְדַי בִּשְׁבוּעָה:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](30_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

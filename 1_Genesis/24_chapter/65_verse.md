@@ -19,6 +19,9 @@
 **Arabic script:**
 وقالت للعبد من هذا الرجل الساير في الصحرا تلقانا قال العبد هو مولاي فاخذت القناع وتغطت به
 
+### Targum Jerusalem
+וּנְסֵיבַת רְדִידָא וְאִתְצַמְצַמָת בֵּיהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](65_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

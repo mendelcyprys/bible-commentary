@@ -19,6 +19,9 @@
 **Arabic script:**
 ولاشر قال كن مباركا من الاوليا يا اشر الذي سيكون رضا اخوته وغامسا في الدهن قدمه
 
+### Targum Jerusalem
+וּלְשִׁבְטָא דְאָשֵׁר בְּרִיךְ משֶׁה נְבִיָא דַיְיָ וַאֲמַר בְּרִיךְ הוּא מִבָּנַיָא אָשֵׁר יְהֵי מַרְעֵי לְאָחוֹי בִּשְׁמִיטָא וְאַרְעֵיהּ תֶּהֱוֵי עַבְדָא מְשַׁח כְּמַיָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](24_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

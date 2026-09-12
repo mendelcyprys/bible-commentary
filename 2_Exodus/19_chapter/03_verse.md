@@ -19,6 +19,9 @@
 **Arabic script:**
 وموسي صعد الي الله فناداه الله من الجبل قايلا كذا قل لال يعقوب واخبر اسرايل
 
+### Targum Jerusalem
+וּמשֶׁה סְלִיק לְמִיתְבַּע אוּלְפַן מִן קֳדָם יְיָ וְקָדָם לֵיהּ דִּיבְרָא דַיְיָ מִן טוּרָא לְמֵימָר כִּדְנַן תֵימַר לְאֶינָשֵׁי בֵיתֵיהּ דְּיַעֲקב וְתַתְנֵי אוּלְפַן לִכְנִשְׁתְּהוֹן דִּבְנֵי יִשְרָאֵל:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](03_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

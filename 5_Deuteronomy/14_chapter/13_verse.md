@@ -19,6 +19,9 @@
 **Arabic script:**
 والجارح والصدا والحدا باصنافها
 
+### Targum Jerusalem
+וְוָתָא וְיַת אִיבוּ וְדַיָיתָא לְמִינָהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](13_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

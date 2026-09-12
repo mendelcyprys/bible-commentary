@@ -19,6 +19,9 @@
 **Arabic script:**
 ثم قال ليس صوت يدل علي ظفر ولا صوت يدل علي هزيمه بل صوت ضوضا انا سامع
 
+### Targum Jerusalem
+קַל מְקַלְסִין בְּפוּלְחָנָא נוּכְרָאָה:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](18_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

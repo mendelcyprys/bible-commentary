@@ -19,6 +19,9 @@
 **Arabic script:**
 واذا يكون وقت لنفي القينيين فكم يسبي منهم الموصليون
 
+### Targum Jerusalem
+אֲרוּם אִין יֶהֱוֵי שַׁלְמַיָא לְבִזָא עַד כְּעַן אֲתוּרַיָא עֲתִיד קָאִים שְׁבֵי יָתָךְ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](22_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

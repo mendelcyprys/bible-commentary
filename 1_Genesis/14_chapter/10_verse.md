@@ -19,6 +19,9 @@
 **Arabic script:**
 وعمق السدين فيها ابار تخرج حمرا فهرب ملك سدوم وعموره ووقعا ثم والباقيون هربو الي الجبل
 
+### Targum Jerusalem
+וּמֵישַׁר פַרְדְסַיָא בֵּירְוָון בֵּירְוָון מַלְיָא חֵמָר:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](10_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

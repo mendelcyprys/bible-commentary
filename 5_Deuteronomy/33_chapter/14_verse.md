@@ -19,6 +19,9 @@
 **Arabic script:**
 ومن ملاذ الغلات الشمسيه وملاذ الحبوب القمريه
 
+### Targum Jerusalem
+עַבְדָא פֵּירִין טָבִין מִן ^טוּב עֲלָלַת שִׁמְשָׁא וּמִבִּכְרָא רָאשֵׁי מִגְדָנִין בְּכָל רֵישׁ יֶרַח וְיֶרַח:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](14_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 واي رجل ضاجع امراه مضاجعه انسال وهي امه مخطوبه لاي رجل كان وفدا لم تفدا او عتقها لم يدفع اليها فلتكن محدوده ولا يقتلا اذ لم تعتق
 
+### Targum Jerusalem
+מָרְדוּ אִינוּן חַיָּיבִין:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](20_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

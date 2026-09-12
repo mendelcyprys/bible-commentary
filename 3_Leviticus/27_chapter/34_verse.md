@@ -19,6 +19,9 @@
 **Arabic script:**
 هذه الوصايا التي امر بها موسي لبني اسرايل في جبل سيني
 
+### Targum Jerusalem
+אִלֵין פִּקוּדַיָּא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](34_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

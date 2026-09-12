@@ -19,6 +19,9 @@
 **Arabic script:**
 وان اقرضت بعض قومي ورقا لضعيف معك فلا تكن له كالغريم ولا تصيرو عليه عينه
 
+### Targum Jerusalem
+אִם כַּסְפָּא תּוּזְפוּן לְעַמִּי יַת מַסְכֵּינָא דְעִימְכוֹן לָא תְהַוֵון לֵיהּ מָרֵי חוֹב דָּחִיק לָא תְשַׁווּן עֲלוֹי לָא שָׁעֲרִין וְלָא רַבְיָיא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](24_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

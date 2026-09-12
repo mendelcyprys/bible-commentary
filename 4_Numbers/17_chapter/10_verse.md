@@ -19,6 +19,9 @@
 **Arabic script:**
 ان ارتفعتما من بين هذه الجماعه افنيتهم كطرفه فوقعا علي وجوههما
 
+### Targum Jerusalem
+אִתְפְּרָשׁוּ מִן בֵּינֵי עַם כְּנִשְׁתָּא הָדָא וְאֵשֵׁיצֵי יַתְהוֹן כְּקָלִיל זְעֵיר וְאִתְרָכִינוּ בִּצְלוֹ עַל אַפֵּיהוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](10_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

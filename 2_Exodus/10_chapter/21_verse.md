@@ -19,6 +19,9 @@
 **Arabic script:**
 ثم قال الله لموسي مد يدك نحو السما ويكون ظلام علي جميع بلد مصر بعد زوال ظلام الليل
 
+### Targum Jerusalem
+וִיהוֹן מְמַשְׁמְשִׁין בַּחֲשׁוֹכָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](21_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

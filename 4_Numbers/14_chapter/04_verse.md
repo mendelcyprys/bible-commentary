@@ -19,6 +19,9 @@
 **Arabic script:**
 ثم قال بعضهم لبعض نولي ريسا ونرجع الي مصر
 
+### Targum Jerusalem
+נְשַׁוֵי עֲלָן מֶלֶךְ וְנַחֲזוֹר לְמִצְרַיִם:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](04_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

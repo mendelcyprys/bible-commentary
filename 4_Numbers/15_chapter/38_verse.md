@@ -19,6 +19,9 @@
 **Arabic script:**
 مر بني اسرايل وقل لهم ان يصنعو لهم ذوابه علي اكناف ازرهم علي مر اجيالهم ويجعلو علي ذوابه الكنف سلك اسمانجون
 
+### Targum Jerusalem
+וְיַעַבְדוּן לְהוֹן צִיצִין עַל צְנָפַת דְגוֹלַתְהוֹן לְדָרֵיהוֹן וְיִתְּנוּן עַל צִיצִין דְגוֹלַתְהוֹן שְׁזִיר דְתִכְלָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](38_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

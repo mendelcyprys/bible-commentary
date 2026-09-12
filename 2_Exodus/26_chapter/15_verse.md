@@ -19,6 +19,9 @@
 **Arabic script:**
 واصنع التخاتج للمسكن من خشب السنط قايمه
 
+### Targum Jerusalem
+הַקְּרָשִׁים לְוַוחֵי:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](15_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

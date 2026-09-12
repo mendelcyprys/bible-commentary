@@ -19,6 +19,9 @@
 **Arabic script:**
 فيكلم هو لك القوم ويكون لك ترجمانا وانت تكون له استاذا
 
+### Targum Jerusalem
+הוּא יֶהֱוֵי לָךְ לִמְתּוּרְגְמָן וְאַתְּ תֶּהֱוֵי לֵיהּ כִּתְבַע אוּלְפַן מִן קֳדָם יְיָ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](16_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 في سنه ست مايه من عمر نوح في الشهر الثاني في اليوم السابع عشر منه في ذلك اليوم تشققت عيون الغمر العظيم وروازن السما تفتحت
 
+### Targum Jerusalem
+וַחֲרַכֵּי שְׁמַיָא אִתְפַּתָּחוּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](11_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

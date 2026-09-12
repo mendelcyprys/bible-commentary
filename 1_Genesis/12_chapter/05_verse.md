@@ -19,6 +19,9 @@
 **Arabic script:**
 فاخذ ابرم شري زوجته ولوط قريبه وجميع سرحهم الذي ملكوه والنفوس التي اكتسبو في حران وخرجو ليمضو الي بلد كنعان وجاو اليه
 
+### Targum Jerusalem
+וְיַת נַפְשָׁתָא דְגַיְירִין:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](05_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 فمد موسي يده علي البحر فرجع البحر عند اتجاه الغداه الي صعوبته والمصريون هاربون تلقاه فغرقهم الله في وسط البحر
 
+### Targum Jerusalem
+וְאַרְכִין משֶׁה יַת יְדֵיהּ עַל יַמָא וַחֲזַר יַמָּא לְעִידָנוֹי צַפְרָא לְאַתְרֵיהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](27_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 خلا هذه الاشخاص فلا تاكلوها من مصعدي الاجترار والمظلفه باظلاف مفرقه الجمل والارنب والوبر انها مصعده الاجترار وجر مظلفه بظلف وهي محرمه عليكم
 
+### Targum Jerusalem
+אֲרוּם מַסְקֵי גְרָרָא הִינוּן וּפַרְסַתְהוֹן לֵית הִיא סְדִיקָה:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](07_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 بعث موسي بقوم يرومون يعزر ففتحو رساتيقها وقرضو الاموري الذي فيها
 
+### Targum Jerusalem
+וּשְׁלַח משֶׁה לְמִילְלָא יַת מַכְוַור וּכְבִישׁוּ כַּפְרָנַיָא וְשֵׁיצוּן יַת אֱמוֹרָאֵי דִי הֲוָון תַּמָן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](32_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

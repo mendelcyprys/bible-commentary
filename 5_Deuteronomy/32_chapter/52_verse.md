@@ -19,6 +19,9 @@
 **Arabic script:**
 لذلك تنظر الارض التي اعطيتها لبني اسرايل من المقابله ولا تدخل اليها
 
+### Targum Jerusalem
+אֲרוּם בִּלְקָבֵל תֶּחֱמֵי יַת אַרְעָא וְתַמָן לָא תֵיעוּל לְאַרְעָא דִי אֲנָא יָהִיב לִבְנֵי יִשְרָאֵל:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](52_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

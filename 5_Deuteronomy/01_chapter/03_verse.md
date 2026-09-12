@@ -19,6 +19,9 @@
 **Arabic script:**
 فلما كان في السنه الاربعين في اليوم الاول من الشهر الحادي عشر كلم موسي بني اسرايل بجميع ما امره الله اليهم
 
+### Targum Jerusalem
+וַהֲוָה בְּסוֹף אַרְבְּעִין שְׁנִין:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](03_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

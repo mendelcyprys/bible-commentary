@@ -19,6 +19,9 @@
 **Arabic script:**
 وقال له ايضا اردد يدك الي كمك وردها ثم اخرجها وقد عادت كساير بدنه
 
+### Targum Jerusalem
+אָעֵיל כְּעַן יְדָךְ בְּחוּבָךְ וְאָעֵיל יְדֵיהּ בְּחוּבֵיהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](07_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

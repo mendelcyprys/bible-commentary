@@ -19,6 +19,9 @@
 **Arabic script:**
 قال لا تتقدم الي هنا انزع نعليك عن رجليك فان الموضع الذي انت واقف عليه مقدس
 
+### Targum Jerusalem
+שְׁלוּף סַנְדְלָךְ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](05_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

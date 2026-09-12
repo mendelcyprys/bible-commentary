@@ -19,6 +19,9 @@
 **Arabic script:**
 وقم عنده اياما يسيره الي ان ترجع حميه اخيك
 
+### Targum Jerusalem
+עַד זְמַן דְתַחֲזוֹר כּוּלְתֵיהּ דְאָחוּךְ מִינָךְ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](44_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

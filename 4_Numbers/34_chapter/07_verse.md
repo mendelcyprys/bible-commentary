@@ -19,6 +19,9 @@
 **Arabic script:**
 وهذا يكون لكم الحد الشمالي من البحر الكبير تحدو الي جبل هور
 
+### Targum Jerusalem
+וְדֵין יֶהֱוֵי לְכוֹן תְּחוּם צִפּוּנַיָא מִן יַמָא רַבָּא תְּכַוְונוּן לְכוֹן לְטַוְורוֹס מָנוֹס:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](07_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

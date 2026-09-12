@@ -19,6 +19,9 @@
 **Arabic script:**
 وياير ابن منشه اخذ جميع الموجب الي حد الجشوريين والمعكتيين فسماها باسمه سواد ياير الي يومنا هذا
 
+### Targum Jerusalem
+כָּל תְּחוּם אַטַרְכוּנָא עַד תְּחוּם קִרְיַת אֲפִיקֶרֶס וּקְרָא יַתְהוֹן עַל שְׁמֵיהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](14_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

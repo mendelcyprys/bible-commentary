@@ -19,6 +19,9 @@
 **Arabic script:**
 ولو تحكمو لعقلو خله يفهمون بها عاقبتهم
 
+### Targum Jerusalem
+אִלוּ חַכִּימוּ יִשְרָאֵל וְיַלִיפוּ אוֹרַיְיתָא אִתְבּוֹנְנוּ מַה הֲוֵי בְּאַחֲרָיוּתָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](29_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

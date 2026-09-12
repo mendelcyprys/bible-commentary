@@ -19,6 +19,9 @@
 **Arabic script:**
 ويقشن اولد شبا وددن وبنو ددن كانو اشوريم ولطوشيم ولاميم
 
+### Targum Jerusalem
+תַּגָרִין וְאוּמְנִין וְרֵישֵׁי אוּמִין:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](03_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

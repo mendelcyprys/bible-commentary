@@ -19,6 +19,9 @@
 **Arabic script:**
 وكذا فاصنع بحماره وبثوبه وبساير ضال اخيك الذي تضيع منه فتجدها ولا يحل لك ان تتغافل عنها
 
+### Targum Jerusalem
+וְכֵן תַּעֲבֵיד לְחַמְרֵיהּ וְכֵן תַּעֲבֵיד לְאִצְטַלִיתֵיהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](03_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

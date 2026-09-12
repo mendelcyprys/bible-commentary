@@ -19,6 +19,9 @@
 **Arabic script:**
 فضرب مثله وقال قل يا بلعم ابن بعور وقل يايها الرجل الحديد البصر
 
+### Targum Jerusalem
+וּנְטַל בִּמְתַל נְבִיוּתֵיהּ וַאֲמַר אֵימַר בִּלְעָם בְּרָא דִבְעוֹר אֵימַר גַבְרָא דְיַקִיר מִן אָבוֹי מַה דְאִתְכַּסֵי מִכָּל נְבִיאַיָא אִתְגְלֵי עֲלוֹי:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](03_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

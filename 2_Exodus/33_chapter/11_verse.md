@@ -19,6 +19,9 @@
 **Arabic script:**
 ويتكلم الله مع موسي شفاها كما يكلم المر صاحبه ويرجع الي العسكر وكان خادمه يهوشع بن نون شابا لا يزول من الخبا
 
+### Targum Jerusalem
+וְשַׁמְשֵׁיהּ יְהוֹשֻׁעַ בַּר נוּן טְלֵי זְעֵיר לָא פְּסַק מִגּוֹ מַשְׁכְּנָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](11_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

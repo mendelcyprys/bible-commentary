@@ -19,6 +19,9 @@
 **Arabic script:**
 فاشتد ذلك علي موسي جدا فقال اللهم لا تقبل بخورهم ودل به علي اني لم اسخر لاحدهم حمارا فضلا عن اني اسي الي احدهم
 
+### Targum Jerusalem
+וּבְאַשׁ לְמשֶׁה לַחֲדָא וַאֲמַר קֳדָם יְיָ לָא תִסְתַּכֵּל לְדוֹרוֹן דִידְהוֹן לָא חֲמָרָא דְחַד מִנְהוֹן נְסִיבִית וְלָא אַבְאָשִׁית לְחַד מִנְהוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](15_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

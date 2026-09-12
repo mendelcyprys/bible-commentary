@@ -19,6 +19,9 @@
 **Arabic script:**
 فلما كان عند طلوع الفجر الح الملايكه علي لوط قايلين قم خذ زوجتك وابنتيك الموجودتين كيلا تنساف بذنوب اهل البلد
 
+### Targum Jerusalem
+וּכְאִישׁוֹן לְמֵיסַק עֲמוּדָא שַׁחֲרָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](15_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

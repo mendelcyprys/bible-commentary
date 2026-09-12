@@ -19,6 +19,9 @@
 **Arabic script:**
 فلما راي فينحس ابن العزر ابن هرون الامم قام من وسط الجماعه واخذ رمحا بيده
 
+### Targum Jerusalem
+וַחֲמָא פִּינְחָס בַּר אֶלְעָזָר בְּרָא דְאַהֲרן כַּהֲנָא רַבָּא וְקָם מִגוֹ קְהָלָא וּנְסֵיב רוּמְחָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](07_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

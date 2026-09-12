@@ -19,6 +19,9 @@
 **Arabic script:**
 ومصر اولد التنيسيين والاسكندرانيين والبهناسيين والفرميين
 
+### Targum Jerusalem
+וּמִצְרַיִם אוֹלִיד יַת מַרְיוֹטָאֵי וְיַת פַּנְטְפּוֹלִיטָאֵי וְיַת לוֹסְטָאַי:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](13_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

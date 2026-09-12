@@ -19,6 +19,9 @@
 **Arabic script:**
 وشدد الله قلب فرعون ملك مصر وكلب بني اسرايل وبنو اسرايل خارجون بيد رفيعه
 
+### Targum Jerusalem
+וּבְנֵי יִשְרָאֵל נָפָקוּ פְּרִיקִין:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](08_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

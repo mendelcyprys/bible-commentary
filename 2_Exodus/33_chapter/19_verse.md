@@ -19,6 +19,9 @@
 **Arabic script:**
 قال له انا امر بجميع نوري بين يديك وانادي باسمي بحضرتك واروف علي من اروف وارحم لمن ارحم
 
+### Targum Jerusalem
+וַאֲמַר הָא אֲנָא מַעְבֵר כָּל מְכִילַת טוּבִי קֳדָמָךְ וְאִיקְרֵי בְשֵׁם טַב יְיָ קֳדָמָךְ וְאָחוּס עַל מַה דְּחָמֵי לֵיהּ לְמֵיחָס וַאֲרַחֵם עַל מַה דְּחָמֵי לֵיהּ לְמִתְרַחֲמָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](19_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

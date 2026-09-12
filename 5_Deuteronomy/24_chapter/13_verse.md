@@ -19,6 +19,9 @@
 **Arabic script:**
 بل رده اليه ردا عند مغيب الشمس اذ ينام فيه فيدعو لك وتكون لك حسنه بين يدي الله ربك
 
+### Targum Jerusalem
+מַחֲזוֹרָא תַּחֲזוֹר לֵיהּ יַת מַשְׁכּוֹנָא כְּמֵיעַל שִׁימְשָׁא וְאִידְמוֹךְ בְּאִיסְטַלְיָתֵיהּ וִיבָרִיךְ יָתָךְ וְלָךְ תֶּהֱוֵי זְכוּ קֳדָם יְיָ אֱלָהָךְ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](13_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 وكل بهيمه مظلفه بظلف ومفرقه تفريقا اظلافها ومصعده اجترار من البهايم فكلوها
 
+### Targum Jerusalem
+מַסְקַן גְּרָרָא בִּבְעִירָא יָתָהּ תֵיכְלוּן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](06_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

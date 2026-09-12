@@ -19,6 +19,9 @@
 **Arabic script:**
 ومن اصول الجبال الاوليه ومن فروع اليفاع الدهريه
 
+### Targum Jerusalem
+עַבְדָא פֵּירִין טָבִין בִּזְכוּת אַבְהָתָא צַדִיקַיָא דִמְתִילִין לְטֻרַיָא אַבְרָהָם יִצְחָק וְיַעֲקב וּבִזְכוּת אַרְבַּעֲתֵּי אַמְהָתָא דִמְתִילִין לִגְלֶמְתָּא שָרָה רִבְקָה רָחֵל לֵאָה:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](15_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 الا ان جميع ذلك مكنوز عندي ومختوم في خزايني
 
+### Targum Jerusalem
+הֲלָא הוּא כַּסָא דֵין פּוּרְעֲנוּתָא מְמַזֵג וּמְתַקֵן גַבִּי לְרַשִׁיעַיָא חָתִים בְּאוֹצָרָי לְיוֹם דִינָא רַבָּא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](34_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

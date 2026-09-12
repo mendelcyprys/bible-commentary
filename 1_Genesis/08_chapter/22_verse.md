@@ -19,6 +19,9 @@
 **Arabic script:**
 ابدا طول عمر الارض الزرع والحصاد والقر والحما والقيظ والخريف والنهار والليل لا تعطل
 
+### Targum Jerusalem
+עוֹד כָּל יוֹמֵי אַרְעָא מִן כְּדוֹן זַרְעִין וְחַצְדִין וְצִינְתָא וְשׁוֹרְבָא וִימָם וְלֵילָא לָא פַּסְקִין:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](22_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

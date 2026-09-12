@@ -19,6 +19,9 @@
 **Arabic script:**
 واسكن يوسف اباه واخوته واعطاهم حوزا في بلد مصر في اجوده وهو بلد عين شمس كما امر فرعون
 
+### Targum Jerusalem
+וּפִלוּסִם:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](11_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

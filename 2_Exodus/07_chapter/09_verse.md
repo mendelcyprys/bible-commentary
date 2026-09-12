@@ -19,6 +19,9 @@
 **Arabic script:**
 اذا كلمكما فرعون وقال اعطوني برهانا فقل لهرون خذ عصاك فاطرحها بين يدي فرعون وتصير تنينا
 
+### Targum Jerusalem
+וּטְלַק קֳדָם פַּרְעה:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](09_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 فلما راي موسي القوم انهم مكشوفون اذ كشف هرون ذوي الشين من مقاوميهم
 
+### Targum Jerusalem
+וַחֲמָא משֶׁה יַת עַמָּא אֲרוּם פְּרִיעִין אִינוּן אֲרוּם פְּרָעוּ כְלִילָא דְדַהֲבָא דַהֲוָה בְּרֵישֵׁיהוֹן דַּהֲוָה שְׁמָא מְפַרְשָׁא חָקִיק עֲלֵיהוֹן מִן טוּרָא דְחוֹרֵב:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](25_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

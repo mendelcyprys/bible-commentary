@@ -19,6 +19,9 @@
 **Arabic script:**
 فطاف ابرم في البلد الي موضع نابلوس والي مرج ممرا والكنعاني حينيذ كان مقيما في البلد
 
+### Targum Jerusalem
+מִשְׁרֵי חֲזוּזָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](06_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

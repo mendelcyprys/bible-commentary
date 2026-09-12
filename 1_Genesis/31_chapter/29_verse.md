@@ -19,6 +19,9 @@
 **Arabic script:**
 وموجود طاقه في يدي ان اصنع بكم شرا لولا ان الاه ابيكم البارحه قال لي احذر لك ان تكلم ليعقوب من خير الي شر
 
+### Targum Jerusalem
+אִית לִי חֵיל וְאוֹכְלוֹסִין:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](29_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

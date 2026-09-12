@@ -19,6 +19,9 @@
 **Arabic script:**
 ودفنه في الوادي في بلد مواب مما يلي بيت فعور ولم يعلم احد بقبره الي يومنا هذا
 
+### Targum Jerusalem
+וּקְבַר יָתֵיהּ בְּחֵילְתָא בְּאַרְעֲהוֹן דְמוֹאֲבָאֵי כָּל קֳבֵיל טַעֲוַות פְּעוֹר וְלָא חֲכַם גְבַר יַת קְבוּרְתֵּיהּ עַד יוֹמָא הָדֵין:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](06_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 واوايل بكور ارضك تاتي بها الي بيت الله ربك ولا تاكل لحما مع لبن
 
+### Targum Jerusalem
+שֵׁירוּי בִּיכְרַת עֲלַלְתְּכוֹן תַּיְתוּן לְבֵית מַקְדְּשָׁא דַיְיָ אֱלָהָכוֹן עַמִי בֵּית יִשְרָאֵל לֵית אַתּוּן רְשָׁאִין לָא לִמְבַשְׁלָא וְלָא לְמֵיכְלָא בְּשַר וְחָלָב מְעוֹרְבִין כַּחֲדָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](26_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 فحمل القوم عجينهم قبل ان يختمر فكانت معاجنهم مشدوده في ثيابهم علي اعناقهم
 
+### Targum Jerusalem
+מוֹתָר פִּסְחֵיהוֹן קְטִירִין בְּשׁוֹשִׁיפְהוֹן יְהָבִין עַל כִּתְפֵּהוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](34_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

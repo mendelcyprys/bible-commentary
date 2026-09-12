@@ -19,6 +19,9 @@
 **Arabic script:**
 ان الله كلم موسي بعد موت ابني هرون اذ تقدما بين يدي الله علي ما بين فماتا
 
+### Targum Jerusalem
+תְּרֵין בְּנוֹי דְאַהֲרן בְּקָרוֹבֵיהוֹן אֶשָׁא בַּרְיָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](01_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

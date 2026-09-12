@@ -19,6 +19,9 @@
 **Arabic script:**
 وغشه بذهب خالص من داخل ومن خارج واصنع عليه زيجا من ذهب مستديرا
 
+### Targum Jerusalem
+כְּלִיל דִּדְהַב חֲזֵר וּמַקַּף:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](11_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

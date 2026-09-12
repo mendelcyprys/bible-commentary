@@ -19,6 +19,9 @@
 **Arabic script:**
 واما بكر يبكر لله من البهايم فلا يحتاج ان يقدسه انسان ان كان من الغنم والبقر فهو لله
 
+### Targum Jerusalem
+לְחוּד בּוּכְרָא דְּיַפְרֵישׁ קֳדָם יְיָ בִּבְעִירָא אִין תּוֹר אִין אִמָר לִשְׁמָא דַּיְיָ הוּא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](26_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 وكان اسحق قد جا في مجيه من البير التي للحي الناظر وهو مقيم في بلد القبله
 
+### Targum Jerusalem
+וְיִצְחָק הֲוָה אָתִי מִן בֵּית מֶדְרָשָׁא דְשֵׁם רַבָּא לִבְאֵרָא דְאִיתְגְלִית עֲלוֹהִי שְׁכִינְתֵּיהּ דַיְיָ וְהוּא הֲוָה שְׁרֵי בְּאַרְעָא דָרוֹמָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](62_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

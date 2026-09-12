@@ -19,6 +19,9 @@
 **Arabic script:**
 فادارهم الله طريق البر الي بحر القلزم ومتعبيين صعدو بنو اسرايل من بلد مصر
 
+### Targum Jerusalem
+וּדְבַר מֵימְרָא דַיְיָ יַת עַמָּא אוֹרַח מַדְבְּרָא יַמָא דְסוּף מְזַיְינִין בְּעוֹבָדָא טָבָא סְלִיקוּ בְנֵי יִשְרָאֵל פְּרִיקִין מֵאַרְעָא דְמִצְרַיִם:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](18_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

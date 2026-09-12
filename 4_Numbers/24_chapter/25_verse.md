@@ -19,6 +19,9 @@
 **Arabic script:**
 ثم قام بلعم فمضي ورجع الي موضعه وبلق ايضا مضي الي سبيله
 
+### Targum Jerusalem
+וְקָם בִּלְעָם וְאָזַל וְחָזַר לְאַתְרֵיהּ וּלְחוֹד בָּלָק:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](25_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

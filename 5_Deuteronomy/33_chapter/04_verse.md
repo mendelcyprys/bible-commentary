@@ -19,6 +19,9 @@
 **Arabic script:**
 اللهم الذي امر لنا موسي بالتوريه فجعلها وراثه لجوقه يعقوب
 
+### Targum Jerusalem
+אָמְרִין בְּנֵי יִשְרָאֵל אוֹרַיְיתָא פַקֵיד יָתָן משֶׁה יְהַב יָתָהּ יַרְתוּ וְאַחֲסָנָא לִקְהַל שִׁבְטַיָא דְבֵית יַעֲקב:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](04_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

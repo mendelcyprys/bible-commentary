@@ -19,6 +19,9 @@
 **Arabic script:**
 فاسمع ذلك يا اسرايل واحفظه واعمل به لكي يخار لك ولكي تكثر جدا كما وعدك الله الاه ابايك في بلد يفيض لبنا وعسلا
 
+### Targum Jerusalem
+אַרְעָא עַבְדָא פֵּירִין טַבְיָין נְקִיָין כַּחֲלָבָא וַחֲלַיָן וּטְעִימָן כְּדוּבְשָׁא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](03_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

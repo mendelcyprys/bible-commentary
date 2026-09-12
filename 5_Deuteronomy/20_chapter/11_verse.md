@@ -19,6 +19,9 @@
 **Arabic script:**
 فان اجابتك بالسلام وفتحت لك فجميع القوم الموجودين فيها يكونو لك ذمه ويخدموك
 
+### Targum Jerusalem
+וְיֶהֱוֵי אִין מִילִין דִּשְׁלָם תַּעֲנֵי לָךְ וְתִפְתּוֹחַ לְכוֹן פִּילְוָותָא וִיהֵי כָּל עַמָּא דְמִשְׁתַּכְּחִין:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](11_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

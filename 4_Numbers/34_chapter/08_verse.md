@@ -19,6 +19,9 @@
 **Arabic script:**
 ومنه الي حماه فيكون خروجه الي صدد
 
+### Targum Jerusalem
+מִטַוְורוֹס מָנוֹס תְּכַוְונוּן לְכוֹן לְמַעֲלֵי אַנְטוּכְיָיא וִיהוֹן מַפְקָנוֹי תְּחוּמָא דְאַוְולַס דְקִילְקָאֵי:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](08_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

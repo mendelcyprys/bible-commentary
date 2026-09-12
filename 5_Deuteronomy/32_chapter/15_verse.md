@@ -19,6 +19,9 @@
 **Arabic script:**
 فلما سمن الموصوف كذاك بطر اذ قيل له قد سمنت وغلظت وجسوت فترك الالاه الذي صنعه وامتحن معتمد غوثه
 
+### Targum Jerusalem
+וַאֲכָלוּ דְבֵית יְשׁוּרוּן וּבְעָטוּ וְעַתְרוּ וּמְרָדוּ וְאַצְלִיחוּ וּקְנוֹ נִכְסִין וּשְׁבָקוּ מֵימַר אֱלָהָא דִבְרָא יַתְהוֹן וּכְפָרוּ בְּדַחֲלָא תַקִיפָא דִפְרַק יַתְהוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](15_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

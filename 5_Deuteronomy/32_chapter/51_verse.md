@@ -19,6 +19,9 @@
 **Arabic script:**
 علي ما نكثتما الامه بي في ما خصومه رقيم في بريه سين ولم تقدساني في ما بينهم
 
+### Targum Jerusalem
+עַל דְסָרֵיבְתּוּן בְּשֵׁם מֵימְרִי בְּגוֹ בְּנֵי יִשְרָאֵל בְּמֵי מַצוּתָא רְקָם בְּמַדְבְּרָא דְצִין עַל דְלָא קַדִישְׁתּוּן יָתִי בְּגוֹ בְּנֵי יִשְרָאֵל:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](51_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

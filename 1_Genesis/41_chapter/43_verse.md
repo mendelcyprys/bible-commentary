@@ -19,6 +19,9 @@
 **Arabic script:**
 واركبه في جنيبته ونودي بين يديه الطريق وولاه علي بلد مصر
 
+### Targum Jerusalem
+וַהֲווֹ מְקַלְסִין קֳדָמוֹי וְאָמְרִין יְחִי אָבוֹי דְמַלְכָּא דְרַב בְּחוּכְמָא וְרַכִּיךְ בִּשְׁנַיָיא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](43_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

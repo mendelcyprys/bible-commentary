@@ -19,6 +19,9 @@
 **Arabic script:**
 واسبل الفاضل من شقاق الخبا ونصف الشقه الفاضله تسبلها علي موخر المسكن
 
+### Targum Jerusalem
+וְשִׁיפּוּעָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](12_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

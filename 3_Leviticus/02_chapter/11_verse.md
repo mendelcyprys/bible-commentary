@@ -19,6 +19,9 @@
 **Arabic script:**
 جميع الهدايا التي تقربونها لله لا تعمل خميرا لان كل خمير وكل عسل لا تقربو منهما قربانا محرقا لله
 
+### Targum Jerusalem
+אֲרוּם כָּל דִּמְחַמָּע וְכָל דְּחָלִי:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](11_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

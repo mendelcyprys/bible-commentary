@@ -19,6 +19,9 @@
 **Arabic script:**
 فلذلك قل له اني معطيه عهدي سلامه
 
+### Targum Jerusalem
+בִּשְׁבוּעָא אֲזִיל משֶׁה וַאֲמַר לְפִינְחָס הָא אֲנָא יְהַב לֵיהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](12_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

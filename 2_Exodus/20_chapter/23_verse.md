@@ -19,6 +19,9 @@
 **Arabic script:**
 ولا تصعد بدرج علي مذبحي ليلا تنكشف سواتك عليه
 
+### Targum Jerusalem
+וְאַתּוּן כַּהֲנַיָא בְּנוֹי דְאַהֲרן דְּקַיְימִין וּמְשַׁמְשִׁין עַל גַּבֵּי מַדְבְּחִי לָא תִסְגוּן בְּדַרְגִין עַל מַדְבְּחִי דְּלָא תִתְגְלֵי עֶרְיָתָךְ עֲלוֹי:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](23_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

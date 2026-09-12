@@ -19,6 +19,9 @@
 **Arabic script:**
 ومن ذلك البلد خرج الموصل فبنا نينوه ورحبه القريه والابله
 
+### Targum Jerusalem
+מִן אַרְעָא הַהוּא נְפַק אֲתוֹרַיָיא וּבְנָא יַת נִינְוֵה וְיַת פְּלַטְיָיתָא דְקַרְתָּא וְיַת חַרְיָית:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](11_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

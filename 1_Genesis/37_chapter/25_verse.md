@@ -19,6 +19,9 @@
 **Arabic script:**
 ثم جلسو واكلو طعاما فرفعو عيونهم فنظرو فاذا بقافله اعراب جايه من الجرش وجمالهم محمله خرنوبا وترياقا وشاهبلوط مارين ليحدرو ذلك الي مصر
 
+### Targum Jerusalem
+סִיעָה דִסְרָקָיִין:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](25_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

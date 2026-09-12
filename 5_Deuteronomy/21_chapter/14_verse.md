@@ -19,6 +19,9 @@
 **Arabic script:**
 فان لم تردها بعد ذلك فاطلقها حره لنفسها وبيعا لا تبيعها بثمن ولا تسترقها بعد ما اتيتها
 
+### Targum Jerusalem
+אִין לָא אִתְרְעֵי אַתְּ בָּהּ וְתִשְׁלַח יָתָהּ בִּרְשׁוּת נַפְשָׁהּ וּמְזַבְּנָא לָא תַזְבִּין יָתָהּ בִּכְסַף לָא תִתְגַר בָּהּ דִּי יְהִיבַת רְשׁוּתָךְ עֲלָהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](14_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

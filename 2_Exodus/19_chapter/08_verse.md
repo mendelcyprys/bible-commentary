@@ -19,6 +19,9 @@
 **Arabic script:**
 فاجابوه اجمعين وقالو جميع ما قال الله نصنعه فرد موسي كلامهم الي الله
 
+### Targum Jerusalem
+וְעַנְיָין כָּל עַמָּא כַּחֲדָא בְּלִבְּהוֹן שְׁלֵימָא וַאֲמָרוּ כָּל דִּי מַלֵּיל מֵימְרָא דַיְיָ נַעֲבֵיד וַחֲזַר משֶׁה יַת פִּתְגָמֵי עַמָּא בִּצְלוֹי קֳדָם יְיָ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](08_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

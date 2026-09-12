@@ -19,6 +19,9 @@
 **Arabic script:**
 والسطر الرابع ازرق وبلور ويسف تكون معينه بذهب في نظامها
 
+### Targum Jerusalem
+וְסִדְרָא רְבִיעָאָה כְּרוּם יַמָא בְּדוֹלְחָא וּמַרְגְּלִיתָא כְּתַב מְפָרַשׁ עֲלֵיהוֹן שֵׁם שִׁבְטִין תְּלָתָא אָשֵׁר יוֹסֵף וּבִנְיָמִין מְשַׁקְעִין דְהַב יֶהֱוַון בְּאַשְׁלָמוּתְהוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](20_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

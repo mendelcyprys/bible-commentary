@@ -19,6 +19,9 @@
 **Arabic script:**
 قال الله له مد يدك وامسك ذنبه فلما مد يده فامسكه فصار عصا في يده
 
+### Targum Jerusalem
+וְתִתְקוֹף בְּבֵית קוּטְנוֹי:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](04_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

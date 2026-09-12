@@ -19,6 +19,9 @@
 **Arabic script:**
 فويلك يا مواب كيف بدت يا قوم عبدت كموش لقد جعل بنيه اساري وبناته سبيا لسيحون ملك الاموريين
 
+### Targum Jerusalem
+אוֹי לְכוֹן מוֹאֲבָאֵי סַפְתוּן וּבָדְתוּן פַּלְחֵי טַעֲוָותָא כְּמוֹשׁ מְסַרְתּוּן בְּנֵיכוֹן כְּפוּתִין בְּקוֹלַרְיָיא וּבְנַתְכוֹן בְּשִׁבְיָיתָא לְמַלְכֵיהוֹן דֶאֱמוֹרָאֵי סִיחוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](29_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

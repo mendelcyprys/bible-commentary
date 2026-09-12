@@ -19,6 +19,9 @@
 **Arabic script:**
 فجا موسي فدعي باشياك القوم وتلا عليهم جميع هذا الكلام الذي امره الله به
 
+### Targum Jerusalem
+וְאָתָא משֶׁה וּקְרָא לְחַכִּימַיָא דְיִשְרָאֵל וּסְדַר קֳדָמֵיהוֹן יַת כָּל דִּבְרַיָא הָאִלֵּין דְּפַקֵיד יָתֵיהּ מֵימְרָא דַיְיָ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](07_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 وقال برغبه يه سيدي ميلا الان الي بيت عبدكما وبيتا واغسلا ارجلكما وتدلجان وتمضان في طريقكما قالا لا الا في الرحبه نبيت
 
+### Targum Jerusalem
+וְאַסְחוּ רַגְלֵיכוֹן וּסְחוּן בְּצַפְרָא וְתֵיזְלוּן לְמַשְׁכְּנֵיכוֹן בִּשְׁלָם וְאָמָרוּ לָא אֲרוּם בִּפְלָטַיוּת קַרְתָּא נְבִית:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](02_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

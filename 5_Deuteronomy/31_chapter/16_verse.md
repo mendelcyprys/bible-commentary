@@ -19,6 +19,9 @@
 **Arabic script:**
 فقال الله لموسي انك منضجع مع ابايك وسيقوم هذا الشعب فيطغو في تبع معبودات اهل البلد الذي هو ساير الي ثم في ما بينهم فيتركني ويفسك عهدي الذي عاهدته معه
 
+### Targum Jerusalem
+וְיִשְׁבְּקוּן וְיִפְסוּן יַת קְיָימַיָא דִי קַיֵימִית עִמְהוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](16_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

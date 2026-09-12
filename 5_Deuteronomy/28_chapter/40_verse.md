@@ -19,6 +19,9 @@
 **Arabic script:**
 واذا يكون لك زياتين في جميع تخمك فلا تدهن منها بدهن بل تنثر نثرا
 
+### Targum Jerusalem
+וּמְשַׁח לָא תִמְשְׁחוּן אֲרוּם יִתַּר נִצָה דְזַיְיתֵיכוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](40_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 ثم اقام الاسرايل في شطيم وبدا القوم ان يزانو بنات مواب
 
+### Targum Jerusalem
+וּשְׁרוֹן יִשְרָאֵל בְּשִׁיטִין וּשְׁרוֹן עַמָא לִמְזַנְיָא עִם בְּנַתְהוֹן דְמוֹאֲבָאֵי:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](01_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

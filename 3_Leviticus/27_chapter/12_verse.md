@@ -19,6 +19,9 @@
 **Arabic script:**
 فيقومها الامام علي جودتها او رداتها ويكون الواجب كما قوم الامام
 
+### Targum Jerusalem
+וִיסַדֵּר כַּהֲנָא יָתֵיהּ בֵּין טַב וּבֵּין בִישׁ כְּעִילִוֵי דְּכַהֲנָא כֵּן יֶהֱוֵי:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](12_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

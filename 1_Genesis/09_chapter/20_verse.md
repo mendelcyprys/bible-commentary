@@ -19,6 +19,9 @@
 **Arabic script:**
 واذ ابتدي نوح بفلاحه الارض فغرس كرما
 
+### Targum Jerusalem
+וּשְׁרֵי נחַ גַבְרָא צַדִיקַיָא לְמֶהֱוֵי וּנְצִיב כַּרְמָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](20_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

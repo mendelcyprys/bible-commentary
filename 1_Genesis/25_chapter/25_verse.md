@@ -19,6 +19,9 @@
 **Arabic script:**
 فخرج الاول احمري كله ككسا من شعر فاسموه عشو
 
+### Targum Jerusalem
+וּנְפַק קַדְמַיָא סַמְקִרָיי כּוּלֵיהּ כִכְלַן דִשְעָר וּקְרוּן שְׁמֵיהּ עֵשָו:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](25_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

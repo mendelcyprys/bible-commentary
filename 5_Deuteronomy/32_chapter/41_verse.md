@@ -19,6 +19,9 @@
 **Arabic script:**
 لاسنن بريق سيفي وتمسك الحكم يدي وارد الانتقام لاعدايي والمكافه علي شانيي
 
+### Targum Jerusalem
+אִם אֲשַׁנֵי בִּבְרָקָא חַרְבִּי וְתִתְקֵיף בְּדִינָא יְדַי יְמִינִי אַחֲזוֹר נִקְמָתָא לְשַנְאוֹי וּלְבַעֲלֵי דְבָבֵיהוֹן דְעַמִי אֲשַׁלֵם גְמָלֵיהוֹן לְהוֹן בִּישַׁיָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](41_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

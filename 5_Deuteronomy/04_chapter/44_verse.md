@@ -19,6 +19,9 @@
 **Arabic script:**
 وهذه الشريعه التي تلاها موسي علي بني اسرايل
 
+### Targum Jerusalem
+וְדָא אֲחוּיַית אוֹרַיְיתָא דְשַׁוֵי משֶׁה קֳדָם בְּנֵי יִשְרָאֵל:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](44_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 والحوريين الذين في جبال شراه الي مرج فارن الذي في طرف البريه
 
+### Targum Jerusalem
+וְיַת חוֹרָוָאֵי אִילֵין דְשַׁרְיָין בְּטוּרָא דְגַבְלָא עַד מֵישַׁר חֲזוֹזָא דִסְמִיךְ עַל מַדְבְּרָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](06_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

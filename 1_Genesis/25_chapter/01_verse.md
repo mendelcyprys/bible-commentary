@@ -19,6 +19,9 @@
 **Arabic script:**
 ثم عاد ابرهيم واتخذ زوجه واسمه قطوره
 
+### Targum Jerusalem
+וְהִיא הֲוַת הָגָר דְהֲוַת אֲסִירָא לֵיהּ מִן שֵׁירוּיָה:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](01_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

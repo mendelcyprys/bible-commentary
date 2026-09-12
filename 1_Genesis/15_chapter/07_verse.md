@@ -19,6 +19,9 @@
 **Arabic script:**
 وقال له انا الله الذي اخرجتك من اتون الكسديانيين لاعطيك هذا البلد لتحوزه
 
+### Targum Jerusalem
+וַאֲמַר לֵיהּ אֲנָא יְיָ דְאַפְקִית יָתָךְ מֵאַתּוּן נוּרֵהוֹן מֵאוּר דְכַשְדָאֵי:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](07_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 واجعل لك حكما وعرفا في جميع محالك الذي يعطي الله ربك اسباطك ويحكمو في ما بين القوم حكم عدل
 
+### Targum Jerusalem
+דַּיָּינִין וְסַרְכִין:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](18_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

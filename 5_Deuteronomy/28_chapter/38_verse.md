@@ -19,6 +19,9 @@
 **Arabic script:**
 اذا خرجت بذارا في الصحرا كثيرا فقليل ما تجمع منه بل يقصمه الجراد
 
+### Targum Jerusalem
+תִּפְקוּן לְבָרָא וְקָלִיל תִּכְנוֹשׁוּן אֲרוּם יְקַרְסוּם יָתֵהּ גוֹבָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](38_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

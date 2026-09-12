@@ -19,6 +19,9 @@
 **Arabic script:**
 وعاودت وولدت ابنا واسمته شله وكان يهوده في كزيب حين ولدته
 
+### Targum Jerusalem
+וַהֲוָה דְפַסְקָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](05_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

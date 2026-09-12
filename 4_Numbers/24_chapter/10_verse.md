@@ -19,6 +19,9 @@
 **Arabic script:**
 فاشتد غضب بلق علي بلعم وصفق كفيه حردا وقال له انما دعوت بك لتسب اعداي فاذا بك قد باركتهم هذه المره الثالثه
 
+### Targum Jerusalem
+וּתְקֵיף רוּגְזָא דְבָלָק עַל בִּלְעָם וְטָפַח בְּכַף יְדוֹי וַאֲמַר בָּלָק לְבִלְעָם לְמֵילַט שַנְאַי דְבָרִית יָתָךְ וּלְחוֹד מְבָרְכַתְּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](10_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

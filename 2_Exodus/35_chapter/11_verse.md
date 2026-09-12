@@ -19,6 +19,9 @@
 **Arabic script:**
 المسكن وخباه وغطاه وشظظه وتخاتجه وامهاجه وعمده وقواعده
 
+### Targum Jerusalem
+יַת מַשְׁכְּנָא יַת מַשְׁכְּנֵיהּ וְיַת חֲפוּיֵיהּ יַת פוּרְפּוֹי וְיַת לְוָוחוֹי יַת נַגְרוֹי יַת עַמּוּדוֹי וְיַת חוֹמְרוֹי:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](11_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

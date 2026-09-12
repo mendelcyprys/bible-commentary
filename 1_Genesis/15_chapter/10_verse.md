@@ -19,6 +19,9 @@
 **Arabic script:**
 فقدم له جميع ذلك وشطرها في اوساطها ثم جعل كل شطر تلقا صاحبه والطاير لم يشطره
 
+### Targum Jerusalem
+וּקְרֵיב קֳדָמוֹי יַת כָּל אִילֵין וּפְסַג יַתְהוֹן לְפַסְגִין וְשַׁוִי גְבַר פַּסְגֵיהּ לְקָדָמוֹת חַבְרֵיהּ וְיַת עוֹפָא לָא פָסַג:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](10_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

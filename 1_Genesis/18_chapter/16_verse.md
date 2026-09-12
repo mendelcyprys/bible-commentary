@@ -19,6 +19,9 @@
 **Arabic script:**
 ثم قام القوم من ثم واشرفو قباله سدوم وابرهيم معهم ليشيعهم
 
+### Targum Jerusalem
+וְאַדִיקוּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](16_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

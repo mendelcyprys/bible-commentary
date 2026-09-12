@@ -19,6 +19,9 @@
 **Arabic script:**
 كيلا يكلب ولي الدم القاتل مما يحمي قلبه فيلحقه لكثره الطريق فيقتله وليس عليه حكم قتل اذ ليس شانيا له من امس وما قبله
 
+### Targum Jerusalem
+אֲרוּם יִרְתַא לִבֵּיהּ וִיאָרַע:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](06_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

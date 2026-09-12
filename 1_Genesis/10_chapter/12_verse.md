@@ -19,6 +19,9 @@
 **Arabic script:**
 والمداين بين نينوه وبين الابله وهي القريه العظيمه
 
+### Targum Jerusalem
+וְיַת תַּלְאָסָר בֵּין נִינְוֵה וּבֵין חַרְיַית הִיא קַרְתָּא רַבְּתָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](12_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

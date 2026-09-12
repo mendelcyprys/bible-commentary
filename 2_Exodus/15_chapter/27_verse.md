@@ -19,6 +19,9 @@
 **Arabic script:**
 ثم جاو الي اليم وكان ثم اثنتا عشر عين ما وسبعون نخله ونزلو ثم
 
+### Targum Jerusalem
+וְאָתוּן לְאֵילִימָה וְתַמָּן תַּרְתֵּי עַשְרֵי ^עַיְינִין דְּמַיָין כָּל קְבֵיל תַּרְתֵּי עַשְרֵי שִׁבְטַיָא דְּיִשְרָאֵל וְשַׁבְעִין דִּיקְלִין כָּל קְבֵיל שַׁבְעִין סָבַיָא סַנְהֶדְרִין דְּיִשְרָאֵל:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](27_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

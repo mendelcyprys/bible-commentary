@@ -19,6 +19,9 @@
 **Arabic script:**
 وخذو لكم في اليوم الاول من ثمر شجر الاترج ومن لب النخل ومن اغصان عود الاس علي صنعه الضفر ومن عرب الوادي وافرحو بين يدي الله ربكم سبعه ايام
 
+### Targum Jerusalem
+תְּרוּגִין וְלוּלַבִּין:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](40_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

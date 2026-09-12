@@ -19,6 +19,9 @@
 **Arabic script:**
 فان قام ومشا في السوق علي وكايه لنفسه فقد برا الضارب عدا عطلته يعطيه وعلاجا يعالجه
 
+### Targum Jerusalem
+אוֹ בְּמַרְתּוֹקָא וְלָא יָמוּת וְיִטְלַק לְעֶרֶס מְרָע:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](19_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

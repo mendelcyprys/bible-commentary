@@ -19,6 +19,9 @@
 **Arabic script:**
 وقام ملك جديد علي مصر من لم يشاهد يوسف
 
+### Targum Jerusalem
+וְקָם מַלְכָּא בְּשֵׁירוּי עַל מִצְרַיִם דְלָא חֲכִּים יַת יוֹסֵף וְלָא הֲלִיךְ בְּנִימוּסוֹי:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](08_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

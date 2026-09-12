@@ -19,6 +19,9 @@
 **Arabic script:**
 فقيل له الخالق المنشيك تنسي والطايق المبتديك
 
+### Targum Jerusalem
+תַּקִיף דִבְרָא יַתְכוֹן אַנְשֵׁיתוּן וּשְׁבַקְתּוּן מֵימַר אֱלָהָא דִבְרָא יַתְכוֹן וְעָבַד יַתְכוֹן מַחֲלִין מַחֲלִין:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](18_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

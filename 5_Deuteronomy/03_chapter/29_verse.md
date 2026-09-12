@@ -19,6 +19,9 @@
 **Arabic script:**
 ثم جلسنا في الوادي مما يلي بيت فعور
 
+### Targum Jerusalem
+וּשְׁרֵינָן בְּחֵילְתָא בַּכְיָן עַל חוֹבֵינָן וּמִתְוַדִּין עַל חֲטֵינָן עַל דְּאַדְבְּקִינָן לְפַלְחֵי טַעֲוָותָא דְבַעַל פְּעוֹר:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](29_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

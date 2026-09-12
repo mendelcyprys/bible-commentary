@@ -19,6 +19,9 @@
 **Arabic script:**
 ثم قال لهم هوذا النهار عاده كبير وليس هو وقت انضمام الماشيه اسقو الغنم وامضو ارعوها
 
+### Targum Jerusalem
+וְלָא אִישִׁין לְמַכְנְשָׁא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](07_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

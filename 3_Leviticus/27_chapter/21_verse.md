@@ -19,6 +19,9 @@
 **Arabic script:**
 وتكون عند خروجها من يد المشتري في سنه الاطلاق قدسا لله كضياع الصوافي وتصير للامام
 
+### Targum Jerusalem
+קוּדְשָׁא לִשְׁמָא דַּיְיָ כַּחֲקַל אַפְרָשׁוּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](21_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

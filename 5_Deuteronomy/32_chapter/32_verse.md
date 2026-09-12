@@ -19,6 +19,9 @@
 **Arabic script:**
 انهم يعاقبون كان من جفن سدوم جفنهم ومن دوالي عمره كذاك عنبهم عناب السم وعناقيدهم مره لهم
 
+### Targum Jerusalem
+אֲרוּם עַמָא הָאִילֵין עוֹבָדֵיהוֹן מְדַמְיָין לְעוֹבָדָא עַמָא דִסְדוֹם וּמַחְשַׁבְתְּהוֹן מְדַמְיָא לְמַחְשַׁבְתֵּיהּ דְעַמָא דַעֲמוֹרָה עוֹבָדִין בִּישִׁין מְתַכְלִין וּמַרְרַן לְהוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](32_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 فضبطت باللوحين وطرحتهما عن يدي وكسرتهما بحضرتكم
 
+### Targum Jerusalem
+וּתְפָשִית בִּתְרֵין לוּחַיָא וְטַלְקִית יַתְהוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](17_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

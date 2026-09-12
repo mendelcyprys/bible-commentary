@@ -19,6 +19,9 @@
 **Arabic script:**
 اسال من الطايق الاه ابيك ان يعينك ومن الكافي ان يبارك فيك بركات السما من العلو بركات الغمر الرابضه سفلا بركات الثدايا والبطون
 
+### Targum Jerusalem
+בִּירְכַן חַדְיַין דְיָנְקַת מִנְהוֹן וּמְעַיָא דִי רְבַעַת בְּהוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](25_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

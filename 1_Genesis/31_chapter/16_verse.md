@@ -19,6 +19,9 @@
 **Arabic script:**
 اما جميع الغنا الذي افاده الله من قبل ابينا هو لنا ولبنينا والان جميع ما قال الله لك اصنعه
 
+### Targum Jerusalem
+סְגוּלֵיהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](16_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 والضيف والاجير لا ياكلا منه
 
+### Targum Jerusalem
+תּוֹתָבָא דִגְבַר וַאֲגִירָא כַּד הֲוָה בַּר עַמְמִין לָא יֵיכוּל מִינֵיהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](45_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

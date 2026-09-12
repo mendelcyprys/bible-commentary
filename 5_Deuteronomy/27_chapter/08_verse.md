@@ -19,6 +19,9 @@
 **Arabic script:**
 واكتب علي احجار جميع كلام التوريه بينا نعما
 
+### Targum Jerusalem
+וְתִכְתְּבוּן עַל אַבְנַיָא יַת כָּל מִלֵי שְׁבַח אוֹרַייתָא הָדָא כְּתַב חָקִיק וּמְפָרֵשׁ טַבְאוֹת מִתְקְרֵי וּמְתַּרְגֵם בְּשִׁבְעִין לָשׁוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](08_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

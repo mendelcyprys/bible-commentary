@@ -19,6 +19,9 @@
 **Arabic script:**
 من خيط الي شسع نعل ان اخذت من جميع مالك ولا تقول انا اغنيت ابرم
 
+### Targum Jerusalem
+אִם מֵחוּטָא וְעַד רְצוּעָה דְסַנְדְלָא אִם אֶסַב מִכָּל דִילָךְ וְלָא תֶהֱוֵי מִתְרַבְרַב וַאֲמַר אֲנָא עֲתָרִית יַת אַבְרָם:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](23_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

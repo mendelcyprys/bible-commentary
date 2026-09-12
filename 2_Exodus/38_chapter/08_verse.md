@@ -19,6 +19,9 @@
 **Arabic script:**
 وصنع الحوض ومقعده من نحاس من مرايا النسا المتجيشات الي باب خبا المحضر
 
+### Targum Jerusalem
+וַעֲבַד יַת כִּיּוֹרָא דִנְחָשָׁא וְיַת בְּסִיס דִּידֵיהּ דִּנְחַשׁ בְּחֶזְיַת נְשַׁיָא צְנִיעֲתָא דַהֲוָון צְנִיעַן בִּתְרַע מַשְׁכַּן זִימְנָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](08_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

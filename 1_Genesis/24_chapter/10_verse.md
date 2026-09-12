@@ -19,6 +19,9 @@
 **Arabic script:**
 ثم اخذ العبد عشره جمال من جمال مولاه ومضا وكل خير مولاه معه وقام ومضا الي ارم نهريم الي قريه نحور
 
+### Targum Jerusalem
+וְכָל שְׁפַר אַפּוּתְיָקִי דְרִבּוֹנֵיהּ בִּידֵיהּ וְקָם וַאֲזַל לַאֲרַם דְעַל פְּרָת נַהֲרַיִם:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](10_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

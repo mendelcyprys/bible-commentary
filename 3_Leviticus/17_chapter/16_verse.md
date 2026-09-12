@@ -19,6 +19,9 @@
 **Arabic script:**
 فان هو لم يغسلها او لم يرحض بدنه فقد زاد في حمل وزره
 
+### Targum Jerusalem
+וְאִין לָא חִיוַר וּבִשְרֵיהּ לָא יִשְׁזָג יְקַבֵּל חוֹבֵיהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](16_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

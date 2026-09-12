@@ -19,6 +19,9 @@
 **Arabic script:**
 انا اضمنه ومن يدي تطلبه فان لم اجبه اليك واضعه بين يديك فانا مخطي لك طول الزمان
 
+### Targum Jerusalem
+נֶהֱוֵי מְרַחִיק מִן מִשְׁאַל בִּשְׁלָמָא דְאַבָּא כָּל יוֹמַיָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](09_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

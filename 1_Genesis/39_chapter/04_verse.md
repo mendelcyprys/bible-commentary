@@ -19,6 +19,9 @@
 **Arabic script:**
 وجد يوسف حظاا عنده فخدمه ووكله علي منزله وجميع ما له جعله في يده
 
+### Targum Jerusalem
+וּמַנֵי יָתֵיהּ אַפִּיטְרוֹפּוֹס:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](04_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

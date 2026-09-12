@@ -19,6 +19,9 @@
 **Arabic script:**
 فلما نزل موسي من الجبل ولوحا الشهاده في يديه في نزوله من الجبل وموسي لم يعلم ان قد بص وجهه حين كلمه الله
 
+### Targum Jerusalem
+אֲרֵי שַׁבָּחוּ זִיוֵיהוֹן דְּאַפֵּיהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](29_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

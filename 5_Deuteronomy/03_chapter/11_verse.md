@@ -19,6 +19,9 @@
 **Arabic script:**
 لانه بقي من باقيه الجبابره هوذا له سريد من حديد في الرابيه التي لبني عمان طوله تسعه ذرع وعرضه اربعه ذرع بذراع الملك
 
+### Targum Jerusalem
+הֲלָא הִיא יְהִיבָא בְּאַפְרַכְיוֹן דִּבְנֵי עַמָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](11_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

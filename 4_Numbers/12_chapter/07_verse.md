@@ -19,6 +19,9 @@
 **Arabic script:**
 فليس كذاك عبدي موسي بل في جميع امتي محقق هو
 
+### Targum Jerusalem
+לֵית כְּוַת עַבְדִי משֶׁה בְּכָל קוֹמְטִיטוֹן רֵישׁ לְבִילְרִין קוֹמְטִיטוֹן דִידִי הֵימָן הוּא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](07_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

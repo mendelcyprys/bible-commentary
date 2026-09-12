@@ -19,6 +19,9 @@
 **Arabic script:**
 او رفع الله علما بان طيهر فتخلص له امه من بين اخري باعلام وايات وبراهين وملحمه ويد شديده وذراع ممدوده ومخاوف كبيره كما صنع لكم الله ربكم بمصر بحضرتكم
 
+### Targum Jerusalem
+אוֹ נִסַיָיא דְעָבַד מֵימְרָא דַיְיָ לְמֵיעַל לִמְבַשֵר לֵיהּ אוּמָא מִגוֹ אוּמָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](34_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

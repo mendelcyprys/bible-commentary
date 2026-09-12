@@ -19,6 +19,9 @@
 **Arabic script:**
 وقال اسرايل حسبي ان عاد يوسف ابني باق امضي واراه قبل ان اموت
 
+### Targum Jerusalem
+וַאֲמַר יִשְרָאֵל סַגְיָין טָבָן וְנַחֲמָן סַכְיִית לְמֶחֱמֵי וְהָדָא לָא סָכִית דְהָא עַד כְּדוֹן יוֹסֵף בְּחַיָין נֵיזִיל וְנִיחֲמֵי יָתֵהּ עַד לָא נָמוּת:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](28_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

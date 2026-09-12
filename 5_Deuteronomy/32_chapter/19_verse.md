@@ -19,6 +19,9 @@
 **Arabic script:**
 فلما راي ذلك الله فرفضهم مما اغضبوه منهم البنون والبنات
 
+### Targum Jerusalem
+וּגְלֵי קֳדָם יְיָ וַהֲוָה רְגַז מִן כַּעֲסָא דְאַכְעִיסוּ יָתֵיהּ בְנַיָא חֲבִיבַיָא דַהֲווֹ חֲבִיבִין עֲלוֹי הֵיךְ בְּנִין וְהֵיךְ בְּנָן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](19_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 وتكون مربعه مضاعفه طولها شبر وعرضها شبر
 
+### Targum Jerusalem
+פְּשַׁךְ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](16_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

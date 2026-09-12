@@ -19,6 +19,9 @@
 **Arabic script:**
 وقال ان قبلت امر الله ربك وصنعت المستقيم عنده وانصت الي وصاياه وحفظت جميع رسومه فجميع الامراض التي احللتها بالمصريين لا احلها بك لاني الله معافيك
 
+### Targum Jerusalem
+אֲרוּם אֲנָא יְיָ בְּמֵימְרִי מָסֵי יָתָךְ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](26_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

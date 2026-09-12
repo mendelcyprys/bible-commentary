@@ -19,6 +19,9 @@
 **Arabic script:**
 ليست هي بالسما فيقول قايل من ذا يصعد لنا الي السما وينزلها لنا ويسمعونها ونعمل بها
 
+### Targum Jerusalem
+לָא בִשְׁמַיָא הִיא אוֹרַיְיתָא לְמֵימָר אַלְוַוי מָן אִין הֲוָה לָן חַד כְּמשֶׁה נְבִיָא דִי יִסוֹק לִשְׁמַיָא וְיֵיתֵי יָתָהּ לָן וְיַשְׁמַע יַת פִּיקוּדַיָא וְנַעֲבֵד יַתְהוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](12_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

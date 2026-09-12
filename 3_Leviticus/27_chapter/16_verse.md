@@ -19,6 +19,9 @@
 **Arabic script:**
 وان اقدس رجل لله شيا من ضيعه حوزه فلتكن القيمه علي قدر بذره كل مبذر كر من شعير خمسين مثقالا من فضه
 
+### Targum Jerusalem
+וְאִין מֵחֲקַל אַחֲסַנְתֵּיהּ יַפְרִישׁ גְּבַר לִשְׁמָא דַּיְיָ וְיֶהֱוֵי עִילַוֵּיהּ לְפוּם זַרְעֵיה זְרַע חוֹמֶר דִּשְעוֹרִין:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](16_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

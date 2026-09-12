@@ -19,6 +19,9 @@
 **Arabic script:**
 اسالك ان يحيا الراوبن ولا يموت ولا يصير رهطه ذا احصا
 
+### Targum Jerusalem
+יְחִי רְאוּבֵן בְּעַלְמָא הָדֵין וְלָא יְמוּת בְּמוֹתָנָא תִנְיָינָא דְבָהּ מַיְיתִין רַשִׁיעַיָא לְעַלְמָא דְאָתֵי וִיְהֶוָון עוּלֵימוֹי עִם גוּבְרִין בְּמִנְיָן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](06_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

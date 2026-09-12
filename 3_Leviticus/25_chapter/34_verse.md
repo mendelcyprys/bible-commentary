@@ -19,6 +19,9 @@
 **Arabic script:**
 وضياع فنا قراهم لا تباع لانها حوز الدهر لهم
 
+### Targum Jerusalem
+וַחֲקַל פַּרְזִילִי קִירְיָיהוֹן לָא יִזְדַּבֵּן אֲרוּם אַחֲסָנַת:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](34_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

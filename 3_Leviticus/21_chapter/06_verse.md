@@ -19,6 +19,9 @@
 **Arabic script:**
 ليكونو مقدسين لربهم ولا يبذلو اسمه فانهم لما هم مقربون قرابين الله ربهم الدايمه يكونو مقدسين
 
+### Targum Jerusalem
+וְלָא יִפְסוּן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](06_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

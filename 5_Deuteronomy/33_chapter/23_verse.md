@@ -19,6 +19,9 @@
 **Arabic script:**
 ولنفتلي قال يا نفتلي استكثر من الرضا وكن مملوا من بركه الله وحز من الارض غربا وجنوبا
 
+### Targum Jerusalem
+וּלְשִׁבְטָא דְנַפְתָּלִי בְּרִיךְ משֶׁה נְבִיָא דַיְיָ וַאֲמַר נַפְתָּלִי שְבֵיעַ רַעֲוָא וּמְלֵי בִּרְכַן מִן קֳדָם יְיָ מַעֲרָב יַמָא דְגִינוֹסַר וְדָרוֹמָא יְרִית:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](23_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

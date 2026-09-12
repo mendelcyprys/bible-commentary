@@ -19,6 +19,9 @@
 **Arabic script:**
 والان ان قبلتم امري وحفظتم عهدي كنتم لي خاصه من جميع الشعوب علي ان لي جميع العالم
 
+### Targum Jerusalem
+וּכְדוֹן אִם מִשְׁמָע תִשְׁמְעוּן בְּקַל מֵימְרִי וְתִטְרוֹן יַת קְיָמַי וּתְהַוּוּן לִשְׁמִי לְעַם אוֹחֲרָן וַחֲבִיבִין הֵיךְ סְגוּלָה מִן כָּל אוּמַיָא אֲרוּם לִשְׁמָא דַיְיָ הִיא כָּל אַרְעָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](05_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

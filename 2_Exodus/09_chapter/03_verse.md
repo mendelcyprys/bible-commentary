@@ -19,6 +19,9 @@
 **Arabic script:**
 فان افه الله كاينه في مواشيك التي في الصحرا في الخيل والحمير والجمال والغنم والبقر وبا عظيم جدا
 
+### Targum Jerusalem
+מִתְגַרְיָא לְחוֹד:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](03_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

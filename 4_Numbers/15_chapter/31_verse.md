@@ -19,6 +19,9 @@
 **Arabic script:**
 لما ازدرا بكلام الله وفسك عهده فينقطع ذلك الانسان انقطاعا وحره عليه
 
+### Targum Jerusalem
+אֲרוּם פִּתְגָמָא דַיְיָ בָּזֵי וְיַת פְּקִידוֹי אָפַס מִשְׁתֵּיצָא תִשְׁתֵּיצֵי נַפְשָׁא הַהוּא חוֹבֵיהּ תְקַבֵּיל:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](31_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

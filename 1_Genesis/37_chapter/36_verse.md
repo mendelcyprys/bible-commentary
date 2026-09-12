@@ -19,6 +19,9 @@
 **Arabic script:**
 والمدينيون باعوه في مصر لفوطيفر خادم فرعون رييس السيافين
 
+### Targum Jerusalem
+לְפּוֹטִיפַר שַׁלִיטָא דְפַרְעה רַב סַפּוּקַלְטַרְיָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](36_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 ثم راي الراحه ما اجودها والارض ما انعمها فيمد عنقه للنقل ويصير كالذمه خادما
 
+### Targum Jerusalem
+וַחֲזָא בֵּית מַקְדְשָׁא דְאִתְקְרֵי מְנוּחָה אֲרוּם טַב הוּא וְיַת אַרְעָא אֲרוּם שְׁמֵינִין אִינוּן פֵּירֵיהּ וְאַרְכַן כַּתְפֵיהּ לְמִלְעֵי בְּאוֹרַיְיתָא וַהֲוָן לֵיהּ כָּל אָחוֹי מַסְקֵי מִיסִין:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](15_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

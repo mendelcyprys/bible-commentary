@@ -19,6 +19,9 @@
 **Arabic script:**
 واخذ موسي عظام يوسف معه لانه احلف بني اسرايل وقال لهم اذا ذكركم الله فاصعدو عظامي من هاهنا معكم
 
+### Targum Jerusalem
+אֲרוּם אַשְׁבַּע מַשְׁבַּע יַת בְּנֵי יִשְרָאֵל לְמֵימַר מִידְכַּר יַדְכַּר יְיָ יַתְכוֹן בְּמֵימְרֵיהּ וּבְרַחֲמֵי טַבְיָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](19_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 ثم اخذ ابنا هرون ندب وابيهوا كل رجل مجمرته وجعلا فيهما نارا وصيرا عليهما بخورا وقربا بين يدي الله نارا غريبه ما لم يامرهم بها
 
+### Targum Jerusalem
+אֵישָׁא בַּרְיָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](01_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

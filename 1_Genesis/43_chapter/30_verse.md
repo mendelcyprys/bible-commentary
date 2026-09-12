@@ -19,6 +19,9 @@
 **Arabic script:**
 فاسرع يوسف مما هاجت رحمته علي اخيه فطلب ان يبكي فدخل الي الخدر وبكا ثم
 
+### Targum Jerusalem
+לְקִיטוּנָה:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](30_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

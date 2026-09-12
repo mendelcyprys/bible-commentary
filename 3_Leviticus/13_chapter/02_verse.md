@@ -19,6 +19,9 @@
 **Arabic script:**
 اي انسان كان في جلد بدنه شامه او عارضه او بقعه او صار في بدنه بلا برص فليوت به الي هرون الامام او الي احد من بنيه الايمه
 
+### Targum Jerusalem
+שׁוּמָא אוֹ קַלְפָא אוֹ בַהֲקֵי:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](02_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

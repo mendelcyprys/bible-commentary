@@ -19,6 +19,9 @@
 **Arabic script:**
 واذا وجبت علي انسان خطيه حكمها القتل فيقتل فاصلبه علي خشبه
 
+### Targum Jerusalem
+וְתִצְלְבוּן יָתֵיהּ עַל קֵיסָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](22_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

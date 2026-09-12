@@ -19,6 +19,9 @@
 **Arabic script:**
 واذا استحق الظالم ضربا فليبطحه الحاكم ويضربه بحضرته بمقدار خطيته باحصا
 
+### Targum Jerusalem
+וְיֶהֱוֵי אִין צָרִיךְ חַיָּיבָא לְמִילְקֵי וְיִרְבְּעֵי יָתֵיהּ דַּיָּנָא וְיִמְחֵי יָתֵיהּ קֳדָמוֹי כְּמֵיסַת חוֹבָתֵיהּ בְּמִנְיָן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](02_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

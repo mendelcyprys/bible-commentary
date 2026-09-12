@@ -19,6 +19,9 @@
 **Arabic script:**
 وليتقسمو انصبه متسايه ما خلا ما اثبته الابا من النوايب
 
+### Targum Jerusalem
+וְיַת בַּר זְבוּנֵיהּ דְּזַבִּינוּ לֵיהּ עַל אַבְהָתָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](08_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

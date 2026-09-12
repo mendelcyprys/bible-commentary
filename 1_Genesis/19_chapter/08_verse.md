@@ -19,6 +19,9 @@
 **Arabic script:**
 هوذا لي ابنتان لم يعرفا رجلا اخرجهما اليكم واصنعو بهما ما حسن عندكم عدا لهاولي القوم لا تصنعو شيا لانهم دخلو تحت ظل سقفي
 
+### Targum Jerusalem
+דְלָא חָכְמוּ תַּשְׁמִישׁ לִגְבַר:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](08_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

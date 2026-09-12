@@ -19,6 +19,9 @@
 **Arabic script:**
 وان ضرب انسان عبده او امته بقضيب فمات تحت يده فليقد به
 
+### Targum Jerusalem
+מִתְנַקְמָא יִתְנַקֵם:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](20_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

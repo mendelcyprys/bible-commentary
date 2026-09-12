@@ -19,6 +19,9 @@
 **Arabic script:**
 فيصير غبارا في جميع بلد مصر ويصير في الناس والبهايم قرحا نابتا متنفطا في جميع بلد مصر
 
+### Targum Jerusalem
+שַּׁלְבוּקִין:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](09_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

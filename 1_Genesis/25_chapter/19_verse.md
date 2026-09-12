@@ -19,6 +19,9 @@
 **Arabic script:**
 وهذا شرح تاليد اسحق بن ابرهيم بعد ما خص ابرهيم من اولاده اسحق
 
+### Targum Jerusalem
+וְאִלֵין יֵיחוּס תּוּלְדַת:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](19_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

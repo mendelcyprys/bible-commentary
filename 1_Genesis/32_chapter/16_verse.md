@@ -19,6 +19,9 @@
 **Arabic script:**
 ثلثين ناقه مرضعه مع اولادها اربعين بقره عشره ثيران عشرين اتانا عشره جحاش
 
+### Targum Jerusalem
+וַולְדִי דַקִין עַשְרָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](16_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

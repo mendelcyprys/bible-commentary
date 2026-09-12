@@ -19,6 +19,9 @@
 **Arabic script:**
 فجزنا اخوتنا بني عشو المقيمين بشعير من طريق البيدا وايلت وعصيون غبر وولينا ورحلنا طريق بريه مواب
 
+### Targum Jerusalem
+וְעָבַרְנוּ מִלְוַת אַחֵינוּ בְּנֵי עֵשָו אִלֵין דְשַׁרְיָין בְּגַבְלָא מִן אוֹרַח מֵישְׁרָא מִן אֵלַת וּמִן כְּרַךְ תַּרְנְגוֹלָא וְכַוְונָן וַעֲבַרְנָן אוֹרַח מַדְבְּרָא דְמוֹאָב:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](08_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

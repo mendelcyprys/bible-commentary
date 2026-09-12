@@ -19,6 +19,9 @@
 **Arabic script:**
 وكلبهم المصريون ولحقوهم نازلين علي البحر جميع خيل فرعون وفرسانه وجنده الي فم الحيروت بين يدي صنم صفون
 
+### Targum Jerusalem
+קֳדָם פּוּנְדְּקֵי דְּחִירָתָא קֳדָם טַעֲוָתָא דְצָפוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](09_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

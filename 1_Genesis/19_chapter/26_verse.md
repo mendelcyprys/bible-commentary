@@ -19,6 +19,9 @@
 **Arabic script:**
 فالتفتت زوجته وراه فصارت نصبه ملح
 
+### Targum Jerusalem
+עַל דַהֲוַת אִתְּתֵיהּ דְלוֹט מִן בְּנֵי בְּנֵיהוֹן עַמָא דִסְדוֹם אִסְתַּכָּלַת מִן בַּתְרָהּ לְמִיחֲמֵי מַה הֱוֵי בְּסוֹף בַּיְיתֵיהּ דְאָבוּי וְהָא הִיא קַיָימָא עַמוּד דְמֶלַח עַד זְמַן דְתֵיתֵי תְחִיָה דְיֵיחוּן מֵתַיָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](26_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

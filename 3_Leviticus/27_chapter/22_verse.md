@@ -19,6 +19,9 @@
 **Arabic script:**
 وان اقدس لله من ضيعه اشتراها وليست له بحوز
 
+### Targum Jerusalem
+וְאִין יַת חֲקַל זְבִינֵיה יַקְדִישׁ לִשְׁמָא דַּיְיָ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](22_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

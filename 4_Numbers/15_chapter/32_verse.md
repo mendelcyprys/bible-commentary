@@ -19,6 +19,9 @@
 **Arabic script:**
 ولما اقام بنو اسرايل في البر وجدو رجلا يحتطب حطبا في يوم السبت
 
+### Targum Jerusalem
+מְגַבֵּב קִיסִין:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](32_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

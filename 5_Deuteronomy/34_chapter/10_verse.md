@@ -19,6 +19,9 @@
 **Arabic script:**
 ولا يقوم بعد ذلك نبي لال اسرايل كموسي لان عرفه الله مشافهه
 
+### Targum Jerusalem
+וְלָאָ קָם נְבִיָּא עוֹד בְּיִשְרָאֵל כְּמשֶׁה דִי חַכִּים יָתֵיהּ מֵימְרָא דַיְיָ מַמְלּיל כָּל קֳבֵיל מַמְלָּל:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](10_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 كما انهم اكادوني بغير الاه واغضبوني بغروراتهم كذاك اني اكيدهم بلا شعب وبقبيل جاهل اغيظهم
 
+### Targum Jerusalem
+אִינוּן אַקְנוּן יָתִי בְּטַעֲוָון דְלָא מַה אַכְעִיסוּ קֳדָמוֹי בְּמֶרְחֲקַתְהוֹן וַאֲנָא אַקְנֵי יַתְהוֹן בְּאוּמָא דְלָא אוּמָא בְּאוּמָא טִפְּשָׁא אַכְעִיס יַתְהוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](21_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

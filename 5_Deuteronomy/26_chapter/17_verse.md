@@ -19,6 +19,9 @@
 **Arabic script:**
 وانك كما امرت الله ربك ان يكون لك الاها وان تسير في طرقه وتحفظ رسومه ووصاياه واحكامه وتقبل امره
 
+### Targum Jerusalem
+יַת מֵימְרָא דַיְיָ אַמְלִיכְתּוּן עֲלֵיכוֹן יוֹמָא דֵין לְמֶהֱוֵי לְכוֹן לֶאֱלָהָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](17_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

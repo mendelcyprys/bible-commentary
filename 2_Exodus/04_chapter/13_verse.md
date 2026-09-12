@@ -19,6 +19,9 @@
 **Arabic script:**
 قال يا ربي ابعث من انت باعثه
 
+### Targum Jerusalem
+שְׁלַח כְּעַן בְּיַד דֵין דְחָמֵי לֵיהּ לְמִשְׁתַּלְחָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](13_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

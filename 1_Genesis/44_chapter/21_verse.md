@@ -19,6 +19,9 @@
 **Arabic script:**
 فقلت لعبيدك احدروه الي اجعل عنايتي به
 
+### Targum Jerusalem
+מָחוּס עֵינִי עֲלוֹי:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](21_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 وكل متلوف يستحق التلف من الناس فلا يفدا بل يقتل قتلا
 
+### Targum Jerusalem
+כָּל אַפְרָשׁוּ דְּאַפְרֵשׁ מִן בְּנֵי אֱנָשָׁא לָא תִתְפְּרֵק מִתְקְטָלָא יִתְקְטֵיל:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](29_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 وفي سته ايام اخدم وفي السابع اسبت حتي في وقت الحرث والحصاد تسبت
 
+### Targum Jerusalem
+בִּירִידָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](21_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

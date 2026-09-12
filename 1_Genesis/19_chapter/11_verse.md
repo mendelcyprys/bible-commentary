@@ -19,6 +19,9 @@
 **Arabic script:**
 والقوم الذي بباب البيت ضربوهم بالعشا من شاب الي شيك فعجصو عن وجود الباب
 
+### Targum Jerusalem
+בסנורים בְּחַדְבָּרֵהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](11_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

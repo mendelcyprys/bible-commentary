@@ -19,6 +19,9 @@
 **Arabic script:**
 فقال له ما ذا صنعت صوت دم اخيك صارك الي من الارض
 
+### Targum Jerusalem
+קַל אַדְמֵיהוֹן דְאוֹכְלוֹסִין צַדִיקַיָא דַהֲווֹן עֲתִידִין לְמֵיקַם מִן הֶבֶל אָחוּךְ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](10_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

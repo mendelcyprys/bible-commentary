@@ -19,6 +19,9 @@
 **Arabic script:**
 ثم رحلو من بيت ال وبقي لهم ميل من الطريق ليدخلو الي افرت فولدت رحل وصعب ولادها
 
+### Targum Jerusalem
+וַהֲוָה אִישׁוֹן כְּרוּב אַרְעָא לְמֵיעַל לְאֶפְרָת וִילֵידַת רָחֵל וְאִתְקְשִׁיאַת בְּמֵילְדָה:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](16_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

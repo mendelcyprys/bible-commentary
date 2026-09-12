@@ -19,6 +19,9 @@
 **Arabic script:**
 وكل انا مفتوح ما ليس عليه صمام مقيد فهو نجس
 
+### Targum Jerusalem
+וְכָל מַאן דַחֲסַף פָּתִיחַ דִי לֵית פּוּרְיָיתָא מִשְׁעָא עִילוֹי מְסָאָב הוּא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](15_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

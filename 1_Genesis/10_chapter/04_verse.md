@@ -19,6 +19,9 @@
 **Arabic script:**
 وبنو يون المصيصه وطرسوس وقبروس وادنه
 
+### Targum Jerusalem
+וּבְנוֹי דְיָוָן אֱלִישָׁה וְשׁוּם אַפַרְכָיוּתְהוֹן אַלַסְטָרְסוֹם וְדוֹדַנְיָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](04_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

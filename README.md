@@ -23,6 +23,7 @@ Translations are themselves interpretations. Each translation choice reflects a 
 
 - **Targum Onkelos** — The standard Aramaic translation of the Torah, closely literal, reflecting early rabbinic understanding. Used liturgically in Babylonian communities.
 - **Tafsir Rasag** — Rav Saadia Gaon's 10th-century Arabic translation. Presented in both the original Judeo-Arabic (Hebrew script) and a transliteration into Arabic script.
+- **Targum Jerusalem** — The Fragmentary Targum (*Targum Yerushalmi*). Covers selected verses with expansive Aramaic paraphrase. Present on ~840 verses.
 - **Septuagint** — The Greek translation (3rd–2nd century BCE). Important for understanding how Hellenistic Jews read the text, and as a witness to textual variants.
 - **Vulgate** — Jerome's Latin translation (4th century CE), often reflecting Hebrew readings that differ from the Septuagint.
 
@@ -43,7 +44,16 @@ For legal passages: tracing the development of law from the verse through the tr
 The chain typically runs: **verse → midrash halacha → Mishna → Talmud → Geonim → Rambam (Mishneh Torah) → Shulchan Aruch** and later authorities. For narrative verses this section will be empty.
 
 ### Medieval Commentators
-Major commentators including (but not limited to) Rashi, Rashbam, Ibn Ezra, Ramban, Sforno, Or HaChaim, and others. Each brings a distinct methodology — *peshat* (contextual), *derash* (homiletical), philosophical, mystical.
+Links to a companion commentaries file (`XX_verse_commentaries.md`) containing the full text of classical commentators. Currently populated with:
+
+- **Rashi** (Public Domain) — 11th century. The most widely-read commentary, weaving *peshat* and *derash*.
+- **Ibn Ezra** (Public Domain) — 12th century. Emphasis on grammar, *peshat*, and scientific reasoning.
+- **Ramban** (CC-BY) — 13th century. Synthesizes *peshat*, philosophy, *kabbalah*, and law.
+- **Rashbam** (CC-BY-SA) — 12th century. Rashi's grandson, committed to strict *peshat*.
+- **Sforno** (CC-BY) — 16th century. Philosophical and ethical readings.
+- **Chizkuni** (Public Domain) — 13th century. Draws on earlier French commentators.
+
+Source texts from [Sefaria](https://www.sefaria.org).
 
 ### Modern Scholarship
 Academic and critical approaches.
@@ -59,12 +69,14 @@ Inner-biblical allusions, parallel passages, and significant intertextual connec
 ```
 1_Genesis/
   01_chapter/
-    01_verse.md
+    01_verse.md                  # verse page (template + translations)
+    01_verse_commentaries.md     # companion: medieval commentators
     02_verse.md
+    02_verse_commentaries.md
     ...
-    README.md          # chapter index
+    README.md                    # chapter index
   ...
-  README.md            # book index
+  README.md                      # book index
 2_Exodus/
 ...
 ```

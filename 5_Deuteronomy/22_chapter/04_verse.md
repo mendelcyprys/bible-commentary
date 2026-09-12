@@ -19,6 +19,9 @@
 **Arabic script:**
 لا تر حمار اخيك او ثوره واقعين في الطريق وتتغافل عنهما بل اقمهما معه اقامه
 
+### Targum Jerusalem
+מִישְׁבַּק תִּשְׁבּוֹק יַת מַה דִּבְלִבָּךְ עֲלוֹי וּמִפְרַק תִּפְרוֹק עִמֵּיהּ וּמִטְעַן תִּטְעֲנִי עִמֵּיהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](04_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

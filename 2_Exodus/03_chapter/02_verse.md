@@ -19,6 +19,9 @@
 **Arabic script:**
 فتجلي له ملاك الله بضريم نار من السنا فراي السنا مشتعل بالنار وهو ليس يحترق
 
+### Targum Jerusalem
+וַחֲמָא וְהָא סַנְיָא בָּעֵיר בְּאֵשָׁא וּסְנַיָא מַרְטִיב וְלָא יַקִיד:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](02_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 وسبت هي عطله لكم اذ تجيعون انفسكم رسم الدهر
 
+### Targum Jerusalem
+וּתְצוּמוּ בָהּ עַל נַפְשָׁתֵיכוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](31_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

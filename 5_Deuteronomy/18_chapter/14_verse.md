@@ -19,6 +19,9 @@
 **Arabic script:**
 وان هاولي الامم الذين انت وارثهم من المتفالين والقاسمين هم يقبلون وانت لم يطلق لك الله ربك مثل ذلك
 
+### Targum Jerusalem
+לַחֲרוֹרֵי עֵינֵיהּ וּלְקִסְמֵי קוּסְמַיָא יִשְׁמְעוּן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](14_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

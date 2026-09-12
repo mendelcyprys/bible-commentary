@@ -19,6 +19,9 @@
 **Arabic script:**
 لا تذبح فسحي علي خمير ولا تبيت شحومه الي الغداه
 
+### Targum Jerusalem
+לָא תְכַסּוּן עַל חֲמִיעַ אִידַם נִכְסַת דְּפִסְחָא לָא יָבִית מִן בִּישְרָא דִי תִכְסוּן בְּלֵילֵי יוֹמָא טָבָא קֳדָמַיָא דְפִסְחָא מִן רַמְשָׁא עַד צַפְרָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](25_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

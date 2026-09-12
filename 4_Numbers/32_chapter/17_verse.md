@@ -19,6 +19,9 @@
 **Arabic script:**
 ونتجرد مسرعين بين يدي بني اسرايل الي ان نوصلهم الي مكانهم فتقيم اطفالنا في قري حصينه من قبل اهل البلد
 
+### Targum Jerusalem
+בְּקִרְוִין תְּלוּלִין מִן קֳדָם דְמָרֵי אַרְעָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](17_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

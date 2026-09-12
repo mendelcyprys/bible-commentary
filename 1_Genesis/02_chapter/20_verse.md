@@ -19,6 +19,9 @@
 **Arabic script:**
 فسما ادم اسما لجميع البهايم وطاير السما وجميع وحش الصحرا ولم يجد ادم عونا حذاه
 
+### Targum Jerusalem
+וּלְאָדָם לָא אַשְׁכַּח בַּר זוֹג כַּד נָפִיק בֵּיהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](20_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

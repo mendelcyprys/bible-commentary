@@ -19,6 +19,9 @@
 **Arabic script:**
 فقال لموسي يا سيدي لا تجعل علينا خطيه فيما جهلنا واخطانا
 
+### Targum Jerusalem
+דְאִשְׁתְּלִינָן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](11_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

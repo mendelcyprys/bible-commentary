@@ -19,6 +19,9 @@
 **Arabic script:**
 فلتخرج الجاريه الي باب بيت ابيها ويرجموها جميع اهل قريتها بالحجاره الي ان تموت لما صنعت حسيسه في الاسرايل وفجرت محصنها في بيت ابيها فانف اهل الشر من بينكم
 
+### Targum Jerusalem
+וְיִפְקוּן יַת טַלְיָתָא מִן תְּרַע בֵּיתָא דְאָבוּהָא וְיִרְגְּמוּן יָתֵיהּ עִמָּהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](21_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

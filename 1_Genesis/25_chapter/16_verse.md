@@ -19,6 +19,9 @@
 **Arabic script:**
 هاولي هم بنو اسماعيل وهذه اسماهم في ارباضهم وقصورهم اثني عشر شريفا لاممهم
 
+### Targum Jerusalem
+וּבְכַפְרָנֵהוֹן וּבְקַסְטַרְוָותֵיהוֹן תְּרֵי עֲשַר רַבְרְבִין לְאוּמֵיהוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](16_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

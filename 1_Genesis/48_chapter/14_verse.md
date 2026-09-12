@@ -19,6 +19,9 @@
 **Arabic script:**
 فمد اسرايل يمينه فجعلها علي راس افريم وهوا الاصغر ويساره علي راس منشه احكم يديه كذاك علي ان منشه البكر
 
+### Targum Jerusalem
+פְּרַג יַת יְדוֹי:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](14_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

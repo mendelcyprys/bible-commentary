@@ -19,6 +19,9 @@
 **Arabic script:**
 ثم قامت ومضت فنزعت خمارها عنها ولبست ثياب حزنها
 
+### Targum Jerusalem
+רְדִידָה:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](19_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

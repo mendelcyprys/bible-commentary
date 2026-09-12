@@ -19,6 +19,9 @@
 **Arabic script:**
 وجوفه واكارعه يغسلها بالما ويقتر الامام الكل علي المذبح صعيده هي قربان مقبول مرضي لله
 
+### Targum Jerusalem
+ירחץ יִשְׁזָג:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](09_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

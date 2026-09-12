@@ -19,6 +19,9 @@
 **Arabic script:**
 وبنو قرح خسف بهم ولم يموتو
 
+### Targum Jerusalem
+וּבְנוֹי דְקרַח עַל דְלָא הֲווֹ בַּעֲצָתֵיהּ דַאֲבוּהוֹן לָא מִיתוּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](11_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

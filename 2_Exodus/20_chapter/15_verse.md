@@ -19,6 +19,9 @@
 **Arabic script:**
 وجميع القوم ينظرون الاصوات والفلايل وصوت البوق والجبل متدخنا فلما راي القوم ذلك زعجو ووقفو من بعيد
 
+### Targum Jerusalem
+וְכָל עַמָּא הֲווּ חָמִין יַת קָלַיָא וְיַת לַפִּידַיָא וְיַת קָלָא דְשִׁיפּוּרָא וְיַת טוּרָא עַטִיר וְחַמְיָין עַמָּא וְזָעוּ וְקָמוּ לְהוֹן מֵרָחוֹק:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](15_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

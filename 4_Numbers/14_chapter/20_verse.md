@@ -19,6 +19,9 @@
 **Arabic script:**
 قال الله قد صفحت عنهم المعاجله كما سالت
 
+### Targum Jerusalem
+וַאֲמַר מֵימְרָא דַיְיָ הָא שְׁרִיתִי וּשְׁבָקִית כְּפִתְגָמָךְ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](20_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

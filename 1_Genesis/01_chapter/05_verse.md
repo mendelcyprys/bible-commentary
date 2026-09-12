@@ -19,6 +19,9 @@
 **Arabic script:**
 وسما الله اوقات النور نهارا واوقات الظلام سماها ليلا ولما مضي من الليل والنهار يوم واحد
 
+### Targum Jerusalem
+וַהֲוָה רְמַשׁ וַהֲוָה צְפַר סְדַר עוֹבַד בְּרֵאשִׁית יוֹם קֳדָמָי:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](05_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

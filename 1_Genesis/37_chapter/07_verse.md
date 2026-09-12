@@ -19,6 +19,9 @@
 **Arabic script:**
 كانا نجرز جرزا في الصحرا وكان جرزتي وقفت ثم انتصبت وكان جرزكم تحيط بها وتسجد لها
 
+### Targum Jerusalem
+מְפַרְכִין פֵּירוּכִין:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](07_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

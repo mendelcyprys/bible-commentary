@@ -19,6 +19,9 @@
 **Arabic script:**
 وصرت مباركا في دخولك ومباركا في خروجك
 
+### Targum Jerusalem
+בְּרִיכִין תֶּהֱווּן בְּמֵיעַלְכוֹן בְּבֵית מֶדְרָשֵׁיכוֹן וּבְרִיכִין תֶּהֱווּן בְּמִיפַקְכוֹן מִן בָּתֵי מֶדְרָשֵׁיכוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](06_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

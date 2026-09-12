@@ -19,6 +19,9 @@
 **Arabic script:**
 وعضه لاعضايه واغسل جوفه واكارعه واضفها الي اعضايه وراسه
 
+### Targum Jerusalem
+וְיַת דִּיכְרָא תְפַסֵּק לְפִסְגוֹי וְתַשְׁזֵג בְּנֵי גַוָוהּ וְרִיגְלוֹי וְתִתֵּן עַל פִּסְגוֹי וְעַל רֵישֵׁיהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](17_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

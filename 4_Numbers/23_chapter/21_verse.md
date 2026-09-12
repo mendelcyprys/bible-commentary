@@ -19,6 +19,9 @@
 **Arabic script:**
 مما لم يبصر غلا في اليعقوب ولا دغلا في الاسرايل فالله ربهم معهم وصحابه الملك لهم
 
+### Targum Jerusalem
+לֵית אֲנָא חָמֵי פַּלְחֵי שְׁקַר וְלָא פַּלְחֵי פּוּלְחַן נוּכְרֵי בְּגוֹ שִׁבְטַיָא דִבְנֵי יִשְרָאֵל מֵימְרָא דַיְיָ הֲוֵי עִמְהוֹן וְיַבָּבוּת מִן אִיקַר מַלְכֵּיהוֹן מֵגִין עֲלֵיהוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](21_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

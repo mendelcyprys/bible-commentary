@@ -19,6 +19,9 @@
 **Arabic script:**
 ثم صعد موسي من بيدات مواب الي جبل نبو راس القلعه التي بحضره يريحو فاوراه الله جميع البلد من جرش الي بانياس
 
+### Targum Jerusalem
+וּסְלֵיק משֶׁה מִן מֵישְׁרָא דְמוֹאָב לְטוּרָא דִנְבוֹ רֵישׁ דְרָמָתָא דְאִית לִקְבֵל יְרֵיחוֹ וְחַוֵי לֵיהּ יְיָ יַת כָּל אַרְעָא יַת גִלְעָד עַד דָן דְקֵיסַרְוָון:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](01_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

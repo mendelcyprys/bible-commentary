@@ -19,6 +19,9 @@
 **Arabic script:**
 فابتاع حديقه الضيعه التي ضرب ثم خباه من يدي بني حمور ابي شكم بمايه نعجه
 
+### Targum Jerusalem
+מַרְגַלְיָן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](19_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

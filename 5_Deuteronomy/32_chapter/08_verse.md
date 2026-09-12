@@ -19,6 +19,9 @@
 **Arabic script:**
 ان العالي من حيث انحل الامم وفرق بني ادم اوقف من تخم الامم احصا بني اسرايل
 
+### Targum Jerusalem
+בְּאַחֲסָנוּת עִילַיָא אוּמַיָא בְּפָרָשׁוּתֵיהּ לִשְׁנֵי בְּנֵי אֵינָשָׁא קְבַע תְּחוּמִין לְאוּמַיָא לְמִנְיָן שִׁבְטַיָא דִבְנֵי יִשְרָאֵל:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](08_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

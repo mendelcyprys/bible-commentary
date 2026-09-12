@@ -19,6 +19,9 @@
 **Arabic script:**
 فاخذه وودعه في السجن موضع اساري الملك محبوسين فاقام ثم في السجن
 
+### Targum Jerusalem
+בְּבֵית חֲבוּשָׁה:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](20_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

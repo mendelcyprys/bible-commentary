@@ -19,6 +19,9 @@
 **Arabic script:**
 وملعون من يسوغ تخم صاحبه ويقول جميع القوم امين
 
+### Targum Jerusalem
+לִיט יֶהֱוֵי גַבְרָא דִמְשַׁנֵי תְּחוּמָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](17_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

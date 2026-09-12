@@ -19,6 +19,9 @@
 **Arabic script:**
 فاما مجامر اولايك المخطيين علي نفوسهم فيصنعوها صفايح رقاقا غشاا للمذبح فانهم لما قدموها بين يدي الله قد تقدست وتصير علامه لبني اسرايل
 
+### Targum Jerusalem
+לְאוֹת לְסִימָן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](03_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

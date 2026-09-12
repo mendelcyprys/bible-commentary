@@ -19,6 +19,9 @@
 **Arabic script:**
 فولو وصعدو الي الجبل وجاو الي وادي العنقود وراموه
 
+### Targum Jerusalem
+וְכַוְונוּ וּסְלִיקוּ לְטוּרָא וּמָטוּ עַד נַחֲלֵי סְגוֹלָה וְיָלִילוּ יָתָה:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](24_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

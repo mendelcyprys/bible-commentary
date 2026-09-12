@@ -19,6 +19,9 @@
 **Arabic script:**
 فعند خروج نفسها وهي ميته اسمته ابن ترحي وابوه اسماه بنيمين
 
+### Targum Jerusalem
+וְאָבוֹי הֲוָה קָרֵי לֵיהּ בִּלְשַׁן בֵּית קוּדְשָׁא בִּנְיָמִין:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](18_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

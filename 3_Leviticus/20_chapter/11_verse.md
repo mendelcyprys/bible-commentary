@@ -19,6 +19,9 @@
 **Arabic script:**
 واي رجل ضاجع زوجه ابيه فقد كشف سواه ابيه فليقتلا جميعا فقد حل دماهما
 
+### Targum Jerusalem
+אִידְמֵיהוֹן בְּרֵישֵׁיהוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](11_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

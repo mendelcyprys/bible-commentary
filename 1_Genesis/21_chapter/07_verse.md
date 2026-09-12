@@ -19,6 +19,9 @@
 **Arabic script:**
 ثم قالت من قال لابرهيم ان ساره ترضع ابنا اذ ولدت ابنا في شيخوخته
 
+### Targum Jerusalem
+וַאֲמָרַת מַה הֲוָות בִּשְרָא דִבְשַר לְרִבּוֹנִי לְאַבְרָהָם מִן שֵׁירוּיָהּ וַאֲמַר עֲתִידָה הִיא לְמִנְקָה אֲרֵי יְלִידִית בַר לְסִבְתּוֹהִי:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](07_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

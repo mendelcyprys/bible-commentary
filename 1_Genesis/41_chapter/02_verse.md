@@ -19,6 +19,9 @@
 **Arabic script:**
 وكان قد صعد منه سبع بقرات حسنات المنظر وضخمات اللحم ورعت في القرط
 
+### Targum Jerusalem
+וַהֲוָאָה רַעֲיָין בְּגוֹ גוּמַיָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](02_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

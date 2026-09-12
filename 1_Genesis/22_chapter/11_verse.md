@@ -19,6 +19,9 @@
 **Arabic script:**
 فناداه ملاك الله من السما وقال يا ابرهيم يا ابرهيم قال لبيك
 
+### Targum Jerusalem
+וַאֲמַר אַבְרָהָם אַבְרָהָם עָנִי אַבְרָהָם בִּלְשַׁן בֵּית קוּדְשָׁא וַאֲמַר הִנֵנִי:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](11_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

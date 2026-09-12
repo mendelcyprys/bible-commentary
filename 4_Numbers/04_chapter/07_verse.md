@@ -19,6 +19,9 @@
 **Arabic script:**
 وعلي المايده الموجهه يبسطو ثوب اسمانجون ويجعلو عليها القصاع والدروج والملاعق ومداهن الستر والخبز الدايم يكون عليها
 
+### Targum Jerusalem
+יַת פַּיְילוּתָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](07_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

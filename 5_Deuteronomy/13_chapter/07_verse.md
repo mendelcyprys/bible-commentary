@@ -19,6 +19,9 @@
 **Arabic script:**
 وان اغواك اخوك ابن امك او ابنك او ابنتك او امرتك التي هي حرمتك او صديقك الذي كنفسك في الستر قايلا تعال نعبد معبودات اخر ما لم تعرفها انت واباوك
 
+### Targum Jerusalem
+אֲרוּם יִסְטֵי יָתָךְ אָחוּךְ בְּרָא דְאִמָךְ אוֹ בְּרָךְ אוֹ בְּרַתָּךְ אוֹ אִתְּתָא דְדַמְכָא עִמָּךְ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](07_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 حتي فني الورق من بلد مصر وبلد كنعان ثم جاو جميع المصريين الي يوسف قايلين اعطنا طعاما ولا نموت حذاك اذ فني الورق
 
+### Targum Jerusalem
+וַחֲסִיל:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](15_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 فقال موسي اميل الان وانظر هذا المنظر العجيب ما بال السنا لا يحترق
 
+### Targum Jerusalem
+וְאֵיחְזֵי יַת חֲזוּזָא רַבָּא הָדֵין מִן בִּגְלַל מַה סַנְיָא מַרְטִיב וְלָא יַקִיד:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](03_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

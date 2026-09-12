@@ -19,6 +19,9 @@
 **Arabic script:**
 واغاروه باجنبيين وبمكاره يغضبونه
 
+### Targum Jerusalem
+אַקְנוּן קֳדָמוֹי בְּטַעֲוַותְהוֹן בְּמֶרְחַקְהוֹן אַכְעִיסוּ יָתֵיהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](16_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

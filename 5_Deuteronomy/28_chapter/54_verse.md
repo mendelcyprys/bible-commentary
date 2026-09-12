@@ -19,6 +19,9 @@
 **Arabic script:**
 حتي ان الرجل الرخص منك والمدلل جدا يشح علي اخيه وامرته حرمته وباقي بنيه الذين يبقيهم
 
+### Targum Jerusalem
+גַבְרָא דְמֶחֱטֵי בְּכוֹן וְדִימְפַנַק לַחֲדָא תִּבְעַשׁ עֵינוֹי בְּאָחוֹי וּבְאִתַּת טַלְיוּתֵיהּ וּבְמוֹתְרֵי בְּנוֹי דְיוֹתִיר:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](54_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

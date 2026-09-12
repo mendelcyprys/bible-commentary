@@ -19,6 +19,9 @@
 **Arabic script:**
 فتقدم وقبله وشم رايحه ثيابه فباركه وقال انظر رايحه ابني كرايحه روضه قد باركها الله
 
+### Targum Jerusalem
+כְּרֵיחַ קְטוֹרֶת בּוּסְמִין טָבִין דַעֲתִידִין לְמִקְרְבָא בְּטוּר בֵּית מוּקְדָשָׁא דְבָרֵךְ יָתֵיהּ חַי וְקַיָם:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](27_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

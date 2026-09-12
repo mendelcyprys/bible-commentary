@@ -19,6 +19,9 @@
 **Arabic script:**
 او احدب او اخفش او كتيب في عينه او جرب او حزاز او ادر
 
+### Targum Jerusalem
+אוֹ דְּגָבִינוֹי חַפְיַין עֵינוֹי אוֹ דְלֵית לֵיהּ סְעַר בְּגָבִינוֹי אוֹ דְגָבִיהַ אוֹ דְנָנִיס אוֹ יְחַלְזְוָוה בְּעֵינוֹי אוֹ דִמְלֵי גָרָב אוֹ דִמְלֵי חֲזָזִין אוֹ דַחֲסַר כּוּלְיָיא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](20_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 فلما فرغ موسي من كتب جميع كلام هذه اللتوريه في السفر الي ان كملت
 
+### Targum Jerusalem
+וַהֲוָה כֵיוַן דְאַשְׁלֵם משֶׁה לְמִכְתּוֹב יַת מַלָלֵי שְׁבַח אוֹרַיְיתָא הָדָא עַד זְמַן דַחֲסָלוּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](24_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

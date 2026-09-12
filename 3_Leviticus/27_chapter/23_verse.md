@@ -19,6 +19,9 @@
 **Arabic script:**
 فليحسب له الامام تقسيط القيمه من سنته الي سنه الاطلاق فيدفع القيمه في ذلك اليوم قدسا لله
 
+### Targum Jerusalem
+וְיַחְשִׁיב לֵיה כַּהֲנָא יַת אַפְרָשׁוּת עִילַוֵּיהּ עַד שַׁתָּא דְּיוֹבְלָא וְיִתֵּן יַת אַפְרָשׁוּת עִילַוֵּיהּ בְּיוֹמָא הָדֵּין קוֹדֶשׁ לִשְׁמָא דַּיְיָ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](23_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

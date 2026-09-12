@@ -19,6 +19,9 @@
 **Arabic script:**
 للكسر بدل كسر وللعين بدلها وللسن بدلها كما يجعل عيبا في انسان كذاك يجعل عليه
 
+### Targum Jerusalem
+תְּבַר תַּשְׁלוּמֵי תְּבַר עַיִן וְשֵׁן תַּשְׁלוּמֵי שֵׁן הֵיךְ דִּיהַב מוּם בְבַר נְשָׁא הֵיכְדֵין יִתְיְהַב בֵּיהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](20_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

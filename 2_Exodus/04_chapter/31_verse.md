@@ -19,6 +19,9 @@
 **Arabic script:**
 فامن القوم اذ سمعو ان الله قد ذكر بني اسرايل ونظر ضعفهم وخرو وسجدو
 
+### Targum Jerusalem
+וַעֲקָדוּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](31_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

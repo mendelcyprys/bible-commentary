@@ -19,6 +19,9 @@
 **Arabic script:**
 ولا تغشم اجيرا وخاصه ضعيف او مسكين من اخوتك او من ضيفك الذي في بلدك في محالك
 
+### Targum Jerusalem
+לָא תַעֲצוּן אַגְרָא דַאֲגִירָא מִסְכֵּינָא וּצְרִיכָא מִן אֲחוּכוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](14_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

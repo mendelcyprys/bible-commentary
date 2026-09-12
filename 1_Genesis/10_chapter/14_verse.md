@@ -19,6 +19,9 @@
 **Arabic script:**
 والبيميين والصعيديين الذي خرج منهم الفلسطينيون والدمياطيون
 
+### Targum Jerusalem
+וְיַת פִּילוֹסָאֵי וְיַת פְּנַטְסַכְנָאֵי דִנְפָקוּ מִתַּמָן פְּלִישְׁתָּאֵי וְיַת קַפּוּדְקָאֵי:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](14_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

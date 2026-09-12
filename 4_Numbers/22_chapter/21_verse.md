@@ -19,6 +19,9 @@
 **Arabic script:**
 فقام بالغداه واسرج اتانه ومضي مع ريسا مواب
 
+### Targum Jerusalem
+וְקָם בִּלְעָם בְּצַפְרָא וְשַׁוֵי יַת אַתְנֵיהּ וַאֲזַל עִם רַבְרְבָנֵי מוֹאָב:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](21_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

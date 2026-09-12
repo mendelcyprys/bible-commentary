@@ -19,6 +19,9 @@
 **Arabic script:**
 فاخبروه وقالو عاد يوسف باق وايضا هو سلطان علي جميع بلد مصر فشكك قلبه ولم يثق بهم
 
+### Targum Jerusalem
+וְאֵפְלַג לִבֵּיהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](26_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

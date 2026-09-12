@@ -19,6 +19,9 @@
 **Arabic script:**
 لادخلك في عهد الله ربك وفي حرجه الذي الله عاهد معك اليوم
 
+### Targum Jerusalem
+מִלְעָבְרְכוֹן בְּקַיָימָא דַיְיָ אֱלָהָכוֹן וּבִשְׁבוּעֲתָא דַיְיָ אֱלָהָכוֹן מְקַיֵים עִמְכוֹן יוֹמָא דֵין:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](11_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 ثم رات ساره ابن هجر المصريه الذي ولدته لابرهيم لاعبا
 
+### Targum Jerusalem
+וַחֲמַת שָרָה יַת בַּר הָגָר מִצְרֵיתָא דִילֵידַת לְאַבְרָהָם עֲבַד עוֹבָדִין בִּישִׁין דְלָא כַשְׁרִין לְאִתְעַבְּדָא מְגַחֵךְ בְּפוּלְחָנָא נוּכְרָאָה:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](09_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

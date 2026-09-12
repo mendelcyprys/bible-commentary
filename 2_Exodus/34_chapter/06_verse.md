@@ -19,6 +19,9 @@
 **Arabic script:**
 ولما مر الله بنوره بين يديه ناداه الله الله الطايق الرحيم الرووف طويل المهل كثير الفضل والاحسان
 
+### Targum Jerusalem
+וַעֲבָרַת יְקַר שְׁכִינְתֵּיהּ דַיְיָ קֳדָמוֹי וְצַלִי משֶׁה וַאֲמַר יְיָ אֱלָהָא רַחֲמָנָא וְחַנָנָא רָחִיק רְגַז וְקָרֵב רַחֲמִין וּמַסְגֵי לְמֶעֱבַד חֶסֶד וּקְשׁוֹט:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](06_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

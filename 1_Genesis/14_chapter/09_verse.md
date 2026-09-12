@@ -19,6 +19,9 @@
 **Arabic script:**
 مع كدرلعمر ملك خوزستان وتدعل ملك الامم وامرفل ملك الشينور واريوك ملك السر اربعه ملوك مع الخمسه
 
+### Targum Jerusalem
+וְאַמְרָפֶל מַלְכָּא דְפִנְטוֹס וְאַרְיוֹךְ מַלְכָּא דְאֶלָסָר אַרְבַּע מַלְכִין לְקָבֵיל חַמְשָׁא סִידְרוּ סִדְרֵי קְרָבָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](09_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 قال له احلف لي فحلف له وسجد اسرايل شكرا علي طرف السرير
 
+### Targum Jerusalem
+וְשַׁבַּח יִשְרָאֵל עַל רֵישׁ דַרְגוּשָׁה:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](31_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

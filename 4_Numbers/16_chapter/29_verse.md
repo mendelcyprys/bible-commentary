@@ -19,6 +19,9 @@
 **Arabic script:**
 ان مات هاولي القوم كموت كل الناس وطولبو بمطالبتهم فليس الله بعث بي
 
+### Targum Jerusalem
+מִמוֹתָא דְמַיְיתִין בָּהּ בְּנֵי אֱנָשָׁא יְמוּתוּן אִלֵין וּסְכָמוּת דְכָל אֱנָשָׁא יִסְתְּכַם עֲלֵיהוֹן לָא יְיָ שְׁלַח יָתִי:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](29_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

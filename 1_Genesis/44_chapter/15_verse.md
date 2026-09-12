@@ -19,6 +19,9 @@
 **Arabic script:**
 قال يوسف ما هذا الصنع الذي صنعتم اما علمتم انه يمتحن رجل مثلي
 
+### Targum Jerusalem
+וְהוּא מְטַיְירֵיהּ מְטַיֵיר בֵּיהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](15_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

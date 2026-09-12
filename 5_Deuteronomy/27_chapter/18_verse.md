@@ -19,6 +19,9 @@
 **Arabic script:**
 وملعون مضل جاهلا في الطريق ويقول جميع القوم امين
 
+### Targum Jerusalem
+לִיט יֶהֱוֵי גַבְרָא דְיִטְעֵי אַכְסַנְיָא בְּאוֹרְחָא דְהוּא דָמֵי לְסַמְיָא וְיַעֲנוּן כָּל עַמָא וְיֵימְרוּן אָמֵן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](18_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

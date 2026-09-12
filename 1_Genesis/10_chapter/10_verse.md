@@ -19,6 +19,9 @@
 **Arabic script:**
 وكان اول ملكه بابيل والبرس واكد وكلنه في بلد الشينور
 
+### Targum Jerusalem
+וַהֲוַת שֵׁירוּי מַלְכוּתֵיהּ בָּבֶל וַהֲדָס וּנְצִיבִין וְקִטִיסְפוֹן בְּאַרְעָא דְבָּבֶל:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](10_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

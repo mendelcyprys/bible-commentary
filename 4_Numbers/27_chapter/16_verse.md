@@ -19,6 +19,9 @@
 **Arabic script:**
 ان شيت يا رب الاه ارواح جميع البشر فاستخلف رجلا علي الجماعه
 
+### Targum Jerusalem
+יְמַנֵי מֵימְרָא דַיְיָ אֱלָהָא דְשַׁלִיט בְּנִשְׁמַת כָּל בִּישְרָא גְבַר מְזַמִין עַל עַמָא דִכְנִשְׁתָּא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](16_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

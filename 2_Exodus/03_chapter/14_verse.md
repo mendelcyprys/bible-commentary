@@ -19,6 +19,9 @@
 **Arabic script:**
 قال له الازلي الذي لا يزول قال كذا قل لبني اسرايل الازلي بعثني اليكم
 
+### Targum Jerusalem
+וַאֲמַר מֵימְרֵיהּ דַיְיָ לְמשֶׁה דֵין דְאָמַר לְעַלְמָא הֱוֵי וַהֲוָה וְעָתִיד לְמֵימַר לֵיהּ הֱוֵי וַהֲוָה וַאֲמַר כְּדֵין תֵּימַר לִבְנֵי יִשְרָאֵל אֶהְיֶה שְׁלָחַנִי לִפְנֵיכֶם:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](14_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

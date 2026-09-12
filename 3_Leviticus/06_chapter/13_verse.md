@@ -19,6 +19,9 @@
 **Arabic script:**
 هذا قربان هرون وبنيه الذي يقربه لله من يوم مسحه عشر الويبه سميدا هديه دايما نصفها بالغداه ونصفها بالعشي
 
+### Targum Jerusalem
+מְרַתְּחָא תָּעֵיל יָתָהּ וּמְרַסְקָא מִנְחַת רִיסוּקִין תְּקַרְבוּן רֵיחַ דְּרַעֲוָא לִשְׁמָא דַיְיָ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](13_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

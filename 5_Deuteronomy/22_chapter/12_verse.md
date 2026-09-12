@@ -19,6 +19,9 @@
 **Arabic script:**
 واصنع لك جدايلا في اربعه اطراف ازارك الذي تتغطا به
 
+### Targum Jerusalem
+גְּדִילַן דְּצִיצִית תַּעַבְדוּן עַל אַרְבַּע צְנָפַת גּוֹלָתֵיכוֹן דְּיִתְכַסּוּן בָּהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](12_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 بان خرجت نار من عند الله فاكلت علي المذبح الصعيده والشحوم فنظر القوم ورنو ووقعو علي وجوههم
 
+### Targum Jerusalem
+וְאִתְרְכִינוּ בִּצְלוֹ עַל אַפֵּיהוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](24_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

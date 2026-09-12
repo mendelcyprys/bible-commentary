@@ -19,6 +19,9 @@
 **Arabic script:**
 غد اي كردوس تكردس عليه فهو يجد اعقابه
 
+### Targum Jerusalem
+מִדְבֵית גָד יִפְקוּן מְשִׁירְיַן מִטַכְסִין זְיָנִין וְאִינוּן יַעַבְרוּן יַת יִשְרָאֵל יַת יַרְדְנָא וְאִינוּן יַחְסְנוּן יַתְהוֹן יַת אַרְעָא דִכְנָעַן וּבָתַר כֵּן יַחְזְרוּן בִּשְׁלָם לְמַשְׁכְּנֵהוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](19_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 واي رجل اقدس بيته قدسا لله فليقومه الامام علي جودته او رداته وكما يقومه كذاك يجب
 
+### Targum Jerusalem
+קוּדְשָׁא לִשְׁמָא דַּיְיָ וִיסַדֵּר כַּהֲנָא הֵיךְ מַה דִּי סְדַר יָתֵיהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](14_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

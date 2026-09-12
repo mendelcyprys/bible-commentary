@@ -19,6 +19,9 @@
 **Arabic script:**
 لا تصنعو لكم اوثانا ومنحوتا ونصبا لا تقيمو لكم وحجرا مزخرفا لا تضعو في بلدكم لتسجدو له لاني الله ربكم الواحد
 
+### Targum Jerusalem
+וְאֶבֶן דִּטְעוּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](01_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

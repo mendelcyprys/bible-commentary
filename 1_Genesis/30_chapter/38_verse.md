@@ -19,6 +19,9 @@
 **Arabic script:**
 ووضع العصي التي قشرها في الاحواض مساقي الما حتي تجي الغنم لتشرب حيالها فتتيحم فيها عند ذلك
 
+### Targum Jerusalem
+בְּמַרְכִיוּתָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](38_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

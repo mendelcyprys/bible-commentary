@@ -19,6 +19,9 @@
 **Arabic script:**
 ويخرج الي زفرن وينتهي الي حصر عينن
 
+### Targum Jerusalem
+וְיִפְקוּן תְּחוּמָא לְזָפֵירִין וְיֶהֱווֹן מַפְקָנוֹי דִירַת עַיְינוּתָא דֵין דְיֶהֱוֵי לְכוֹן תְּחוּם צִיפוּנַיָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](09_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

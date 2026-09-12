@@ -19,6 +19,9 @@
 **Arabic script:**
 ونقل القوم من قراهم من طرف تخم مصر الي طرفه
 
+### Targum Jerusalem
+וְיַת עַמָא דַהֲוָן שָׁרוּן בִּמְדִינָתָא אַעֲבֵר בְּקִרְיְיתָא וְיַת עַמָא דַהֲוָון שְׁרִין בְּקִרְיְיתָא אַעֲבֵר בִּמְדִינְתָּא דְלָא יֶהֱוָון מוֹנִין לִבְנוֹי דְיַעֲקב וְאָמְרִין לְהוֹן אַכְסְנֵי גִילוּלָאֵי:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](21_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

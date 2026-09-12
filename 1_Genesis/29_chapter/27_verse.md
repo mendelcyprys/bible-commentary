@@ -19,6 +19,9 @@
 **Arabic script:**
 لكن اكمل اسبوع هذه اعطيك هذه ايضا بخدمه ثخدمني سبع سنين اخر
 
+### Targum Jerusalem
+אַשְׁלִים שִׁבְעָתֵי יוֹמֵי מִשְׁתּוּתָא דְלֵאָה וְאֶתֵּן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](27_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

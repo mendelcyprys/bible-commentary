@@ -19,6 +19,9 @@
 **Arabic script:**
 فبكي بنو اسرايل علي موسي في بيدات مواب ثلاثين يوما الي ان انقضت ايام حزنه
 
+### Targum Jerusalem
+וּבְכוֹן בְּנֵי יִשְרָאֵל יַת משֶׁה בְּמֵישְׁרָא דְמוֹאָב תְּלָתִין יוֹמִין וְאַשְׁלִימוּ יוֹמֵי בָּכוּתָא אֶבְלָא דְמשֶׁה:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](08_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

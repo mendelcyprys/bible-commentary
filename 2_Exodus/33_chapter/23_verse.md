@@ -19,6 +19,9 @@
 **Arabic script:**
 ثم ازيل سحابي حتي تنظر اواخر نوري واوايله لا ترا
 
+### Targum Jerusalem
+וְאַעֲבֵר יַת כִּיתֵּי מַלְאָכַיָא דְקַיְימִין וּמְשַׁמְשִׁין קֳדָמַי וְאֶחְמֵי יַת דְּבִירָא דְאַיְקַר שְׁכִינְתִּי לֵית אֶפְשַׁר לָךְ לְמֵיחְמֵי:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](23_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

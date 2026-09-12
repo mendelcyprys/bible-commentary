@@ -19,6 +19,9 @@
 **Arabic script:**
 ثم رحلو من سكوت ونزلو في ايتم في طرف البر
 
+### Targum Jerusalem
+דַּאֲתֵי בִּסְיָיפֵי מַדְבְּרָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](20_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

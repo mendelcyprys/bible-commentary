@@ -19,6 +19,9 @@
 **Arabic script:**
 ما اسب ما لم يسبه الطايق وما اذم ما لا يذمه الله
 
+### Targum Jerusalem
+מָה אֲנָא לַיִיט דְבֵית יַעֲקב וּמֵימְרָא דַיְיָ מְבָרֵךְ יַתְהוֹן וּמָה אֲנָא מַזְעֵיר דְבֵית יִשְרָאֵל וּמֵימְרָא דַיְיָ מַסְגֵי יַתְהוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](08_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

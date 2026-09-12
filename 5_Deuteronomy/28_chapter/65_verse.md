@@ -19,6 +19,9 @@
 **Arabic script:**
 وفي تلك الامم لا تطمان ولا يكون قرار لقدمك ويعطيك الله ثم قلبا رجزا وشخوص العين وذبول النفوس
 
+### Targum Jerusalem
+וְיִתֵּן לְכוֹן תַּמָן לֵב דָחִיל יְסוֹף עֵינֵיכוֹן וְדָאִיב נְפָשׁ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](65_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

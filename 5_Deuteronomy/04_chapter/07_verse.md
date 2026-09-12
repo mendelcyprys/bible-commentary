@@ -19,6 +19,9 @@
 **Arabic script:**
 لان ايت امه كبيره لها الاه قريب اليها كالالاه ربنا منا متي ما دعوناه
 
+### Targum Jerusalem
+אֲרוּם הַיְידָא אוּמָא רַבָּא דְּאִית לָהּ אֱלָהָא דְיִקְרַב לְוָותָהּ כַּיְיָ אֱלָהֵן בְּכָל שָׁעָה דִי אֲנַן קַרְיַין לֵיהּ וְהוּא עָנֵי יָתָן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](07_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 ثم قال ملك مصر للقوابل العبرنيات التي اسم احداهما شفره والاخري فوعه
 
+### Targum Jerusalem
+וַאֲמַר מַלְכָּא דְמִצְרַיִם לְיוֹלַדְתָּא עִיבְרַיְיתָא דִשְׁמָא דַחֲדָא שִׁפְרָה וְהִיא הֲוַת יוֹכֶבֶד וּשְׁמָא דְתִנְיֵיתָא פּוּעָה הִיא הֲוַת מִרְיָם:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](15_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

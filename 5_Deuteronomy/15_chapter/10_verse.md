@@ -19,6 +19,9 @@
 **Arabic script:**
 بل اعطه عطاا ولا تشح به نفسك عليه فان بجريره هذا الامر يبارك لك الله ربك في اعمالك وجميع ما تمد اليه يدك
 
+### Targum Jerusalem
+מִתַּן תִּתְּנוּן לֵיהּ לָא יִבְאַשׁ בְּאַפֵּיכוֹן בִּזְמַן תִּתְּנוּן לֵיהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](10_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

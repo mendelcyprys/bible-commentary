@@ -19,6 +19,9 @@
 **Arabic script:**
 يطلق له ان يوكل وكلا علي البلد حتي يعبو غله بلد مصر في سبع سنين الشبع
 
+### Targum Jerusalem
+יַעֲבֵיד פַּרְעה וִימַנֵי יָתֵיהּ אַפִּיטְרוֹפּוֹס עַל אַרְעָא חַד מִן חַמְשָׁא וִיפַלֵיג בְּאַרְעָא דְמִצְרַיִם בְּשַבְעָתֵיהּ שְׁנֵי שַׁבְעֲנָה:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](34_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

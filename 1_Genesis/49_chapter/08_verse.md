@@ -19,6 +19,9 @@
 **Arabic script:**
 وانت يا يهوده يسيدونك اخوتك ويدك في اقفا اعدايك ويخضع لك بنو ابيك
 
+### Targum Jerusalem
+יְהוּדָה לָךְ יוֹדוּן כָּל אֲחָךְ וְעַל שְׁמָךְ יִתְקְרוּן כָּל יְהוּדָאֵי יְדָךְ יִתְפָּרְעוּן לָךְ מִבַּעְלֵי דְבָבָךְ יֶהֱוַון מְקַדְמִין וְשַׁאֲלִין בִּשְׁלָמָךְ כָּל בְּנוֹי דְאָבוּךְ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](08_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 اللهم كذاك فبارك في جنده وارض ما تصنعه يداه واوهن احقا مقاوميه وشانيه من ان يقاوموه
 
+### Targum Jerusalem
+בְּרִיךְ יְיָ חֵילוֹת שִׁבְטָא דְלֵוִי וְקוּרְבַּן יְדוֹי תְּקַבֵּיל בְּרַעֲוָא תְּבַר חֶרֶץ דְשַנְאוֹי וּבַעֲלֵי דְבָבוֹי יִפְּלוּן וְלָא יְקוּמוּן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](11_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 بلد لا تاكل فيه طعامك بتقدير ولا يعوزك فيه شيا بلد من حجارته الحديد ومن جباله تقطع النحاس
 
+### Targum Jerusalem
+דִּי אַבְנָהָא בְרִירִין כְּפוּרְזְלָא וְטוּרַיָא חַכִּימִין (נ"א חסימין) כִּנְחָשָׁא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](09_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

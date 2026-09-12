@@ -19,6 +19,9 @@
 **Arabic script:**
 وان شا الرجل المقدس الضيعه ان يفتكها فليزد علي القيمه خمسها فتجب له
 
+### Targum Jerusalem
+וְאִין מִיפְרַק יִפְרוֹק יַת חַקְלָא דֵּין דְּמַקְדִישׁ יָתֵיהּ וְיָסַף חוֹמֶשׁ סִלְעִין דִּכְסַף עִילַוֵּיהּ עֲלוֹי וְיֶהֱוֵי לֵיהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](19_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

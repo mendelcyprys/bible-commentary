@@ -19,6 +19,9 @@
 **Arabic script:**
 ويكون فوه الذي [هو] راسه من وسطه وحاشيه تحيط بفيه مستديرا صنعه حايك كفم الدرع تصير له ليلا يتخرق
 
+### Targum Jerusalem
+וִיהֵי פוּם רֵישֵׁיהּ בְּמִצְעָא סִיפְוָוא יֶהֱוֵי מַקִיף לְפוּמֵיהּ חֲזוֹרָא עוֹבַד גְרָדִי כְּפוּם סִירָא יֶהֱוֵי לֵיהּ לָא יִתְבְּזָע:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](32_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

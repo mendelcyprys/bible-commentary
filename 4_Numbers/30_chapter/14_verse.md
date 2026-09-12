@@ -19,6 +19,9 @@
 **Arabic script:**
 وكذاك كل نذر وكل يمين بعقد لعذاب النفس فبعلها يثبت ذلك وبعلها يبطله
 
+### Targum Jerusalem
+בַּעֲלָהּ יָפִיס יַתְהוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](14_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

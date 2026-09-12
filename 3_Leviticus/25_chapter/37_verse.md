@@ -19,6 +19,9 @@
 **Arabic script:**
 ولا تدفع له ورقك وطعامك بعينه ولا بربا
 
+### Targum Jerusalem
+יַת כַּסְפָּךְ לָא תִיתֵּן בְּשִׁיעוּרִין וּבְרַבְיָן לָא תִיתֵּן מְזוֹנָךְ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](37_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

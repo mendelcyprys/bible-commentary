@@ -19,6 +19,9 @@
 **Arabic script:**
 وماشيه كثيره كانت لبني راوبن ولبني غد عظيمه جدا فراو بلد يعزر وبلد غلعد فاذا بهما موضع ماشيه
 
+### Targum Jerusalem
+וְחָמוֹן יַת אַרְעָא דְמִכְוַור וְיַת אַרְעָא דְגִלְעָד וְהָא אַתְרָא אֲתַר דְנִכְסִין הוּא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](01_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

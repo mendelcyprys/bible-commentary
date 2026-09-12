@@ -19,6 +19,9 @@
 **Arabic script:**
 واذا بنيت بيتا جديدا فاصنع درابزين علي سطحك ولا تجعل غررا في منزلك يسقط منه من يسقط
 
+### Targum Jerusalem
+וְתַעֲבֵיד גִּיפוּף לְאִיגְרָךְ וְלָא תְשַׁוֵּי חוֹבַת שְׁפִיכוּת אֲדַם זַכַּאי בְּבֵיתָךְ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](08_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

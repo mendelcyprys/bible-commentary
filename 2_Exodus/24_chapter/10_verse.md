@@ -19,6 +19,9 @@
 **Arabic script:**
 فنظرو نور الله اسرايل ومن دونه كصنعه بياض المها وكذات السما في النقا
 
+### Targum Jerusalem
+אִיפוּפְרִין דְּרִיגְלוֹי כְּעוֹבַד לָבָן דְּסַפִּירִינוּן וּכְחֵיזוּ שְׁמַיָא כַּד הֲווֹ נַקְיָין מִן עֲנָנַיָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](10_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

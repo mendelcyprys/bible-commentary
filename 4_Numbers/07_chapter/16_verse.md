@@ -19,6 +19,9 @@
 **Arabic script:**
 وعتودا من الماعز للذكوه
 
+### Targum Jerusalem
+צְפִיר בַּר עִיזִין חַד קָרֵיב רַב שִׁבְטָא לְחַטָאתָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](16_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

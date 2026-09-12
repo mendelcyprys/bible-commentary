@@ -19,6 +19,9 @@
 **Arabic script:**
 الله تكافون بهذه الافعال يا شعب جاهل غير حكيم اليس هو منشيك قانيك هو صنعك واتقنك
 
+### Targum Jerusalem
+הָא מִן קֳדָם יְיָ תִּגְמְלוּ הֲדָא אוּמָא טִפְּשָׁא וְלָא חַכִּימַיָא הֲלָא הוּא אֲבוּכוֹן דְבִשְׁמַיָא דִקְנָא יַתְכוֹן הוּא בְּרָא יַתְכוֹן וְשַׁכְלֵיל יַתְכוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](06_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

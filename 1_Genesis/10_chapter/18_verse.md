@@ -19,6 +19,9 @@
 **Arabic script:**
 والاروديين والحمصيين والحماتيين وبعد ذلك تفرقت عشاير الكنعانيين
 
+### Targum Jerusalem
+וְיַת אַנְטְרִידִנָאֵי וְיַת חֲמִיצָאֵי וְיַת אַנְטוֹכְיָא מִן בָּבֶל מִן בָּתַר כְּדֵין אִתְפְּרָעוּ נִיסֵי אוּמַיָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](18_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

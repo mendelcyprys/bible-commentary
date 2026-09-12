@@ -19,6 +19,9 @@
 **Arabic script:**
 ويقتر الامام الشحم علي المذبح ثم يصير القص لهرون وبنيه
 
+### Targum Jerusalem
+החזה נְיָיעָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](31_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

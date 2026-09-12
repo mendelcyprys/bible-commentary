@@ -19,6 +19,9 @@
 **Arabic script:**
 وفني الما من القربه فطرحت الصبي تحت بعض الشجر
 
+### Targum Jerusalem
+וּשְׁלִימוּ מַיָא מִן קַרְנַת וְטַלְקַת יַת טַלְיָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](15_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 فاذا هو اخطا واثم فليرد الغصب الذي غصبه او الغشم الذي غشمه او الوديعه التي اودعت عنده او الضاله التي وجدها
 
+### Targum Jerusalem
+אוֹ עֲצָה יַת חַבְרֵיהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](23_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

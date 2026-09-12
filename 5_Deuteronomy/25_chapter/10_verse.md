@@ -19,6 +19,9 @@
 **Arabic script:**
 وليسمي اسمه في الاسرايل بيت مخلوع النعل
 
+### Targum Jerusalem
+וְיִתְקְרֵי שְׁמֵיהּ בְּיִשְרָאֵל בַּיְתָא שְׁלוּפֵי סַנְדְּלָא וּמְבַטְלֵי מִצְוָתֵיהּ דִּיבָמָה:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](10_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

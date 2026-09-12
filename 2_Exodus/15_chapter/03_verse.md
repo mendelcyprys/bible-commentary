@@ -19,6 +19,9 @@
 **Arabic script:**
 الله ذو الملاحم الله اسمه
 
+### Targum Jerusalem
+יְיָ בִּיקַר שְׁכִינְתֵּיהּ הוּא דַּעֲבֵיד לְכוֹן נִצְחָנֵי קְרָבֵיכוֹן בְּכָל דַּר וָדַר מוֹדַע גְּבוּרְתֵּיהּ לְעַמָא בֵּית יִשְרָאֵל יְיָ שְׁמוֹ כִּי כִשְׁמֵיהּ כֵּן גְּבוּרְתֵּיהּ יְהֵא שְׁמֵיהּ מְשַׁבַּח לְעַלְמֵי עַלְמִין:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](03_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

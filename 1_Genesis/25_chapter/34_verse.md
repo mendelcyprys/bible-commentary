@@ -19,6 +19,9 @@
 **Arabic script:**
 واعطاه يعقوب خبزا وطبيخا من عدس فاكل وشرب وقام فمضي وازدري عشو بالبكوره
 
+### Targum Jerusalem
+וְקָם וַאֲזַל וּבְזֵי עֵשָו יַת בְּכוֹרוֹתָא וְאִפַס חוּלְקֵיהּ בְּעַלְמָא דְאָתֵי וְכָפַר בִּתְחִיַית מֵתַיָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](34_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

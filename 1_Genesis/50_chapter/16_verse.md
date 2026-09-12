@@ -19,6 +19,9 @@
 **Arabic script:**
 فامرو من قال ليوسف ان اباك اوصانا قبل موته قايلا
 
+### Targum Jerusalem
+וּפַקִידוּ שִׁבְטַיָא יַת בִּלְהָה אַמְתָא דְרָחֵל לְמֵימָר אָבוּךְ פַּקֵיד קֳדָם עַד לָא יִתְכְּנֵישׁ לְמֵימָר:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](16_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

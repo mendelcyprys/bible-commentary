@@ -19,6 +19,9 @@
 **Arabic script:**
 لذلك يترك الرجل اباه وامه ويلزم زوجته فيصيران كجسد واحد
 
+### Targum Jerusalem
+עַל כֵּן יִשְׁבּוֹק גְבַר בֵּית מְדַמְכָא דְאָבוּי וְאִמוֹי:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](24_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

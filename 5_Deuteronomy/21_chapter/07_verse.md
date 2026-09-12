@@ -19,6 +19,9 @@
 **Arabic script:**
 وابتدو وقالو ايدينا لم تسفك هذا الدم وعيوننا لم تر ذلك
 
+### Targum Jerusalem
+וְעֵינָן לָא חֲמוֹן דְּמַן דֵּין דִּישְׁפָךְ יָתֵיהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](07_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

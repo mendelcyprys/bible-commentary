@@ -19,6 +19,9 @@
 **Arabic script:**
 فمن الخمر والمسكر منه يتنسك حتي كيل خمر وكيل مسكر منه لا يشرب وكل نقيع العنب لا يشربه وعنبا رطبا ويابسا لا ياكل
 
+### Targum Jerusalem
+מֵחֲמַר חֲדַת וְעַתִּיק יִתְנְזַר חֲמַע דַחֲמַר חֲדַת וַחֲמַע דַחֲמַר עַתִּיק לָא יִשְׁתֵּי וְכָל שְׁזוֹג דְעִנְבִין לָא יִשְׁתֵּי:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](03_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

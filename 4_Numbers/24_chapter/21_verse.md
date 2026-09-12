@@ -19,6 +19,9 @@
 **Arabic script:**
 ثم راي القينيين فضرب مثله وقال سيكون مسكنك صلبا وتصير في الصخر وكرك
 
+### Targum Jerusalem
+וַחֲמָא יַת שַׁלְמַיָא וּנְטַל בִּמְתַל נְבִיוּתֵיהּ וַאֲמַר מָה תַקִיף הוּא מֵישְׁרוּיָךְ וְשַׁוְויַית בְּנַקָרַת צוּר בֵּית מְדוֹרָךְ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](21_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

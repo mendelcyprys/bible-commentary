@@ -19,6 +19,9 @@
 **Arabic script:**
 شا الله ان تكون انوار في جلذ السما وتفرز بين النهار والليل فيكونان ايات واوقاتا واياما وسنين
 
+### Targum Jerusalem
+וִיהוֹן לְאָתִין לְמוֹעֲדִין וּלְמַקְדְשָׁא בְּהוֹן רֵישֵׁי יַרְחִין וּשְׁנִין:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](14_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

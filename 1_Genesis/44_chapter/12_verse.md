@@ -19,6 +19,9 @@
 **Arabic script:**
 ففتش بدا بالاكبر وانتهي الي الاصغر فوجد الجام في وعا بنيمن
 
+### Targum Jerusalem
+וּפִּשְׁפֵּשׁ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](12_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

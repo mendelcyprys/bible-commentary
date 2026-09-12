@@ -19,6 +19,9 @@
 **Arabic script:**
 وكان ملكا في الموصوف حين تجتمع اليه رياسه وساير اسباطه
 
+### Targum Jerusalem
+וִיקוּם מֶלֶךְ מִדְבֵית יַעֲקב בִּכְנִישׁוּת רָאשֵׁי עַמָא כַּחֲדָא יִשְׁתַּמְעוּן לֵיהּ שִׁבְטַיָא דִבְנֵי יִשְרָאֵל:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](05_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

@@ -19,6 +19,9 @@
 **Arabic script:**
 ثم دخل الملكان الي سدوم وقت العشا ولوط جالس علي باب سدم فلما راهما قام تلقاهما وسجد علي وجهه علي الارض
 
+### Targum Jerusalem
+וְלוֹט יָתִיב בְּפִּילֵי דִסְדוֹם וַחֲמָא יַתְהוֹן וּרְהַט וְשָׁאִיל בִּשְׁלָמְהוֹן וּסְגִיד עַל אַפּוֹי עַל אַרְעָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](01_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

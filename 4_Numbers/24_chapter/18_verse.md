@@ -19,6 +19,9 @@
 **Arabic script:**
 وسيكون ادوم منقرضا وكذلك شعير وساير اعدايه واسرايل يزداد تايدا
 
+### Targum Jerusalem
+וִיהֵי פָּרַס יַרְתֵי טוּרָא דְגַבְלָא לְבַעֲלֵי דְבָבֵיהוֹן וְיִשְרָאֵל יִתְגַבְּרוּן בְּחֵיל תַּקִיף:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](18_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

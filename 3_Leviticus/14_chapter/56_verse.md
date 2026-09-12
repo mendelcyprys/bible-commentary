@@ -19,6 +19,9 @@
 **Arabic script:**
 وللشامه وللعارضه وللبقعه
 
+### Targum Jerusalem
+וּלְשׁוּמָא וּלְקַלָּפוּתָא וּלְבַהֲקֵיתָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](56_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

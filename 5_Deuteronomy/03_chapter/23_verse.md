@@ -19,6 +19,9 @@
 **Arabic script:**
 ثم تحننت بين يدي الله في ذلك الوقت قايلا
 
+### Targum Jerusalem
+וְצַלִּית וּבָעִית רַחֲמִין מִן קֳדָם יְיָ אָמַר משֶׁה בְּשַׁעְתָּא הַהִיא לְמֵימָר:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](23_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

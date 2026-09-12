@@ -19,6 +19,9 @@
 **Arabic script:**
 وترجع الضيعه في سنه الاطلاق للبايع الذي اشتراها منه لالذي له حوز الارض
 
+### Targum Jerusalem
+בְּשַׁתָּא דְּיוֹבְלָא יַחֲזוֹר חַקְלָא לְדֵין דִּזְבַן יָתֵיה מִן גַּבֵּיה לִין דְאִית לֵיה אַחֲסָנוּת אַרְעָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](24_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

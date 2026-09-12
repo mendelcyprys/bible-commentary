@@ -19,6 +19,9 @@
 **Arabic script:**
 كثرو علي جدا من المهر والاعطا اعطيكم كما تقولون لي واعطوني الجاريه زوجه
 
+### Targum Jerusalem
+פּוֹרַן כְּתוּבָּתָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](12_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

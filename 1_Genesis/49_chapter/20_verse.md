@@ -19,6 +19,9 @@
 **Arabic script:**
 واشر طعامه سمين وهو يعطي ملاذ الملوك
 
+### Targum Jerusalem
+טוֹבוֹי דְאָשֵׁר מַה שְׁמֵינָה הִיא אַרְעָא וְאַרְעֵיהּ תֶהֱוֵי מַסְפִּיקָא תַּפְנוּקֵי מַלְכַיָא דִבְנֵי יִשְרָאֵל:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](20_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

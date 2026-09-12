@@ -19,6 +19,9 @@
 **Arabic script:**
 فكف عنه حينيذ قالت صار العروس المقطول مختونا
 
+### Targum Jerusalem
+וְכַד אַרְפֵּי מְחַבְּלָא מִינֵיהּ בְּכֵן שַׁבְּחַת צִפּוֹרָה וַאֲמַרַת מַה חָבִיב הוּא דַם גְזֵירָתָא דִי יִשֵׁזֵיב לַחֲתָנָא מִן יְדוֹי דְמַלְאָךְ מוֹתָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](26_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

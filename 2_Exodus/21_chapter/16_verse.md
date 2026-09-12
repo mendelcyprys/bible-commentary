@@ -19,6 +19,9 @@
 **Arabic script:**
 ومن سرق انسانا فباعه او وجد في يده فليقتل قتلا
 
+### Targum Jerusalem
+וְדִי מְבַזֵּי:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](16_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

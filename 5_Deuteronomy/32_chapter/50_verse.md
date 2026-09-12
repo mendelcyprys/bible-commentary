@@ -19,6 +19,9 @@
 **Arabic script:**
 ومت في الجبل الذي انت صاعد اليه وانضم الي قومك كما مات هرون اخوك في جبل هر وانضم الي قومه
 
+### Targum Jerusalem
+וְתִתְכְּנִישׁ בְּטוּרָא דְאַתְּ סָלִיק לְתַמָן וְתִתְכְּנִישׁ בִּשְׁלָם לְוַת עַמָךְ הֵיךְ מַה דְאִתְכְּנִישׁ אַהֲרן אָחוּךְ בְּהוֹר טוּרָא וְאִתְכְּנַשׁ בִּשְׁלָם לְוַת ^עַמֵיהּ:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](50_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

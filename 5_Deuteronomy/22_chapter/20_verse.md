@@ -19,6 +19,9 @@
 **Arabic script:**
 وان كان الامر حقا ولا توجد للجاريه براه
 
+### Targum Jerusalem
+וְאִין קוּשְׁטָא הֲוָה פִּתְגָּמָא הָדֵין לָא אַשְׁכָּחוּ סַהֲדִין לְטַלְיָתָא:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](20_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

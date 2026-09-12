@@ -19,6 +19,9 @@
 **Arabic script:**
 وهو الوطن الالاه الازلي ومن دونه ملوك العالم كما طرد من بين يديك العدو وقال لك انفذه
 
+### Targum Jerusalem
+בִּמְעוֹנָה אַשְׁרֵי שְׁכִינְתֵּיהּ מִן לִקְדָמֵיהוֹן וּמִתְּחוֹת גְבוּרְתֵּיהּ הוּא מְדַבֵּר עַלְמָא וּטְרַד בַּעֲלֵי דְבָבֵיכוֹן מִן קֳדָמֵיכוֹן וַאֲמַר בְּמֵימְרֵיהּ לִמְשֵׁיצֵי יַתְהוֹן:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](27_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis

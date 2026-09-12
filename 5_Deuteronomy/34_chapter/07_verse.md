@@ -19,6 +19,9 @@
 **Arabic script:**
 وموسي ابن مايه وعشرين سنه اذ مات لم تدمس عينه ولم تزل رطوبته
 
+### Targum Jerusalem
+וּמשֶׁה בַּר מְאָה וְעֶשְרִין שְׁנִין בְּזִמְנָא דְאִתְכְּנִישׁ לָא כַהֲיַין עֵינוֹי וְלָא אִשְׁתְּנוּן זִיוְהוֹן דְאַפּוֹי:
+
 ### Septuagint
 ### Vulgate
 
@@ -31,6 +34,7 @@
 ## Halacha
 
 ## Medieval Commentators
+[Commentaries](07_verse_commentaries.md)
 
 ## Modern Scholarship
 ### Source Analysis
