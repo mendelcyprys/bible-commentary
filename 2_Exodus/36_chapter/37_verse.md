@@ -1,1 +1,39 @@
 # וַיַּ֤עַשׂ מָסָךְ֙ לְפֶ֣תַח הָאֹ֔הֶל תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֣שׁ מָשְׁזָ֑ר מַעֲשֵׂ֖ה רֹקֵֽם׃
+
+## Text
+### Masoretic Notes
+### Textual Variants
+
+## Language
+### Words
+### Grammar and Syntax
+
+## Translations
+### Targum Onkelos
+וַעֲבַד פְּרָסָא לִתְרַע מַשְׁכְּנָא תִּכְלָא וְאַרְגְוָנָא וּצְבַע זְהוֹרִי וּבוּץ שְׁזִיר עוֹבַד צַיָר:
+
+### Tafsir Rasag
+**Judeo-Arabic:**
+וצנע סתרא לבאב אלכ̇בא מן אסמנג̇ון וארג̇ואן וצבג קרמז ועשר משזור צנעה ראקם
+
+**Arabic script:**
+وصنع سترا لباب الخبا من اسمنجون وارجوان وصبغ قرمز وعشر مشزور صنعه راقم
+
+### Septuagint
+### Vulgate
+
+## Structure
+
+## Rabbinic Interpretation
+### Midrash
+### Talmud
+
+## Halacha
+
+## Medieval Commentators
+
+## Modern Scholarship
+### Source Analysis
+### Ancient Near Eastern Context
+
+## Cross-References

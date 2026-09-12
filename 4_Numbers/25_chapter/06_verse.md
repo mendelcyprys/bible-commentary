@@ -1,1 +1,39 @@
 # וְהִנֵּ֡ה אִישׁ֩ מִבְּנֵ֨י יִשְׂרָאֵ֜ל בָּ֗א וַיַּקְרֵ֤ב אֶל־אֶחָיו֙ אֶת־הַמִּדְיָנִ֔ית לְעֵינֵ֣י מֹשֶׁ֔ה וּלְעֵינֵ֖י כָּל־עֲדַ֣ת בְּנֵי־יִשְׂרָאֵ֑ל וְהֵ֣מָּה בֹכִ֔ים פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃
+
+## Text
+### Masoretic Notes
+### Textual Variants
+
+## Language
+### Words
+### Grammar and Syntax
+
+## Translations
+### Targum Onkelos
+וְהָא גַבְרָא מִבְּנֵי יִשְׂרָאֵל אֲתָא וְקָרֵב לְוָת אֲחוֹהִי יָת מִדְיָנֵיתָא לְעֵינֵי משֶׁה וּלְעֵינֵי כָּל כְּנִשְׁתָּא דִבְנֵי יִשְׂרָאֵל וְאִינוּן בָּכָן בִּתְרַע מַשְׁכַּן זִמְנָא
+
+### Tafsir Rasag
+**Judeo-Arabic:**
+ואד̇א ברג̇ל מן בני אסראיל קד אקבל וקדם אלי מא בינהם מראה מדיניה בחצ̇רה מוסי וג̇מאעתהם והם יבכון ענד באב כ̇בא אלמחצ̇ר
+
+**Arabic script:**
+واذا برجل من بني اسرايل قد اقبل وقدم الي ما بينهم مراه مدينيه بحضره موسي وجماعتهم وهم يبكون عند باب خبا المحضر
+
+### Septuagint
+### Vulgate
+
+## Structure
+
+## Rabbinic Interpretation
+### Midrash
+### Talmud
+
+## Halacha
+
+## Medieval Commentators
+
+## Modern Scholarship
+### Source Analysis
+### Ancient Near Eastern Context
+
+## Cross-References

@@ -1,1 +1,39 @@
 # וְאֵ֖ת בִּגְדֵ֣י הַשְּׂרָ֑ד וְאֶת־בִּגְדֵ֤י הַקֹּ֙דֶשׁ֙ לְאַהֲרֹ֣ן הַכֹּהֵ֔ן וְאֶת־בִּגְדֵ֥י בָנָ֖יו לְכַהֵֽן׃
+
+## Text
+### Masoretic Notes
+### Textual Variants
+
+## Language
+### Words
+### Grammar and Syntax
+
+## Translations
+### Targum Onkelos
+וְיָת לְבוּשֵׁי שִׁמוּשָׁא וְיָת לְבוּשֵׁי קוּדְשָׁא לְאַהֲרֹן כַּהֲנָא וְיָת לְבוּשֵׁי בְנוֹהִי לְשַׁמָשָׁא:
+
+### Tafsir Rasag
+**Judeo-Arabic:**
+ות̇יאב אלושי ות̇יאב אלקדס להרון אלאמאם ות̇יאב בניה ללאמאמה
+
+**Arabic script:**
+وثياب الوشي وثياب القدس لهرون الامام وثياب بنيه للامامه
+
+### Septuagint
+### Vulgate
+
+## Structure
+
+## Rabbinic Interpretation
+### Midrash
+### Talmud
+
+## Halacha
+
+## Medieval Commentators
+
+## Modern Scholarship
+### Source Analysis
+### Ancient Near Eastern Context
+
+## Cross-References

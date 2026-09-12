@@ -1,1 +1,39 @@
 # שְׁלֹשָׁ֣ה גְ֠בִעִים מְֽשֻׁקָּדִ֞ים בַּקָּנֶ֣ה הָאֶחָד֮ כַּפְתֹּ֣ר וָפֶרַח֒ וּשְׁלֹשָׁ֣ה גְבִעִ֗ים מְשֻׁקָּדִ֛ים בַּקָּנֶ֥ה הָאֶחָ֖ד כַּפְתֹּ֣ר וָפָ֑רַח כֵּ֚ן לְשֵׁ֣שֶׁת הַקָּנִ֔ים הַיֹּצְאִ֖ים מִן־הַמְּנֹרָֽה׃
+
+## Text
+### Masoretic Notes
+### Textual Variants
+
+## Language
+### Words
+### Grammar and Syntax
+
+## Translations
+### Targum Onkelos
+תְּלָתָא כַלִידִין מְצַיְרִין בְּקַנְיָא חַד חֵזוּר וְשׁוֹשַׁן וּתְלָתָא כַלִידִין מְצַיְרִין בְּקַנְיָא חַד חֵזוּר וְשׁוֹשָׁן כֵּן לְשִׁתָּא קְנִין דְנָפְקִין מִן מְנַרְתָּא:
+
+### Tafsir Rasag
+**Judeo-Arabic:**
+ת̇לת̇ ג̇אמאת מלוזאת פי כל קצבה תפאחה וסוסנה כד̇אך ללסת אלקצבאת אלכ̇ארג̇את מנהא
+
+**Arabic script:**
+ثلث جامات ملوزات في كل قصبه تفاحه وسوسنه كذاك للست القصبات الخارجات منها
+
+### Septuagint
+### Vulgate
+
+## Structure
+
+## Rabbinic Interpretation
+### Midrash
+### Talmud
+
+## Halacha
+
+## Medieval Commentators
+
+## Modern Scholarship
+### Source Analysis
+### Ancient Near Eastern Context
+
+## Cross-References

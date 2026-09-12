@@ -1,1 +1,39 @@
 # וְהַנּוֹתֶ֙רֶת֙ מִן־הַמִּנְחָ֔ה לְאַהֲרֹ֖ן וּלְבָנָ֑יו קֹ֥דֶשׁ קָֽדָשִׁ֖ים מֵאִשֵּׁ֥י יְהוָֽה׃
+
+## Text
+### Masoretic Notes
+### Textual Variants
+
+## Language
+### Words
+### Grammar and Syntax
+
+## Translations
+### Targum Onkelos
+וּדְאִשְׁתָּאַר מִן מִנְחָתָא לְאַהֲרֹן וְלִּבְנוֹהִי קוֹדֶשׁ קוּדְשִׁין מִקוּרְבָּנַיָא דַיְיָ
+
+### Tafsir Rasag
+**Judeo-Arabic:**
+ואלפאצ̇ל מנהא להרון ובניה מן כ̇ואץ אלאקדאס מן קראבין אללה
+
+**Arabic script:**
+والفاضل منها لهرون وبنيه من خواص الاقداس من قرابين الله
+
+### Septuagint
+### Vulgate
+
+## Structure
+
+## Rabbinic Interpretation
+### Midrash
+### Talmud
+
+## Halacha
+
+## Medieval Commentators
+
+## Modern Scholarship
+### Source Analysis
+### Ancient Near Eastern Context
+
+## Cross-References

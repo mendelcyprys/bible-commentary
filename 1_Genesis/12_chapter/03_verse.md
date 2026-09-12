@@ -1,1 +1,39 @@
 # וַאֲבָֽרֲכָה֙ מְבָ֣רְכֶ֔יךָ וּמְקַלֶּלְךָ֖ אָאֹ֑ר וְנִבְרְכ֣וּ בְךָ֔ כֹּ֖ל מִשְׁפְּחֹ֥ת הָאֲדָמָֽה׃
+
+## Text
+### Masoretic Notes
+### Textual Variants
+
+## Language
+### Words
+### Grammar and Syntax
+
+## Translations
+### Targum Onkelos
+וֶאֱבָרֵךְ מְבָרְכָךְ וּמְלַטְטָךְ אֵילוּט וְיִתְבָּרֲכוּן בְּדִילָךְ כֹּל זַרְעֲיַת אַרְעָא
+
+### Tafsir Rasag
+**Judeo-Arabic:**
+ואבארך מבארכיך ושאתמך אלען ויתברך בך ג̇מיע עשאיר אלארץ̇
+
+**Arabic script:**
+وابارك مباركيك وشاتمك العن ويتبرك بك جميع عشاير الارض
+
+### Septuagint
+### Vulgate
+
+## Structure
+
+## Rabbinic Interpretation
+### Midrash
+### Talmud
+
+## Halacha
+
+## Medieval Commentators
+
+## Modern Scholarship
+### Source Analysis
+### Ancient Near Eastern Context
+
+## Cross-References

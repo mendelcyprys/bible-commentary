@@ -1,1 +1,39 @@
 # וַיִּצֹ֣ק ל֗וֹ אַרְבַּע֙ טַבְּעֹ֣ת זָהָ֔ב עַ֖ל אַרְבַּ֣ע פַּעֲמֹתָ֑יו וּשְׁתֵּ֣י טַבָּעֹ֗ת עַל־צַלְעוֹ֙ הָֽאֶחָ֔ת וּשְׁתֵּי֙ טַבָּע֔וֹת עַל־צַלְע֖וֹ הַשֵּׁנִֽית׃
+
+## Text
+### Masoretic Notes
+### Textual Variants
+
+## Language
+### Words
+### Grammar and Syntax
+
+## Translations
+### Targum Onkelos
+וְאַתִּיךְ לֵהּ אַרְבַּע עִזְקַן דִדְהַב עַל אַרְבַּע זִוְיָתֵהּ וְתַרְתֵּין עִזְקַן עַל סִטְרֵהּ חַד וְתַרְתֵּין עִזְקַן עַל סִטְרֵהּ תִּנְיֵתָא:
+
+### Tafsir Rasag
+**Judeo-Arabic:**
+וצאג לה ארבע חלק מן ד̇הב וג̇עלהא פי ארבע ג̇האתה חלקתין פי ג̇אנבה אלואחד וחלקתין פי ג̇אנבה אלת̇אני
+
+**Arabic script:**
+وصاغ له اربع حلق من ذهب وجعلها في اربع جهاته حلقتين في جانبه الواحد وحلقتين في جانبه الثاني
+
+### Septuagint
+### Vulgate
+
+## Structure
+
+## Rabbinic Interpretation
+### Midrash
+### Talmud
+
+## Halacha
+
+## Medieval Commentators
+
+## Modern Scholarship
+### Source Analysis
+### Ancient Near Eastern Context
+
+## Cross-References

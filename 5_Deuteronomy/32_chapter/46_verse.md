@@ -1,1 +1,39 @@
 # וַיֹּ֤אמֶר אֲלֵהֶם֙ שִׂ֣ימוּ לְבַבְכֶ֔ם לְכָל־הַדְּבָרִ֔ים אֲשֶׁ֧ר אָנֹכִ֛י מֵעִ֥יד בָּכֶ֖ם הַיּ֑וֹם אֲשֶׁ֤ר תְּצַוֻּם֙ אֶת־בְּנֵיכֶ֔ם לִשְׁמֹ֣ר לַעֲשׂ֔וֹת אֶת־כָּל־דִּבְרֵ֖י הַתּוֹרָ֥ה הַזֹּֽאת׃
+
+## Text
+### Masoretic Notes
+### Textual Variants
+
+## Language
+### Words
+### Grammar and Syntax
+
+## Translations
+### Targum Onkelos
+וַאֲמַר לְהוֹן שַׁווּ לִבְּכוֹן לְכָל פִּתְגָמַיָא דִי אֲנָא מַסְהֵד בְּכוֹן יוֹמָא דֵין דִי תְפַקְדִנוּן יָת בְּנֵיכוֹן לְמִטַר לְמֶעְבַּד יָת כָּל פִּתְגָמֵי אוֹרַיְתָא הָדָא
+
+### Tafsir Rasag
+**Judeo-Arabic:**
+קאל להם רדו באלכם אלי ג̇מיע אלכלאם אלד̇י אנא שאהדכם בה אליום לתאמרו בה בניכם פיחפט̇ו ויעמלו ג̇מיע אמור הד̇ה אלתוריה
+
+**Arabic script:**
+قال لهم ردو بالكم الي جميع الكلام الذي انا شاهدكم به اليوم لتامرو به بنيكم فيحفظو ويعملو جميع امور هذه التوريه
+
+### Septuagint
+### Vulgate
+
+## Structure
+
+## Rabbinic Interpretation
+### Midrash
+### Talmud
+
+## Halacha
+
+## Medieval Commentators
+
+## Modern Scholarship
+### Source Analysis
+### Ancient Near Eastern Context
+
+## Cross-References

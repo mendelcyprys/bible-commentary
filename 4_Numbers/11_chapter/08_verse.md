@@ -1,1 +1,39 @@
 # שָׁטוּ֩ הָעָ֨ם וְלָֽקְט֜וּ וְטָחֲנ֣וּ בָרֵחַ֗יִם א֤וֹ דָכוּ֙ בַּמְּדֹכָ֔ה וּבִשְּׁלוּ֙ בַּפָּר֔וּר וְעָשׂ֥וּ אֹת֖וֹ עֻג֑וֹת וְהָיָ֣ה טַעְמ֔וֹ כְּטַ֖עַם לְשַׁ֥ד הַשָּֽׁמֶן׃
+
+## Text
+### Masoretic Notes
+### Textual Variants
+
+## Language
+### Words
+### Grammar and Syntax
+
+## Translations
+### Targum Onkelos
+שַׁיְטִין עַמָא וְלָקְטִין דְצָבֵי טָחִין בְּרֵיחַיָא אוֹ דְצָבֵי דָאִיךְ בִּמְדֻכְתָּא וּמְבַשְׁלִין לֵהּ בְּקִדְרָא וְעָבְדִין יָתֵהּ גְרִיצָן וַהֲוָה טַּעֲמֵהּ כִּטְעֵם דְלִישׁ בְּמִשְׁחָא
+
+### Tafsir Rasag
+**Judeo-Arabic:**
+יטוף אלקום פילקטונה ויטחנון מנה פי אלרחא או ידקון פי אלמדק ויטבכ̇ון מנה פי אלבראם ויצנעון מנה מלילא ויכון טעמה כחלאוה בדסם
+
+**Arabic script:**
+يطوف القوم فيلقطونه ويطحنون منه في الرحا او يدقون في المدق ويطبخون منه في البرام ويصنعون منه مليلا ويكون طعمه كحلاوه بدسم
+
+### Septuagint
+### Vulgate
+
+## Structure
+
+## Rabbinic Interpretation
+### Midrash
+### Talmud
+
+## Halacha
+
+## Medieval Commentators
+
+## Modern Scholarship
+### Source Analysis
+### Ancient Near Eastern Context
+
+## Cross-References
