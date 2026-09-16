@@ -84,3 +84,13 @@ Inner-biblical allusions, parallel passages, and significant intertextual connec
 ## Contributing
 
 Pick a verse, pick a section, and add what you know. Cite your sources.
+
+### Research standards
+
+- **Cite refs a reader can open**, and quote Hebrew and Aramaic sources verbatim with the reference, not from memory or paraphrase.
+- **Keep three things apart**: what a source says, what the tradition as a whole holds (including its internal disputes), and what the text most plausibly means.
+- **Test claims about the Hebrew.** When a reading depends on grammar or word usage, check it against the whole of Tanakh and report the count. Compare like with like: the same construction, the same verb stem.
+- **Treat parallel passages together.** Many laws appear in more than one place (e.g. Exodus 21, Leviticus 25 and Deuteronomy 15 on slaves), and both the rabbinic and the critical readings depend on how they fit.
+- **Mark what you did not verify**, and record corrections openly rather than silently rewriting.
+
+A worked example of the method, and the tools used, is described in `CLAUDE.md` under "Research and writing process".
