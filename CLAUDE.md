@@ -131,11 +131,31 @@ Testing rules learned the hard way:
 
 - **Plain, direct prose.** Verbatim quotations in `>` blocks with refs. Tables for side-by-side texts, dispute maps and claim ledgers.
 - **Put the verdict first**, then the evidence.
-- **Content language.** Verse files hold primary-source content (see Conventions). The `tmp/` drafts are written in English with Hebrew quotations.
+- **Content language.** Drafts and researched verse-file sections are written in English, with sources quoted in the original. Quote a Hebrew-only source (Malbim, Hoffmann, Cassuto, Abarbanel, MdRShbY) in Hebrew, never in your own translation. Quote English only where the text on Sefaria is itself a translation (Hirsch, Rashbam, Sifrei Devarim, Guggenheimer's Yerushalmi).
+- **No fluff.** Professional prose: no filler, no narration of the research process, no first person in verse files.
+
+### Writing into verse files
+
+The model is `2_Exodus/21_chapter/01–11_verse.md`, written from the two Ex 21:1–11 drafts. Only when the user asks, and as its own commit.
+
+- **Where things go.**
+  - *Masoretic Notes*: accents, ketiv/qere, paragraphing.
+  - *Textual Variants*: manuscript and version readings, marked "as reported" if not seen.
+  - *Language*: one opening line on where the counts come from; then *Words* and *Grammar and Syntax*. Notes on Onkelos, Rasag and Pseudo-Jonathan go here too, because the inject scripts overwrite everything under their own headers.
+  - *Septuagint* and *Vulgate*: the full verse, then notes. For the Greek use Brenton (1851, public domain; ebible.org/grcbrent) and note where Rahlfs differs. For the Latin use the Clementine Vulgate.
+  - *Structure*.
+  - *Rabbinic Interpretation*: tannaitic sources under *Midrash* and the Bavli and Yerushalmi under *Talmud*. Give each reading with its sources, then an *Assessment*. Put later commentators with the reading they defend or attack.
+  - *Halacha*: Mishnah → Talmud → Rambam → Shulchan Arukh, quoting the codes from the fetched text. Say what has not been checked (e.g. the Geonim).
+  - *Modern Scholarship*.
+  - *Cross-References*, with relative links to Torah verse files.
+- **Unit-level material** (how the tradition regarded its derivations; the table of a commentator's rules) goes on the unit's first verse. Material shared by several verses goes where it is used most, with links from the others.
+- **Do not carry draft claim numbers (G2.7 etc.) into verse files.** `tmp/` is not in the repository.
+- **Verify before inserting.** Write each verse as a draft with `@@ <header>` section markers, then run `scripts/research/verify_quotes.py` on it. It checks every Hebrew/Aramaic run of three or more words against `tmp/sources`, the drafts, the Tanakh JSON and the machine-populated parts of the verse files. Insert with `scripts/research/insert_verse_sections.py VERSE.md DRAFT.md`, which refuses non-empty sections, keeps the headers and checks links. English quotations must be checked by hand against the saved source.
+- **Re-check the draft while writing.** Writing the Ex 21 files turned up misattributions, wrong code references and English paraphrases presented as quotations. Record each one in the draft's changelog.
 
 ## Conventions
 
-- All text content is in Hebrew, Aramaic, or Arabic — this is a primary-source commentary, not a translation project.
+- Machine-populated content (Onkelos, Rasag, Targum Jerusalem, the commentary files) is primary-source text in Hebrew, Aramaic or Arabic. The project does not translate those texts. Researched sections are written in English and quote their sources in the original (see "Writing into verse files").
 - Commentary files use `##` for commentator names (Rashi, Ibn Ezra, etc.), not `###`.
 - Verse files use `##` for major sections and `###` for subsections.
 - Cite sources when adding content.
