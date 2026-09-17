@@ -20,7 +20,7 @@
 - [Chapter 18](18_chapter/README.md)
 - [Chapter 19](19_chapter/README.md)
 - [Chapter 20](20_chapter/README.md)
-- [Chapter 21](21_chapter/README.md)
+- [Chapter 21](21_chapter/README.md) — vv. 1–11 written (the Hebrew slave and maidservant)
 - [Chapter 22](22_chapter/README.md)
 - [Chapter 23](23_chapter/README.md)
 - [Chapter 24](24_chapter/README.md)

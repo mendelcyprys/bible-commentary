@@ -1,16 +1,18 @@
 # Exodus - Chapter 21
 
-- [Verse 1](01_verse.md)
-- [Verse 2](02_verse.md)
-- [Verse 3](03_verse.md)
-- [Verse 4](04_verse.md)
-- [Verse 5](05_verse.md)
-- [Verse 6](06_verse.md)
-- [Verse 7](07_verse.md)
-- [Verse 8](08_verse.md)
-- [Verse 9](09_verse.md)
-- [Verse 10](10_verse.md)
-- [Verse 11](11_verse.md)
+**Written: vv. 1–11**, the laws of the Hebrew slave and the Hebrew maidservant (a heading and two paragraphs, closed by *setumot* after vv. 6 and 11). Every template section is filled: the grammar is tested against the whole Tanakh, and each rabbinic reading is assessed against the text. The parallel laws in Lev 25:35–55 and Deut 15:12–18 are cited throughout but not yet written. vv. 12–37 are not yet written.
+
+- [Verse 1](01_verse.md) — heading of the laws; "before them"; how the tradition regarded its derivations; Malbim's rules of language, tested
+- [Verse 2](02_verse.md) — the Hebrew slave's six years; who may be sold; the three slave laws compared; Jeremiah 34
+- [Verse 3](03_verse.md) — "alone"; the slave's wife
+- [Verse 4](04_verse.md) — the bondwoman given by the master; the child follows the mother
+- [Verse 5](05_verse.md) — "I love my master"; the declaration and its preconditions
+- [Verse 6](06_verse.md) — brought to God (the judges); door and doorpost; "forever"
+- [Verse 7](07_verse.md) — the daughter sold as a maidservant; "not as the slaves go out"
+- [Verse 8](08_verse.md) — ketiv/qere לא/לו; designation; "a foreign people"
+- [Verse 9](09_verse.md) — designation to the son; "the rule for daughters"
+- [Verse 10](10_verse.md) — she'er, kesut and onah; the source of a wife's rights
+- [Verse 11](11_verse.md) — "these three"; release without money
 - [Verse 12](12_verse.md)
 - [Verse 13](13_verse.md)
 - [Verse 14](14_verse.md)

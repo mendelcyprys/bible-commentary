@@ -64,6 +64,12 @@ Academic and critical approaches.
 ### Cross-References
 Inner-biblical allusions, parallel passages, and significant intertextual connections.
 
+## Progress
+
+Written so far:
+
+- **Exodus 21:1–11**: the Hebrew slave and the Hebrew maidservant ([chapter index](2_Exodus/21_chapter/README.md)). This unit is the model for the depth and format of the rest.
+
 ## Project Structure
 
 ```
