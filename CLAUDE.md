@@ -13,8 +13,9 @@ Verse-by-verse open source commentary on the Torah (five books of Moses). 5,846 
 - `{N}_{Book}/{NN}_chapter/README.md` — chapter index linking to verses
 - `{N}_{Book}/README.md` — book index linking to chapters
 - `scripts/` — gitignored; Python scripts for template application and data injection; `scripts/research/` holds the research tools described below
-- `tmp/` — gitignored; source JSON files from Sefaria export, research drafts (`tmp/*_rabbinic_analysis.md`, `tmp/*_hebrew.md`), and fetched sources (`tmp/sources/`)
+- `tmp/` — gitignored; source JSON files from Sefaria export, research drafts (`tmp/*_rabbinic_analysis.md`, `tmp/*_hebrew.md`), and fetched sources (`tmp/sources/`). `tmp/leviticus_korbanot_source_sheet.md` is a concept-ordered source sheet on the laws of the offerings; it is built from a template by `tmp/sources/korbanot_sheet/build_sheet.py`, which pulls every quotation verbatim from the saved sources, and `make_html.py` in the same folder renders it as a web page.
 - `.venv/` — gitignored; Python 3.11 venv with Text-Fabric, for the BHSA corpus
+- `script.py` — gitignored one-off that first generated the book and chapter `README.md` indexes. **Do not run it.** It rewrites every index from scratch, which would erase the notes on written units (see "Update the indexes" below), and it numbers every file in a chapter folder as a verse, `_commentaries.md` files included. Edit the indexes by hand.
 
 Books: 1_Genesis, 2_Exodus, 3_Leviticus, 4_Numbers, 5_Deuteronomy.
 
@@ -45,12 +46,12 @@ All other template sections are empty and awaiting contribution.
 
 ## Scripts (in scripts/, gitignored)
 
-Run from project root with `python3 scripts/<name>.py`. All are idempotent.
+Run from project root with `python3 scripts/<name>.py`. All are idempotent: they fill only empty sections and missing files, and never overwrite.
 
-1. `apply_template.py` — applies the section template to bare verse files (skips files that already have `##` headers)
+1. `apply_template.py` — applies the section template to bare verse files (skips files that already have `##` headers). The template has no `### Targum Jerusalem` header.
 2. `inject_onkelos.py` — reads `tmp/Onkelos/*.json`, writes Aramaic text under `### Targum Onkelos`
 3. `inject_rasag.py` — reads `tmp/Tafsir Rasag - he - merged.json`, writes Judeo-Arabic + Arabic transliteration under `### Tafsir Rasag`
-4. `inject_commentaries.py` — reads `tmp/downloads/*.json`, creates `*_commentaries.md` files and links them from the main verse page
+4. `inject_commentaries.py` — reads `tmp/downloads/*.json`, creates `*_commentaries.md` files and links them from the main verse page. It also adds the `### Targum Jerusalem` header and text (before `### Septuagint`), which is why that header exists only on the ~840 verses that have the text.
 
 ## Rasag transliteration notes
 
@@ -89,7 +90,7 @@ This is how verse content is researched. The model case is Exodus 21:1–11: `tm
 - **Hebrew Tanakh for plain-text searches**: `tmp/sources/tanakh/tanakh_heb.json` (rebuild with `python3 scripts/research/sefaria_tanakh.py`). Helpers in `scripts/research/tanakh_text.py`: `verses()`, `cons()`, `pointed()`, `accents()`.
 - **ETCBC BHSA** — the whole Hebrew Bible tagged for grammar (stem, tense, person/gender/number, phrase function, clause type, ketiv/qere):
   - Loaded with Text-Fabric: `.venv/bin/python` + `from tf.app import use; A = use("ETCBC/bhsa", silent="deep")`. Data is in `~/text-fabric-data`.
-  - Examples in `scripts/research/bhsa_*.py`.
+  - Examples in `scripts/research/bhsa_*.py` (one query script per verse, e.g. `bhsa_ex21_8.py`). Run them with `.venv/bin/python`, not `python3`.
   - **Pitfall**: `F.lex.s(lex)` returns lexeme nodes as well as word nodes. Filter with `F.otype.v(n) == "word"`.
   - **Pitfall**: the article is a separate word (lex `H`).
   - Licence: CC BY-NC. Cite counts and parses; do not copy its data into this repo.
@@ -141,7 +142,7 @@ The model is `2_Exodus/21_chapter/01–11_verse.md`, written from the two Ex 21:
 - **Where things go.**
   - *Masoretic Notes*: accents, ketiv/qere, paragraphing.
   - *Textual Variants*: manuscript and version readings, marked "as reported" if not seen.
-  - *Language*: one opening line on where the counts come from; then *Words* and *Grammar and Syntax*. Notes on Onkelos, Rasag and Pseudo-Jonathan go here too, because the inject scripts overwrite everything under their own headers.
+  - *Language*: one opening line on where the counts come from; then *Words* and *Grammar and Syntax*. Notes on Onkelos, Rasag and Pseudo-Jonathan go here too. Never write under the machine-populated headers: `verify_quotes.py` treats those sections as source text, so a note placed there would verify itself.
   - *Septuagint* and *Vulgate*: the full verse, then notes. For the Greek use Brenton (1851, public domain; ebible.org/grcbrent) and note where Rahlfs differs. For the Latin use the Clementine Vulgate.
   - *Structure*.
   - *Rabbinic Interpretation*: tannaitic sources under *Midrash* and the Bavli and Yerushalmi under *Talmud*. Give each reading with its sources, then an *Assessment*. Put later commentators with the reading they defend or attack.
@@ -150,7 +151,8 @@ The model is `2_Exodus/21_chapter/01–11_verse.md`, written from the two Ex 21:
   - *Cross-References*, with relative links to Torah verse files.
 - **Unit-level material** (how the tradition regarded its derivations; the table of a commentator's rules) goes on the unit's first verse. Material shared by several verses goes where it is used most, with links from the others.
 - **Do not carry draft claim numbers (G2.7 etc.) into verse files.** `tmp/` is not in the repository.
-- **Verify before inserting.** Write each verse as a draft with `@@ <header>` section markers, then run `scripts/research/verify_quotes.py` on it. It checks every Hebrew/Aramaic run of three or more words against `tmp/sources`, the drafts, the Tanakh JSON and the machine-populated parts of the verse files. Insert with `scripts/research/insert_verse_sections.py VERSE.md DRAFT.md`, which refuses non-empty sections, keeps the headers and checks links. English quotations must be checked by hand against the saved source.
+- **Verify before inserting.** Write each verse as a draft with `@@ <header>` section markers, then run `scripts/research/verify_quotes.py` on it. It checks every Hebrew/Aramaic run of three or more words against `tmp/sources`, the drafts, the Tanakh JSON and the machine-populated parts of the verse files. Because the `tmp/*.md` drafts are part of that corpus, a quote found only in a draft has not been checked against a source; save the source under `tmp/sources/` first. Insert with `scripts/research/insert_verse_sections.py VERSE.md DRAFT.md` (add `--dry` to print the result without writing), which refuses non-empty sections, keeps the headers and checks links. English quotations must be checked by hand against the saved source. Both scripts hardcode the project's absolute path as `ROOT`.
+- **Update the indexes.** Once a unit is written, note it in the chapter `README.md` (a summary line, then a short description after each written verse's link), in the book `README.md` (after the chapter link) and under *Progress* in the root `README.md`. Exodus 21 is the model.
 - **Re-check the draft while writing.** Writing the Ex 21 files turned up misattributions, wrong code references and English paraphrases presented as quotations. Record each one in the draft's changelog.
 
 ## Conventions
